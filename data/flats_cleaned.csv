@@ -1,0 +1,944 @@
+,Price,SurfaceArea,ApartmentType,YearBuilt,ApartmentSetting,FloorNumber,TotalFloorsInBuilding,YearRenovated,BalconyTerraceAtrium,Furniture,ParkingSpots,EnergyClass,Region,District,Neighborhood
+0,169900,67,2-sobno,1961,V večstanovanjski stavbi,2.,2,2020,Balkon,,,,Gorenjska, Jesenice, Slovenski Javornik
+1,147000,72,3-sobno,1890,V večstanovanjski stavbi,Mansarda,2,2022,,Popolnoma opremljeno,2,,Gorenjska, Tržič, Slap
+2,112500,47,2-sobno,1963,V večstanovanjski stavbi,5.,5,0,,,,F (150 - 210 kWh/m2a),Podravska, Maribor, Center
+3,148000,109,2-sobno,1978,V večstanovanjski stavbi,,0,0,,,,,Podravska, Maribor, Radvanje
+4,178000,85,,1988,V večstanovanjski stavbi,3.,3,2012,,,,,Savinjska, Celje, Celje
+5,137000,60,,1949,V večstanovanjski stavbi,,0,0,,,,,Savinjska, Celje, Celje
+6,125000,59,,1986,V večstanovanjski stavbi,4.,4,0,,,,,Savinjska, Celje, Celje
+7,295000,75,3-sobno,1977,V večstanovanjski stavbi,,4,2015,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+8,115000,52,2-sobno,1980,,,8,2012,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Radvanje
+9,175000,38,"1,5-sobno",1960,V večstanovanjski stavbi,,0,2010,Balkon,,brez pripadajočega parkirišča,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Polje
+10,157000,58,2-sobno,1973,V večstanovanjski stavbi,4.,4,2018,,Popolnoma opremljeno,,,Goriška, Nova Gorica, Nova Gorica
+11,89000,43,,1978,V večstanovanjski stavbi,3.,4,0,,,,,Podravska, Maribor, Pobrežje
+12,149417,53,2-sobno,2024,,1.,5,0,Loža,,,B (26 do 50 kWh/m2a) - HR,Podravska, Maribor, Studenci
+13,212125,135,4-sobno,2024,,Pritličje,5,0,Atrij,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+14,255985,196,4-sobno,2024,V večstanovanjski stavbi,2.,5,0,Terasa,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+15,217360,88,4-sobno,2024,V večstanovanjski stavbi,3.,5,0,Loža,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+16,169944,60,"2,5-sobno",2024,V večstanovanjski stavbi,1.,5,0,Loža,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+17,143787,52,3-sobno,2024,V večstanovanjski stavbi,1.,5,0,Loža,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+18,229478,161,4-sobno,2024,V večstanovanjski stavbi,Pritličje,5,0,Atrij,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+19,148992,53,2-sobno,2024,V večstanovanjski stavbi,1.,5,0,Atrij,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+20,208126,80,3-sobno,2024,V večstanovanjski stavbi,4.,5,0,Loža,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+21,189000,87,2-sobno,1959,V večstanovanjski stavbi,1.,2,2017,Balkon,Popolnoma opremljeno,1,,Podravska, Maribor, Studenci
+22,101000,62,"2,5-sobno",1962,V večstanovanjski stavbi,4.,0,0,Balkon,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Dečkovo polje
+23,230000,137,6 in večsobno,1999,V večstanovanjski stavbi,,3,0,Balkon,Delno opremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Podravska, Maribor, Pobrežje
+24,139000,47,2-sobno,1955,V večstanovanjski stavbi,,0,2018,,Delno opremljeno,1,EI v izdelavi,Podravska, Maribor, Tabor
+25,166500,62,3-sobno,1968,V večstanovanjski stavbi,7.,9,2021,Balkon,Popolnoma opremljeno,2,D (60 - 105 kWh/m2a),Podravska, Maribor, Magdalena
+26,80800,30,1-sobno,1974,V večstanovanjski stavbi,4.,0,2012,Balkon,,,,Obalno-kraška, Sežana, Sežana
+27,198000,60,3-sobno,1999,V večstanovanjski stavbi,Pritličje,2,2020,"Terasa, Atrij",Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Pobrežje
+28,250000,81,4-sobno,1962,,1.,4,0,,,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Kolezija
+30,169000,66,3-sobno,1967,V večstanovanjski stavbi,4.,4,2014,,,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Studenci
+31,395000,0,2-sobno,1989,,,0,0,,,1,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Zupančičeva jama
+32,133000,84,"3,5-sobno",1989,,4.,4,0,,,,,Podravska, Ptuj, Ptuj
+33,165300,66,2-sobno,2010,V večstanovanjski stavbi,3.,3,0,Balkon,,2,,Savinjska, Vojnik, Vojnik
+34,149000,88,3-sobno,2007,V večstanovanjski stavbi,3.,3,0,,Popolnoma opremljeno,,,Podravska, Duplek, Spodnji Duplek
+35,87000,35,1-sobno,0,,4.,0,0,,,,,Podravska, Maribor, Tezno
+36,132000,56,2-sobno,1968,V večstanovanjski stavbi,3.,4,2022,,Delno opremljeno,,EI v izdelavi,Podravska, Maribor, Tezno
+37,210000,76,3-sobno,1964,V večstanovanjski stavbi,2.,4,2014,"Balkon, Zaprt balkon",Popolnoma opremljeno,1,EI v izdelavi,Savinjska, Celje, Center
+38,235819,67,3-sobno,2021,V večstanovanjski stavbi,Pritličje,3,0,"Terasa, Loža, Atrij",,,B1 (15 - 25 kWh/m2a),Podravska, Maribor, Studenci
+39,229320,71,2-sobno,2022,V večstanovanjski stavbi,Pritličje,3,0,"Terasa, Atrij",Neopremljeno,,B1 (15 - 25 kWh/m2a),Podravska, Maribor, Studenci
+40,259790,59,"2,5-sobno",2022,V večstanovanjski stavbi,1.,3,0,"Balkon, Terasa, Atrij",Delno opremljeno,,B1 (15 - 25 kWh/m2a),Podravska, Maribor, Radvanje
+41,199206,57,2-sobno,2022,V večstanovanjski stavbi,1.,4,0,"Terasa, Loža, Atrij",Delno opremljeno,,B1 (15 - 25 kWh/m2a),Podravska, Maribor, Studenci
+42,109900,61,2-sobno,1977,V večstanovanjski stavbi,4.,5,2019,,,2,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+43,159000,83,,2012,V večstanovanjski stavbi,2.,7,0,,,,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+44,109000,28,,1960,V večstanovanjski stavbi,2.,2,2019,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Bizovik
+45,105000,80,3-sobno,1972,V večstanovanjski stavbi,1.,2,2013,,,,,Podravska, Maribor okolica, Razvanje
+46,168900,82,4-sobno,1971,,Visoko pritličje,0,0,Zaprt balkon,,,,Podravska, Maribor, Magdalena
+47,89000,39,1-sobno,1970,V večstanovanjski stavbi,Visoko pritličje,5,2018,,,,,Podravska, Maribor, Tabor
+48,155000,95,4-sobno,1996,V večstanovanjski stavbi,1.,2,2018,,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Kamnica
+49,89000,43,1-sobno,1978,V večstanovanjski stavbi,3.,4,0,,Delno opremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Pobrežje
+50,198000,62,3-sobno,1999,V večstanovanjski stavbi,,0,0,Atrij,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Pobrežje
+51,130000,72,3-sobno,1960,V večstanovanjski stavbi,3.,4,0,,Neopremljeno,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+52,218000,93,"2,5-sobno",1938,,3.,0,2017,,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Center
+53,374830,118,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+54,255536,79,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+55,222000,71,"3,5-sobno",1948,V večstanovanjski stavbi,2.,2,2011,Balkon,Delno opremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Gorenjska, Kranj, Kranj
+56,149900,73,3-sobno,1945,V večstanovanjski stavbi,Visoko pritličje,5,2010,,,,EI v izdelavi,Podravska, Maribor, Center
+57,133686,0,2-sobno,0,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+58,70000,31,1-sobno,1935,,,0,2021,,,,,Podravska, Maribor, Pobrežje
+59,135000,60,2-sobno,1990,V večstanovanjski stavbi,1.,2,2019,Balkon,Popolnoma opremljeno,2,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+61,127000,50,2-sobno,2006,V večstanovanjski stavbi,Pritličje,3,0,Atrij,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Pobrežje
+62,75250,28,Garsonjera,2006,V večstanovanjski stavbi,Pritličje,3,0,Atrij,Delno opremljeno,,,Podravska, Maribor, Pobrežje
+63,75000,31,Garsonjera,2006,V večstanovanjski stavbi,1.,3,0,Balkon,,,,Podravska, Maribor, Pobrežje
+64,275000,61,2-sobno,0,V večstanovanjski stavbi,Pritličje,4,0,,,,,Obalno-kraška, Piran, Lucija
+65,460000,110,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+67,277244,88,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+68,460000,110,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+69,298000,71,3-sobno,1982,,,0,0,Balkon,,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+70,218767,68,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+72,394000,75,3-sobno,2012,V večstanovanjski stavbi,,0,0,Zaprt balkon,Delno opremljeno,1,,Osrednjeslovenska, Ljubljana Center, Center
+74,446000,96,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+75,311874,101,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+76,480000,110,4-sobno,2021,V hiši,,2,0,"Balkon, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+77,469000,95,4-sobno,2021,V hiši,,1,0,"Balkon, Atrij, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+78,480000,110,4-sobno,2021,V hiši,,2,0,"Balkon, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+79,460000,95,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+80,470000,70,2-sobno,1921,,,5,2004,Balkon,,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+81,156019,41,1-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+84,449000,95,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+85,471000,95,4-sobno,2021,V hiši,,1,0,"Balkon, Atrij, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+90,485000,110,4-sobno,1895,V večstanovanjski stavbi,,3,2011,,Popolnoma opremljeno,2,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+91,239000,56,"2,5-sobno",1959,V večstanovanjski stavbi,,0,0,Terasa,Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+94,480000,110,4-sobno,2021,V hiši,,2,0,"Balkon, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+95,303554,102,6 in večsobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+96,394000,75,3-sobno,2012,V večstanovanjski stavbi,,0,0,Zaprt balkon,Delno opremljeno,1,,Osrednjeslovenska, Ljubljana Center, Center
+97,480000,95,4-sobno,2021,V hiši,,1,0,"Balkon, Atrij, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+98,445000,95,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+99,451000,95,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+100,354847,107,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+101,300000,80,3-sobno,2010,V hiši,,2,0,Balkon,Delno opremljeno,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+102,400000,94,3-sobno,0,V večstanovanjski stavbi,,0,2005,,Delno opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Center, Center
+103,471000,95,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+105,480000,110,4-sobno,2021,V večstanovanjski stavbi,,2,0,,,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+107,468000,96,4-sobno,2021,V večstanovanjski stavbi,,2,0,"Balkon, Atrij",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+108,465000,95,4-sobno,2021,V hiši,,1,0,"Balkon, Atrij, Terasa",Neopremljeno,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+109,156019,41,1-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+112,399000,131,6 in večsobno,1895,,,3,0,,Delno opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Center, Center
+113,460000,110,4-sobno,2021,V večstanovanjski stavbi,,2,0,,,2,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šmartno pod Šmarno goro
+114,76500,66,1-sobno,1860,V večstanovanjski stavbi,1.,0,0,Balkon,,,,Savinjska, Celje, Savinja
+115,104000,52,2-sobno,1897,V večstanovanjski stavbi,1.,1,2017,Balkon,,1,G (250 do 1000 kWh/m2a) - HR,Podravska, Maribor, Center
+116,192000,51,2-sobno,2007,V večstanovanjski stavbi,Pritličje,4,0,Atrij,Popolnoma opremljeno,1,D (60 - 105 kWh/m2a),Gorenjska, Kranj, Kranj
+118,89900,44,1-sobno,1984,V večstanovanjski stavbi,,0,0,,,,,Podravska, Maribor, Nova Vas
+119,315000,76,3-sobno,2023,V večstanovanjski stavbi,1.,2,0,Balkon,,2,,Gorenjska, Kranj, Kranj
+120,327000,84,4-sobno,2023,V večstanovanjski stavbi,1.,2,0,Balkon,,2,,Gorenjska, Kranj, Kranj
+121,223000,48,1-sobno,2023,V večstanovanjski stavbi,1.,2,0,Balkon,,1,,Gorenjska, Kranj, Kranj
+122,272500,62,2-sobno,2023,V večstanovanjski stavbi,Pritličje,2,0,Atrij,,2,,Gorenjska, Kranj, Kranj
+124,150000,80,"3,5-sobno",1976,V večstanovanjski stavbi,4.,6,0,Balkon,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Magdalena
+125,234000,91,4-sobno,2010,V večstanovanjski stavbi,6.,0,0,Loža,,1,C (51 do 100 kWh/m2a) - HR,Podravska, Maribor, Tabor
+126,92000,50,2-sobno,1964,,3.,4,2022,Balkon,,,,Podravska, Maribor, Ostalo
+127,395000,150,5-sobno,1979,V hiši,,1,2019,"Terasa, Atrij",,,,Gorenjska, Kranj, Kranj
+128,235000,163,5-sobno,1852,V večstanovanjski stavbi,1.,2,0,"Balkon, Zaprt balkon",Delno opremljeno,,,Gorenjska, Tržič, Tržič
+129,44300,49,2-sobno,0,V večstanovanjski stavbi,1.,1,0,Terasa,,7+,,Savinjska, Celje, Center
+130,122000,52,2-sobno,1967,V večstanovanjski stavbi,2.,5,0,,Popolnoma opremljeno,,,Podravska, Maribor, Radvanje
+131,219000,50,2-sobno,1963,V večstanovanjski stavbi,Visoko pritličje,5,2019,Zaprt balkon,Popolnoma opremljeno,2,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+132,156000,68,"2,5-sobno",1960,V večstanovanjski stavbi,2.,6,2015,Balkon,Popolnoma opremljeno,1,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Tabor
+133,83000,0,3-sobno,1917,V večstanovanjski stavbi,3.,3,2015,,,,,Gorenjska, Tržič, Bistrica pri Tržiču
+134,180000,51,3-sobno,1972,V večstanovanjski stavbi,5.,5,2007,Terasa,Popolnoma opremljeno,1,EI v izdelavi,Obalno-kraška, Piran, Lucija
+136,75990,36,1-sobno,1969,V večstanovanjski stavbi,2.,5,2014,,Delno opremljeno,,EI v izdelavi,Podravska, Maribor, Tabor
+137,195000,100,"3,5-sobno",1979,V večstanovanjski stavbi,8.,8,0,,,,EI v izdelavi,Podravska, Maribor, Tabor
+138,128000,57,"2,5-sobno",1965,V večstanovanjski stavbi,3.,12,2012,Balkon,,,,Savinjska, Celje, Gaberje
+140,235000,69,4-sobno,1997,V večstanovanjski stavbi,1.,3,2018,"Balkon, Loža",Popolnoma opremljeno,2,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Medvode, Medvode
+141,310000,50,3-sobno,1900,V večstanovanjski stavbi,3.,0,2016,,,,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Piran, Piran
+142,120000,56,2-sobno,1978,V večstanovanjski stavbi,3.,4,2016,Balkon,Delno opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Pobrežje
+143,120000,60,2-sobno,1975,V večstanovanjski stavbi,4.,5,2014,Balkon,Popolnoma opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Pobrežje
+144,329000,81,4-sobno,2012,V večstanovanjski stavbi,3.,4,0,Loža,Popolnoma opremljeno,1,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Domžale, Zgornje Jarše
+145,110000,84,2-sobno,0,V večstanovanjski stavbi,Visoko pritličje,1,0,Balkon,,,,Podravska, Kidričevo, Kidričevo
+146,165000,28,1-sobno,1971,V večstanovanjski stavbi,3.,3,2012,,,,,Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+147,195000,68,3-sobno,1909,V večstanovanjski stavbi,1.,4,2021,,Delno opremljeno,1,EI v izdelavi,Podravska, Maribor, Center
+148,150000,45,2-sobno,1981,V večstanovanjski stavbi,1.,4,2014,,,,,Gorenjska, Škofja Loka, Škofja Loka
+149,298000,73,3-sobno,1980,V večstanovanjski stavbi,,21,0,"Balkon, Zaprt balkon",Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+150,215000,93,3-sobno,2009,V večstanovanjski stavbi,2.,2,2021,Balkon,Popolnoma opremljeno,,,Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+151,90000,22,Garsonjera,0,V večstanovanjski stavbi,1.,0,2019,,,,,Gorenjska, Kranj, Kranj
+152,154000,51,2-sobno,1966,V večstanovanjski stavbi,5.,5,2017,,Popolnoma opremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Savinjska, Celje, Slavko Šlander
+153,105000,69,"2,5-sobno",1930,V večstanovanjski stavbi,Pritličje,0,2013,Atrij,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Podravska, Slovenska Bistrica, Slovenska Bistrica
+154,244338,201,"3,5-sobno",2023,,Pritličje,3,0,Atrij,,,,Podravska, Maribor, Pobrežje
+155,240900,265,4-sobno,2023,,Pritličje,3,0,Atrij,,,,Podravska, Maribor, Pobrežje
+156,153057,221,2-sobno,2023,V večstanovanjski stavbi,Pritličje,3,0,"Balkon, Atrij",,,,Podravska, Maribor, Pobrežje
+157,265950,136,3-sobno,2023,,3.,3,0,Terasa,,,,Podravska, Maribor, Pobrežje
+158,330000,82,3-sobno,2020,V večstanovanjski stavbi,Pritličje,2,0,Balkon,Delno opremljeno,1,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+159,46000,39,Garsonjera,1963,V večstanovanjski stavbi,1.,3,0,,Popolnoma opremljeno,,,Podravska, Šentilj v Slovenskih goricah, Sladki Vrh
+160,171000,0,2-sobno,1920,,,0,0,,,,,Savinjska, Celje, Celje
+161,127000,0,2-sobno,1964,,,0,0,,,,,Savinjska, Celje, Celje
+162,200000,79,2-sobno,2001,V večstanovanjski stavbi,4.,6,2020,,Delno opremljeno,1,,Podravska, Maribor, Center
+163,94500,50,,1968,V večstanovanjski stavbi,,0,0,,,,,Podravska, Ptuj, Ptuj
+164,124990,80,4-sobno,1837,V hiši,Visoko pritličje,1,1988,,Popolnoma opremljeno,,EI v izdelavi,Koroška, Prevalje, Zagrad
+165,149000,30,Garsonjera,1973,V večstanovanjski stavbi,5.,5,2019,Terasa,Popolnoma opremljeno,,,Obalno-kraška, Piran, Lucija
+166,114900,54,2-sobno,1965,V večstanovanjski stavbi,4.,4,2011,,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tabor
+167,84999,36,1-sobno,1976,V večstanovanjski stavbi,7.,12,2019,,Popolnoma opremljeno,,,Savinjska, Celje, Dolgo polje
+168,162000,45,2-sobno,1961,V večstanovanjski stavbi,2.,4,2011,Balkon,,,,Gorenjska, Kranj, Kranj
+170,149900,73,4-sobno,1945,V večstanovanjski stavbi,Visoko pritličje,5,2000,,Popolnoma opremljeno,1,EI v izdelavi,Podravska, Maribor, Center
+171,165000,70,3-sobno,1979,V večstanovanjski stavbi,1.,8,2021,Balkon,Delno opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Nova Vas
+172,160000,102,"4,5-sobno",1979,V večstanovanjski stavbi,4.,4,2012,Balkon,Popolnoma opremljeno,2,C (35 - 60 kWh/m2a),Podravska, Ptuj, Ptuj
+173,280000,105,3-sobno,2008,V večstanovanjski stavbi,2.,3,0,Zaprt balkon,,,,Podravska, Maribor, Koroška vrata
+174,199000,79,Drugo,1960,V večstanovanjski stavbi,Pritličje,10,2022,,Delno opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Podravska, Maribor, Koroška vrata
+175,99000,0,2-sobno,1974,,,6,0,,,,,Podravska, Ptuj, Ptuj
+176,268000,66,3-sobno,1968,V večstanovanjski stavbi,8.,12,2005,Balkon,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+178,233000,76,3-sobno,1982,V večstanovanjski stavbi,3.,4,2016,"Balkon, Zaprt balkon",Popolnoma opremljeno,,,Obalno-kraška, Kozina, Hrpelje
+179,92000,27,Garsonjera,1997,V večstanovanjski stavbi,2.,2,0,Balkon,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Trzin, Trzin
+180,199000,59,,1941,V večstanovanjski stavbi,1.,3,2005,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Savsko naselje
+181,75000,68,2-sobno,1967,,,0,0,,,,EI v izdelavi,Podravska, Maribor, Center
+182,291000,82,,1955,V večstanovanjski stavbi,,2,2008,,Delno opremljeno,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+183,150000,58,2-sobno,1970,V večstanovanjski stavbi,Visoko pritličje,4,0,Zaprt balkon,Delno opremljeno,,,Goriška, Nova Gorica, Nova Gorica
+184,197000,68,"2,5-sobno",1966,V večstanovanjski stavbi,4.,4,2021,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Polje
+185,275000,101,3-sobno,1869,V večstanovanjski stavbi,1.,2,2022,Balkon,Neopremljeno,,,Podravska, Maribor, Melje
+186,189888,78,2-sobno,0,V večstanovanjski stavbi,1.,2,2009,"Balkon, Zaprt balkon",Popolnoma opremljeno,2,D (60 - 105 kWh/m2a),Savinjska, Žalec, Žalec
+187,89113,38,Garsonjera,2010,V večstanovanjski stavbi,5.,5,2022,Loža,,,,Podravska, Hoče, Hočko Pohorje
+188,138000,64,"2,5-sobno",1938,V večstanovanjski stavbi,1.,4,2022,,Popolnoma opremljeno,1,,Podravska, Maribor, Center
+189,114900,60,2-sobno,1990,V večstanovanjski stavbi,5.,7,0,"Balkon, Loža",Delno opremljeno,2,EI v izdelavi,Podravska, Maribor, Borova vas
+190,97000,0,2-sobno,1981,,,0,0,,,,C (35 - 60 kWh/m2a),Koroška, Slovenj Gradec, Slovenj Gradec
+191,299000,0,3-sobno,1900,,,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+192,188000,93,3-sobno,1964,V večstanovanjski stavbi,3.,3,2018,"Balkon, Zaprt balkon",Popolnoma opremljeno,2,,Podravska, Maribor, Tezno
+194,123800,44,2-sobno,2018,V večstanovanjski stavbi,2.,3,0,,Popolnoma opremljeno,1,B2 (25 - 35 kWh/m2a),Podravska, Rače, Rače
+195,375000,65,2-sobno,2014,,6.,10,0,,,,A1 (0 - 10 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+196,115000,73,2-sobno,1954,V večstanovanjski stavbi,1.,0,2009,Balkon,,2,C (35 - 60 kWh/m2a),Podravska, Ptuj, Ptuj
+197,196000,73,"2,5-sobno",1976,V večstanovanjski stavbi,2.,6,2016,Loža,Delno opremljeno,,EI v izdelavi,Podravska, Maribor, Koroška vrata
+198,312000,52,2-sobno,1962,V večstanovanjski stavbi,12.,12,2012,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Center, Center
+199,150000,45,"2,5-sobno",1962,V večstanovanjski stavbi,4.,5,2017,Balkon,Popolnoma opremljeno,2,,Savinjska, Celje, Kajuh
+200,180000,94,4-sobno,1600,V večstanovanjski stavbi,1.,1,2017,Balkon,Popolnoma opremljeno,2,,Podravska, Maribor, Center
+201,280000,72,3-sobno,1950,,1.,3,2014,,,,,Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+202,195000,49,"2,5-sobno",1997,V večstanovanjski stavbi,2.,2,0,Balkon,Popolnoma opremljeno,,D (101 do 150 kWh/m2a) - HR,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+204,310000,0,3-sobno,1936,,,2,0,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+205,60000,46,2-sobno,1950,V večstanovanjski stavbi,1.,2,2015,Balkon,Delno opremljeno,,,Savinjska, Rogatec, Rogatec
+206,189000,84,"4,5-sobno",1974,V večstanovanjski stavbi,3.,7,2019,Balkon,,,,Podravska, Maribor, Tabor
+207,74400,76,2-sobno,1870,V večstanovanjski stavbi,1.,3,1970,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Magdalena
+208,65900,45,1-sobno,1870,V večstanovanjski stavbi,2.,3,1970,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+209,102900,63,3-sobno,1960,V večstanovanjski stavbi,3.,3,2018,Balkon,Delno opremljeno,,C (35 - 60 kWh/m2a),Pomurska, Gornja Radgona, Gornja Radgona
+210,90000,82,4-sobno,1970,V hiši,,0,2018,Balkon,Neopremljeno,,,Podravska, Maribor okolica, Razvanje
+211,92000,40,"1,5-sobno",1991,,1.,4,2009,Balkon,,,,Podravska, Ptuj, Ptuj
+212,250000,56,3-sobno,1960,,1.,13,2022,,,,,Osrednjeslovenska, Ljubljana Center, Center
+213,79000,62,3-sobno,1960,V večstanovanjski stavbi,3.,3,2005,"Balkon, Zaprt balkon",,2,Ni možno izdati,Podravska, Juršinci, Juršinci
+214,250000,81,4-sobno,1962,,1.,3,0,,,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+215,185972,56,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+216,255536,79,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+217,316916,101,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+218,353995,107,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+219,154613,41,1-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,1,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+220,380745,118,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,3,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+221,349309,107,4-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+222,288075,88,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+223,223859,68,3-sobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+224,303554,102,6 in večsobno,0,V večstanovanjski stavbi,,3,0,"Balkon, Atrij, Terasa",,2,B1 (15 - 25 kWh/m2a),Savinjska, Vransko, Vransko
+225,202000,60,"2,5-sobno",2010,V večstanovanjski stavbi,2.,4,2018,Balkon,Popolnoma opremljeno,1,EI v izdelavi,Savinjska, Celje, Nova vas
+226,124000,53,3-sobno,1988,,8.,0,2018,,,,EI v izdelavi,Podravska, Maribor, Tezno
+227,169000,79,3-sobno,1900,V večstanovanjski stavbi,Pritličje,0,0,,Popolnoma opremljeno,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+228,85000,52,2-sobno,1966,,Pritličje,0,2020,,,2,D (60 - 105 kWh/m2a),Posavska, Brežice, Dobova
+229,135000,77,"2,5-sobno",1890,V večstanovanjski stavbi,4.,4,2009,Balkon,Delno opremljeno,,,Podravska, Maribor, Tabor
+230,56500,19,Garsonjera,1959,V večstanovanjski stavbi,6.,16,2020,,Delno opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+231,58000,65,2-sobno,1960,V večstanovanjski stavbi,2.,3,2015,Balkon,Popolnoma opremljeno,2,EI ni potrebna (334. člen EZ-1),Savinjska, Zreče, Planina na Pohorju
+232,118000,52,2-sobno,1963,V večstanovanjski stavbi,3.,4,2018,Balkon,Popolnoma opremljeno,,,Podravska, Maribor, Pobrežje
+233,175000,0,3-sobno,1957,,,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Celje
+234,141250,0,2-sobno,2008,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Slovenska Bistrica, Slovenska Bistrica
+235,95000,0,2-sobno,1964,,,0,0,,,,,Savinjska, Celje, Celje
+236,178000,49,2-sobno,2005,V večstanovanjski stavbi,1.,2,0,Zaprt balkon,Popolnoma opremljeno,1,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ig, Ig
+237,156000,94,"4,5-sobno",1977,V večstanovanjski stavbi,5.,5,2017,,Delno opremljeno,2,EI v izdelavi,Osrednjeslovenska, Litija, Litija
+238,160000,65,"2,5-sobno",1991,V večstanovanjski stavbi,4.,4,2013,Balkon,Popolnoma opremljeno,,,Podravska, Maribor, Borštnikova ul.
+239,265000,103,3-sobno,1954,V večstanovanjski stavbi,2.,2,2011,Balkon,,,,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+240,31500,25,Garsonjera,1915,V večstanovanjski stavbi,Pritličje,1,2012,,Delno opremljeno,1,EI ni potrebna (334. člen EZ-1),Podravska, Slovenska Bistrica, Slovenska Bistrica
+241,90000,59,3-sobno,1988,V večstanovanjski stavbi,1.,3,2017,"Balkon, Zaprt balkon",Popolnoma opremljeno,,,Podravska, Poljčane, Poljčane
+244,119900,60,2-sobno,0,V večstanovanjski stavbi,Pritličje,1,0,,,1,A1 (0 - 10 kWh/m2a),Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+245,103000,65,3-sobno,1975,V večstanovanjski stavbi,2.,4,2019,Balkon,Popolnoma opremljeno,2,B1 (15 - 25 kWh/m2a),Podravska, Ormož, Hardek
+246,48000,51,2-sobno,1874,V večstanovanjski stavbi,1.,2,2004,Balkon,Neopremljeno,brez pripadajočega parkirišča,,Zasavska, Trbovlje, Trbovlje
+247,239000,118,6 in večsobno,1910,V večstanovanjski stavbi,1.,2,2016,,,,EI v izdelavi,Podravska, Maribor, Koroška vrata
+248,259000,68,"2,5-sobno",1963,V večstanovanjski stavbi,4.,4,2020,Balkon,Delno opremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Rožna dolina
+249,109000,63,"2,5-sobno",1959,,3.,0,2000,Balkon,Delno opremljeno,,,Podravska, Ptuj, Ptuj
+250,139000,54,2-sobno,1995,V večstanovanjski stavbi,2.,2,0,,,1,,Podravska, Maribor, Radvanje
+251,290000,137,4-sobno,1780,V večstanovanjski stavbi,2.,2,2017,Balkon,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Center
+252,87000,36,1-sobno,1976,V večstanovanjski stavbi,5.,5,2020,,Neopremljeno,1,,Podravska, Maribor, Tabor
+253,105000,18,Garsonjera,1959,V večstanovanjski stavbi,,0,0,,,brez pripadajočega parkirišča,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Šiška
+254,113000,79,,1964,V večstanovanjski stavbi,,0,1997,,,,,Jugovzhodna Slovenija, Trebnje, Mirna
+255,72000,24,Garsonjera,1900,V večstanovanjski stavbi,1.,20,2010,,Popolnoma opremljeno,,,Podravska, Maribor, Center
+256,137000,75,"3,5-sobno",1958,V večstanovanjski stavbi,,5,2015,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Podravska, Maribor, Koroška vrata
+257,69999,42,1-sobno,1950,V večstanovanjski stavbi,4.,4,0,,Popolnoma opremljeno,,,Podravska, Kidričevo, Kidričevo
+258,80000,43,1-sobno,0,,2.,5,0,Balkon,,,,Podravska, Maribor, Tabor
+259,139000,0,"2,5-sobno",0,,,0,0,,,,,Podravska, Maribor, Radvanje
+260,259000,127,3-sobno,1910,V večstanovanjski stavbi,2.,2,2012,,Popolnoma opremljeno,,,Podravska, Maribor, Center
+261,297000,61,3-sobno,1900,V večstanovanjski stavbi,4.,0,1994,,,,,Obalno-kraška, Piran, Piran
+262,163000,0,"2,5-sobno",1910,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Studenci
+263,120000,60,2-sobno,1948,V večstanovanjski stavbi,,2,0,Balkon,,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Tezno
+264,140000,46,2-sobno,1960,,,0,0,,,,G (210+ kWh/m2a),Goriška, Nova Gorica, Nova Gorica
+265,115000,72,2-sobno,1900,V večstanovanjski stavbi,2.,2,2015,,Neopremljeno,,,Podravska, Maribor, Center
+266,154900,75,3-sobno,1980,V večstanovanjski stavbi,6.,8,0,,Popolnoma opremljeno,,B1 (15 - 25 kWh/m2a),Podravska, Maribor, Betnava
+268,280404,39,Garsonjera,2023,V večstanovanjski stavbi,1.,3,0,"Balkon, Terasa, Loža",Neopremljeno,,EI v izdelavi,Osrednjeslovenska, Ljubljana Vič Rudnik, Rudnik
+269,328116,52,3-sobno,2023,V večstanovanjski stavbi,1.,3,0,"Balkon, Terasa, Loža",Neopremljeno,,EI v izdelavi,Osrednjeslovenska, Ljubljana Vič Rudnik, Rudnik
+271,119000,51,Drugo,1905,V večstanovanjski stavbi,2.,2,2015,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+272,273000,80,3-sobno,2012,,,3,0,Balkon,Delno opremljeno,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Škofljica, Lavrica
+273,95400,0,2-sobno,1959,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Savinjska, Šmartno ob Paki, Šmartno ob Paki
+274,398000,0,4-sobno,2010,,,0,0,,,,,Obalno-kraška, Koper, Koper
+275,53000,41,1-sobno,1900,,1.,0,2018,,,,,Podravska, Maribor, Studenci
+276,168000,73,3-sobno,1979,V večstanovanjski stavbi,1.,5,0,Zaprt balkon,Popolnoma opremljeno,3,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Nova Vas
+277,138000,60,2-sobno,1965,V večstanovanjski stavbi,Pritličje,0,2016,Terasa,Delno opremljeno,,,Primorsko-notranjska, Postojna, Postojna
+278,165000,62,2-sobno,2012,V večstanovanjski stavbi,2.,2,2022,Balkon,Popolnoma opremljeno,1,,Podravska, Maribor, Košaki
+279,170000,131,5-sobno,1900,V večstanovanjski stavbi,1.,1,2000,Atrij,Neopremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+280,229000,36,1-sobno,1920,V večstanovanjski stavbi,2.,4,2010,,,,,Obalno-kraška, Piran, Piran
+281,199000,52,2-sobno,2022,V večstanovanjski stavbi,3.,5,0,Balkon,Popolnoma opremljeno,1,A2 (10 - 15 kWh/m2a),Podravska, Maribor, Nova Vas
+282,249000,79,3-sobno,1952,V večstanovanjski stavbi,2.,3,2010,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+283,260000,81,3-sobno,1981,V večstanovanjski stavbi,14.,0,0,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+284,214990,71,3-sobno,0,V večstanovanjski stavbi,,3,0,Terasa,,2,,Zasavska, Zagorje ob Savi, Brezje
+285,138000,83,3-sobno,1959,V večstanovanjski stavbi,,3,2017,,Delno opremljeno,,,Savinjska, Celje, Celje
+286,315000,87,,2012,V večstanovanjski stavbi,Pritličje,4,0,,Popolnoma opremljeno,,,Osrednjeslovenska, Škofljica, Škofljica
+287,157000,32,,1963,V večstanovanjski stavbi,,4,2019,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+288,85000,102,2-sobno,1930,V večstanovanjski stavbi,Pritličje,1,2008,,,,,Zasavska, Trbovlje, Trbovlje
+289,315000,87,,2012,V večstanovanjski stavbi,Pritličje,4,0,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+290,205000,86,3-sobno,1990,V večstanovanjski stavbi,2.,2,2020,Balkon,Popolnoma opremljeno,,,Goriška, Ajdovščina, Ajdovščina
+291,94900,55,3-sobno,1968,V večstanovanjski stavbi,1.,4,0,Balkon,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Pomurska, Radenci, Radenci
+293,162185,85,2-sobno,2023,,,0,0,,,,,Podravska, Ptuj, Ptuj
+294,213664,105,3-sobno,2023,,,0,0,,,,,Podravska, Ptuj, Ptuj
+295,191923,119,2-sobno,2023,,,0,0,,,,,Podravska, Ptuj, Ptuj
+296,176179,90,2-sobno,2023,,,0,0,,,,,Podravska, Ptuj, Ptuj
+297,89970,44,"1,5-sobno",1954,V večstanovanjski stavbi,Visoko pritličje,3,2018,Balkon,Popolnoma opremljeno,2,EI v izdelavi,Savinjska, Celje, Center
+298,165000,75,"3,5-sobno",1958,V večstanovanjski stavbi,Visoko pritličje,3,2012,Balkon,,,,Podravska, Maribor, Center
+299,153000,61,2-sobno,2005,V večstanovanjski stavbi,2.,3,2022,Balkon,Neopremljeno,1,D (60 - 105 kWh/m2a),Podravska, Maribor, Studenci
+300,92000,35,1-sobno,2006,V večstanovanjski stavbi,Pritličje,3,0,Atrij,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Pobrežje
+301,184700,76,3-sobno,1977,V večstanovanjski stavbi,6.,9,0,Zaprt balkon,,2,D (60 - 105 kWh/m2a),Podravska, Maribor, Koroška vrata
+302,118000,0,3-sobno,2000,,1.,0,0,,,,,Podravska, Maribor, Tabor
+303,145000,0,5-sobno,1993,,,0,0,,,,,Podravska, Rače, Fram
+304,160000,76,"3,5-sobno",1964,V večstanovanjski stavbi,2.,4,2021,,Popolnoma opremljeno,,,Podravska, Maribor, Tabor
+305,157000,43,3-sobno,1850,V večstanovanjski stavbi,Pritličje,0,2015,,Delno opremljeno,,,Obalno-kraška, Koper, Koper
+306,114900,54,2-sobno,1956,V večstanovanjski stavbi,,4,2016,,Neopremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Koroška vrata
+307,110000,71,3-sobno,1985,V večstanovanjski stavbi,3.,3,2013,,Popolnoma opremljeno,,,Zasavska, Trbovlje, Trbovlje
+308,110000,26,Garsonjera,1969,V večstanovanjski stavbi,3.,5,0,Balkon,,,C (35 - 60 kWh/m2a),Gorenjska, Kranj, Kranj
+309,135000,32,1-sobno,1976,V večstanovanjski stavbi,Visoko pritličje,4,2018,Zaprt balkon,,,,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+310,46990,24,Garsonjera,1925,V večstanovanjski stavbi,Pritličje,3,2005,,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Gaberje
+311,167500,38,1-sobno,1964,,3.,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+312,229000,61,2-sobno,1963,,12.,14,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Savsko naselje
+313,82000,98,5-sobno,1973,V večstanovanjski stavbi,Pritličje,3,2010,,Delno opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Posavska, Sevnica, Boštanj
+314,139500,0,2-sobno,1984,,,0,0,,,,,Savinjska, Celje, Celje
+315,132000,52,"2,5-sobno",1978,,3.,4,0,Balkon,Popolnoma opremljeno,,,Savinjska, Celje, Nova vas
+317,145000,70,3-sobno,1921,,,0,2017,,,,,Savinjska, Celje, Savinja
+318,135000,60,3-sobno,1920,V večstanovanjski stavbi,Pritličje,1,2018,,Delno opremljeno,,E (105 - 150 kWh/m2a),Savinjska, Laško, Laško
+319,175000,55,1-sobno,2016,V hiši,1.,1,0,"Balkon, Terasa",Popolnoma opremljeno,2,,Obalno-kraška, Koper, Dekani
+320,155000,90,,1862,V večstanovanjski stavbi,2.,3,2012,,,,,Savinjska, Celje, Celje
+321,278600,68,3-sobno,1978,V večstanovanjski stavbi,12.,14,0,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+322,98000,81,3-sobno,1980,V večstanovanjski stavbi,,0,0,,,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Pomurska, Lendava, Lendava
+323,170000,56,2-sobno,1920,V večstanovanjski stavbi,Pritličje,2,2018,"Terasa, Atrij",Delno opremljeno,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Tabor
+324,188000,46,2-sobno,1800,V večstanovanjski stavbi,1.,3,2000,Terasa,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Obalno-kraška, Izola, Izola
+325,290000,135,"3,5-sobno",1999,V večstanovanjski stavbi,Mansarda,5,2018,Terasa,Popolnoma opremljeno,,EI v izdelavi,Podravska, Maribor, Magdalena
+326,109000,35,"1,5-sobno",0,V večstanovanjski stavbi,Pritličje,3,2008,,Delno opremljeno,,,Obalno-kraška, Divača, Divača
+327,129800,58,"2,5-sobno",1978,V večstanovanjski stavbi,,0,2022,Balkon,,,,Podravska, Maribor, Nova Vas
+328,115000,40,"1,5-sobno",2006,V večstanovanjski stavbi,1.,5,2018,Balkon,Popolnoma opremljeno,,B2 (25 - 35 kWh/m2a),Zasavska, Zagorje ob Savi, Kisovec
+329,184000,53,"2,5-sobno",1979,,7.,0,2022,,,,,Savinjska, Celje, Nova vas
+330,89000,34,1-sobno,1966,V večstanovanjski stavbi,5.,5,2017,,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+331,115000,124,"4,5-sobno",1946,,1.,0,2000,,,,,Savinjska, Vojnik, Arclin
+332,159900,76,2-sobno,1935,V večstanovanjski stavbi,2.,3,2017,Balkon,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Koroška vrata
+333,84284,56,2-sobno,2022,V večstanovanjski stavbi,1.,0,0,Balkon,Neopremljeno,,,Pomurska, Turnišče, Turnišče
+336,220000,55,2-sobno,1963,V večstanovanjski stavbi,Visoko pritličje,3,2019,,Delno opremljeno,,A1 (0 - 10 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Kodeljevo
+337,99000,74,3-sobno,1977,V večstanovanjski stavbi,1.,0,0,"Balkon, Terasa",,,EI v izdelavi,Podravska, Maribor, Pobrežje
+338,74900,41,1-sobno,1959,V večstanovanjski stavbi,3.,3,2020,,,,EI v izdelavi,Podravska, Maribor, Pobrežje
+339,139900,69,3-sobno,1973,V večstanovanjski stavbi,10.,12,2013,Balkon,,,EI v izdelavi,Podravska, Maribor, Pobrežje
+340,92500,67,"2,5-sobno",1972,,2.,3,2008,Balkon,Popolnoma opremljeno,,,Pomurska, Gornja Radgona, Gornja Radgona
+341,160000,72,"3,5-sobno",1991,V večstanovanjski stavbi,1.,4,2021,,,,,Podravska, Maribor, Borštnikova ul.
+344,149000,80,3-sobno,1980,,1.,5,2012,,Delno opremljeno,,,Podravska, Maribor, Nova Vas
+345,219000,106,"4,5-sobno",2003,V večstanovanjski stavbi,Pritličje,6,2022,,Popolnoma opremljeno,1,EI v izdelavi,Podravska, Maribor, Center
+346,157000,78,"2,5-sobno",1911,V večstanovanjski stavbi,Mansarda,2,2005,,Neopremljeno,1,EI v izdelavi,Podravska, Maribor, Magdalena
+347,89900,44,1-sobno,1984,,,0,0,Balkon,,,EI v izdelavi,Podravska, Maribor, Nova Vas
+348,159000,73,1-sobno,1906,V večstanovanjski stavbi,1.,3,2020,,,brez pripadajočega parkirišča,,Podravska, Maribor, Center
+350,110000,50,2-sobno,1920,V večstanovanjski stavbi,Pritličje,3,2016,,Popolnoma opremljeno,1,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Kamnik, Mekinje
+352,125000,60,2-sobno,1980,V večstanovanjski stavbi,2.,6,0,,,,,Savinjska, Velenje, Velenje
+353,169000,78,"3,5-sobno",1958,V večstanovanjski stavbi,2.,2,2004,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Goriška, Nova Gorica, Nova Gorica
+354,352990,57,2-sobno,2012,V večstanovanjski stavbi,11.,20,2018,Terasa,Popolnoma opremljeno,1,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+355,222000,83,3-sobno,2003,V večstanovanjski stavbi,Pritličje,2,0,,Popolnoma opremljeno,,,Podravska, Maribor, Radvanje
+356,169000,36,1-sobno,1965,V večstanovanjski stavbi,Visoko pritličje,4,2008,Zaprt balkon,Delno opremljeno,,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Rudnik
+357,198000,50,3-sobno,1895,V večstanovanjski stavbi,Klet,3,2021,,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Center, Center
+358,75990,36,1-sobno,1969,V večstanovanjski stavbi,2.,5,2014,,,,EI v izdelavi,Podravska, Maribor, Tabor
+359,195000,100,"3,5-sobno",1979,V večstanovanjski stavbi,8.,8,0,Balkon,,,EI v izdelavi,Podravska, Maribor, Tabor
+361,92000,85,3-sobno,1980,V večstanovanjski stavbi,4.,4,2011,Zaprt balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Jugovzhodna Slovenija, Kočevje, Kočevje
+362,230000,45,,1900,V večstanovanjski stavbi,3.,0,2021,,Popolnoma opremljeno,,,Obalno-kraška, Koper, Koper
+363,289000,80,,1974,,,0,0,,,,,Obalno-kraška, Koper, Koper
+364,187000,81,3-sobno,2007,V večstanovanjski stavbi,4.,5,0,,Popolnoma opremljeno,,,Podravska, Maribor, Koroška vrata
+365,94900,72,3-sobno,1979,,4.,4,0,Balkon,Neopremljeno,,C (35 - 60 kWh/m2a),Podravska, Ruše, Ruše
+366,125000,46,"1,5-sobno",1930,V večstanovanjski stavbi,Pritličje,2,2000,,Popolnoma opremljeno,,EI v izdelavi,Podravska, Maribor, Tabor
+367,177800,64,3-sobno,2012,,Pritličje,4,0,"Terasa, Atrij",Popolnoma opremljeno,,B2 (25 - 35 kWh/m2a),Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+368,190000,53,2-sobno,2009,V večstanovanjski stavbi,Pritličje,3,0,Loža,Delno opremljeno,,,Gorenjska, Kranj, Kranj
+369,145000,54,3-sobno,1966,,Pritličje,0,2014,,,,,Osrednjeslovenska, Borovnica, Borovnica
+370,125000,66,"2,5-sobno",1981,V večstanovanjski stavbi,4.,4,2018,Zaprt balkon,Neopremljeno,,B2 (25 - 35 kWh/m2a),Savinjska, Šentjur, Šentjur
+371,170000,65,"2,5-sobno",1960,V večstanovanjski stavbi,2.,2,2010,Balkon,,,,Osrednjeslovenska, Domžale, Domžale
+373,285000,86,3-sobno,2008,V hiši,Pritličje,1,0,"Terasa, Atrij",Delno opremljeno,2,,Osrednjeslovenska, Komenda, Klanec
+374,170000,83,3-sobno,1940,V hiši,Pritličje,2,2012,Terasa,,3,,Jugovzhodna Slovenija, Novo mesto, Novo mesto
+375,280000,42,"1,5-sobno",1922,V večstanovanjski stavbi,Visoko pritličje,5,2020,,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+376,145000,0,1-sobno,1904,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+377,347500,0,2-sobno,2022,,,0,0,,,,,Obalno-kraška, Koper, Koper
+378,330000,80,3-sobno,1938,V večstanovanjski stavbi,3.,4,2005,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Ljubljana Center, Center
+379,268000,104,"4,5-sobno",1974,V večstanovanjski stavbi,6.,9,0,Balkon,Delno opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Center
+380,165000,34,Garsonjera,1975,V večstanovanjski stavbi,4.,5,0,Loža,,,,Gorenjska, Kranjska Gora, Kranjska Gora
+381,120000,54,2-sobno,1977,V večstanovanjski stavbi,,4,2013,"Balkon, Zaprt balkon",Delno opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Podravska, Maribor, Pobrežje
+382,37000,138,,1904,V večstanovanjski stavbi,1.,0,0,,,brez pripadajočega parkirišča,,Podravska, Maribor okolica, Rošpoh - Del
+383,258000,72,"3,5-sobno",1948,,,0,2012,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+384,169000,38,"1,5-sobno",1969,,11.,12,2012,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+385,149900,87,3-sobno,2007,,3.,0,2020,Balkon,Popolnoma opremljeno,1,,Podravska, Maribor, Center
+386,119000,28,Garsonjera,1996,V večstanovanjski stavbi,2.,4,0,,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Vič Rudnik, Rudnik
+387,347500,92,"2,5-sobno",2022,V večstanovanjski stavbi,5.,6,0,Balkon,Neopremljeno,brez pripadajočega parkirišča,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Koper, Koper
+388,215000,0,4-sobno,1979,,,0,0,,,,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Kamnik, Kamnik
+389,130000,0,2-sobno,1936,,,0,0,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+390,120000,58,1-sobno,2009,,2.,0,0,,Popolnoma opremljeno,,,Koroška, Prevalje, Prevalje
+391,240000,98,"4,5-sobno",1996,V večstanovanjski stavbi,1.,2,2018,Balkon,Popolnoma opremljeno,2,,Podravska, Maribor, Betnava
+392,306000,168,"4,5-sobno",1910,V večstanovanjski stavbi,2.,0,2013,,,,,Podravska, Maribor, Center
+393,240000,61,2-sobno,2002,V večstanovanjski stavbi,1.,2,0,,Popolnoma opremljeno,,,Obalno-kraška, Izola, Izola
+394,179000,48,2-sobno,2013,V večstanovanjski stavbi,,2,0,"Balkon, Zaprt balkon",,brez pripadajočega parkirišča,A2 (10 - 15 kWh/m2a),Osrednjeslovenska, Kamnik, Mekinje
+395,238000,91,3-sobno,2022,V večstanovanjski stavbi,4.,5,0,,Neopremljeno,,,Podravska, Maribor, Studenci
+396,82000,35,1-sobno,1976,V večstanovanjski stavbi,2.,5,2012,,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Betnava
+397,129000,72,3-sobno,1964,,4.,0,2021,,,,,Savinjska, Celje, Celje
+398,120000,69,"2,5-sobno",1967,V večstanovanjski stavbi,5.,6,0,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Posavska, Krško, Videm
+399,160000,78,3-sobno,2020,,1.,4,0,Balkon,,2,,Koroška, Radlje ob Dravi, Radlje ob Dravi
+400,94000,64,3-sobno,1948,V večstanovanjski stavbi,1.,3,2018,Balkon,Delno opremljeno,1,A2 (10 - 15 kWh/m2a),Zasavska, Hrastnik, Hrastnik
+403,120000,50,2-sobno,1948,,1.,2,2018,Balkon,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tezno
+405,99000,0,1-sobno,1975,,,0,0,,,,C (35 - 60 kWh/m2a),Savinjska, Celje, Celje
+406,267000,0,3-sobno,2022,,,0,0,,,1,,Osrednjeslovenska, Ljubljana Vič Rudnik, Dolgi most
+407,344097,0,4-sobno,2023,,,0,0,,,2,EI ni potrebna (334. člen EZ-1),Gorenjska, Kranj, Kranj
+408,337655,0,3-sobno,2023,,,0,0,,,2,,Gorenjska, Kranj, Kranj
+409,235000,0,2-sobno,1976,,,0,0,,,1,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Ježica
+412,197000,43,2-sobno,1963,V večstanovanjski stavbi,1.,8,2016,"Balkon, Zaprt balkon",Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+413,118000,84,3-sobno,1958,V večstanovanjski stavbi,2.,6,0,Balkon,Popolnoma opremljeno,,B1 (15 - 25 kWh/m2a),Zasavska, Trbovlje, Trbovlje
+414,110000,22,Garsonjera,1967,V večstanovanjski stavbi,5.,5,2022,Balkon,Delno opremljeno,,EI v izdelavi,Osrednjeslovenska, Medvode, Medvode
+415,230000,88,3-sobno,1985,,3.,3,2001,,,,,Gorenjska, Kranj, Kranj
+416,88000,17,Garsonjera,2000,V večstanovanjski stavbi,2.,0,0,Balkon,,,EI v izdelavi,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+417,110375,67,3-sobno,1757,V večstanovanjski stavbi,1.,3,2022,"Balkon, Loža",Neopremljeno,1,F (150 - 210 kWh/m2a),Podravska, Maribor, Limbuš
+418,385000,91,6 in večsobno,1947,V večstanovanjski stavbi,2.,3,0,Balkon,,,,Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+419,120000,40,2-sobno,1965,V večstanovanjski stavbi,Pritličje,2,2012,,Popolnoma opremljeno,1,D (60 - 105 kWh/m2a),Osrednjeslovenska, Dol pri Ljubljani, Dol pri Ljubljani
+420,82100,56,2-sobno,1757,V večstanovanjski stavbi,Pritličje,3,2022,Terasa,Neopremljeno,1,F (150 - 210 kWh/m2a),Podravska, Maribor, Limbuš
+421,84000,48,3-sobno,1757,V večstanovanjski stavbi,Mansarda,3,2022,,Neopremljeno,1,F (150 - 210 kWh/m2a),Podravska, Maribor, Limbuš
+422,305000,92,3-sobno,1930,V večstanovanjski stavbi,Pritličje,2,2017,Atrij,Popolnoma opremljeno,1,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Center
+423,55000,28,Garsonjera,2002,V večstanovanjski stavbi,2.,5,2022,,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Rače, Rače
+424,199000,38,"1,5-sobno",1979,V večstanovanjski stavbi,9.,9,0,"Balkon, Zaprt balkon",Potrebno obnove,,,Obalno-kraška, Koper, Bošamarin
+425,59000,29,Garsonjera,1977,V večstanovanjski stavbi,Pritličje,3,2018,,Popolnoma opremljeno,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+426,89000,69,3-sobno,1967,V večstanovanjski stavbi,Mansarda,3,2019,Balkon,,1,E (105 - 150 kWh/m2a),Savinjska, Rogaška Slatina, Rogaška Slatina
+427,57000,30,Garsonjera,1986,V večstanovanjski stavbi,4.,5,2018,Balkon,Neopremljeno,1,,Savinjska, Rogaška Slatina, Ratanska vas
+428,230000,125,4-sobno,1995,V hiši,,2,2005,Balkon,Popolnoma opremljeno,2,EI v izdelavi,Osrednjeslovenska, Ivančna Gorica, Stranska vas ob Višnjici
+429,246000,124,4-sobno,1955,V hiši,Pritličje,1,1997,"Balkon, Atrij",Popolnoma opremljeno,4,,Savinjska, Žalec, Drešinja vas
+430,285000,77,3-sobno,1971,,2.,12,2019,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+431,113000,70,"2,5-sobno",1984,V večstanovanjski stavbi,5.,8,0,"Balkon, Loža",Delno opremljeno,,,Zasavska, Trbovlje, Trbovlje
+432,98000,74,3-sobno,1980,V večstanovanjski stavbi,Klet,0,2007,,Delno opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Pomurska, Lendava, Lendava
+433,179900,77,3-sobno,1980,V večstanovanjski stavbi,1.,16,2019,Balkon,Popolnoma opremljeno,2,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+434,196000,375,6 in večsobno,1869,V večstanovanjski stavbi,3.,3,0,,Potrebno obnove,,,Podravska, Maribor, Melje
+435,200000,42,2-sobno,1979,V večstanovanjski stavbi,Pritličje,4,2013,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Bežigrad, BS 3
+436,129000,91,4-sobno,1930,V večstanovanjski stavbi,1.,3,2019,,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Melje
+437,69000,36,"1,5-sobno",1900,V večstanovanjski stavbi,1.,1,2021,,Popolnoma opremljeno,1,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Studenci
+438,125900,56,2-sobno,0,V večstanovanjski stavbi,4.,4,0,,Delno opremljeno,,,Podravska, Maribor, Betnava
+439,75000,50,2-sobno,1914,V večstanovanjski stavbi,Pritličje,1,2016,,Popolnoma opremljeno,2,,Jugovzhodna Slovenija, Novo mesto, Uršna sela
+441,259000,90,3-sobno,2022,V večstanovanjski stavbi,2.,5,0,,Popolnoma opremljeno,,,Podravska, Maribor, Studenci
+442,98500,83,3-sobno,1956,V večstanovanjski stavbi,2.,2,0,Balkon,,,,Podravska, Kidričevo, Kidričevo
+443,145000,65,3-sobno,1979,V večstanovanjski stavbi,Visoko pritličje,5,0,Balkon,Popolnoma opremljeno,,,Savinjska, Šentjur, Šentjur
+444,155000,55,2-sobno,1970,V večstanovanjski stavbi,6.,10,0,Balkon,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tabor
+445,100000,65,3-sobno,1930,V večstanovanjski stavbi,Pritličje,2,2012,Terasa,Popolnoma opremljeno,2,E (105 - 150 kWh/m2a),Goriška, Tolmin, Klavže
+446,157000,54,"2,5-sobno",1989,V večstanovanjski stavbi,3.,4,0,Loža,Popolnoma opremljeno,,,Savinjska, Celje, Celje
+447,49900,26,Garsonjera,1965,V večstanovanjski stavbi,4.,4,2020,,,,,Podravska, Maribor, Magdalena
+448,189900,100,3-sobno,1950,V večstanovanjski stavbi,Mansarda,3,2013,,,,EI v izdelavi,Podravska, Maribor, Magdalena
+449,135000,53,"2,5-sobno",2009,V večstanovanjski stavbi,1.,4,2019,"Balkon, Loža",Popolnoma opremljeno,1,B1 (15 - 25 kWh/m2a),Podravska, Ruše, Ruše
+450,159000,64,"2,5-sobno",1980,V večstanovanjski stavbi,1.,2,2021,Balkon,Popolnoma opremljeno,2,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+451,200000,60,2-sobno,2000,V večstanovanjski stavbi,Pritličje,2,2017,"Terasa, Atrij",Popolnoma opremljeno,2,D (101 do 150 kWh/m2a) - HR,Osrednjeslovenska, Kamnik, Kamnik
+452,66000,32,Garsonjera,1926,V večstanovanjski stavbi,1.,4,2017,,Neopremljeno,,,Primorsko-notranjska, Postojna, Postojna
+453,349000,112,5-sobno,2001,V večstanovanjski stavbi,5.,5,2015,Terasa,Delno opremljeno,1,EI v izdelavi,Podravska, Maribor, Magdalena
+454,239000,88,3-sobno,1997,V večstanovanjski stavbi,2.,3,0,Terasa,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Center
+455,139000,72,,1890,V večstanovanjski stavbi,1.,3,2022,,Delno opremljeno,,,Savinjska, Celje, Celje
+456,269000,120,3-sobno,1803,V večstanovanjski stavbi,Mansarda,3,0,,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Magdalena
+457,130000,66,,1800,,Pritličje,0,2022,,,,,Savinjska, Celje, Celje
+460,109000,62,3-sobno,1956,V večstanovanjski stavbi,,3,0,,,brez pripadajočega parkirišča,,Podravska, Ruše, Ruše
+461,87000,27,Garsonjera,0,,5.,5,0,Balkon,Delno opremljeno,,,Savinjska, Prebold, Prebold
+462,132500,44,"1,5-sobno",2006,V večstanovanjski stavbi,2.,2,2019,Balkon,Popolnoma opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Studenci
+463,146349,74,2-sobno,2010,V večstanovanjski stavbi,3.,3,2022,Terasa,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Podravska, Hoče, Hočko Pohorje
+464,250000,101,4-sobno,1981,V večstanovanjski stavbi,6.,8,0,Balkon,,,,Gorenjska, Kranj, Kranj
+465,75000,24,Garsonjera,1965,,Visoko pritličje,4,2022,,,1,,Podravska, Maribor, Center
+466,199000,57,2-sobno,1978,V večstanovanjski stavbi,4.,14,2005,"Balkon, Zaprt balkon",Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Moste Polje, Štepanjsko naselje
+467,297625,73,3-sobno,2023,V večstanovanjski stavbi,1.,3,0,Balkon,Delno opremljeno,,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+468,165000,68,3-sobno,2008,V večstanovanjski stavbi,1.,3,2016,Balkon,,,,Podravska, Hoče, Rogoza
+469,135000,76,3-sobno,1867,,1.,0,2005,Balkon,Potrebno obnove,,,Jugovzhodna Slovenija, Dolenjske Toplice, Dolenjske Toplice
+470,87500,62,"2,5-sobno",1986,V večstanovanjski stavbi,Pritličje,3,2010,,Popolnoma opremljeno,1,,Koroška, Radlje ob Dravi, Radlje ob Dravi
+471,69900,67,2-sobno,1982,V večstanovanjski stavbi,,2,2017,Zaprt balkon,Delno opremljeno,,,Pomurska, Lendava, Lendava
+473,119900,52,2-sobno,1969,V večstanovanjski stavbi,Pritličje,4,0,,Popolnoma opremljeno,,,Podravska, Maribor, Studenci
+474,69000,43,2-sobno,1960,,,2,2018,,Neopremljeno,1,A2 (10 - 15 kWh/m2a),Podravska, Središče ob Dravi, Središče ob Dravi
+475,65000,14,Garsonjera,1964,V večstanovanjski stavbi,14.,14,2020,Terasa,Popolnoma opremljeno,,A1 (0 - 10 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+476,240000,71,,1975,,,0,0,,,,,Obalno-kraška, Koper, Koper
+477,399000,78,"2,5-sobno",1899,V večstanovanjski stavbi,1.,3,1993,,Popolnoma opremljeno,,EI v izdelavi,Osrednjeslovenska, Ljubljana Center, Center
+478,115000,70,3-sobno,1972,V večstanovanjski stavbi,1.,2,2021,Balkon,Delno opremljeno,,,Koroška, Črna na Koroškem, Črna na Koroškem
+479,139900,58,"2,5-sobno",1969,V večstanovanjski stavbi,1.,5,0,"Balkon, Zaprt balkon",Popolnoma opremljeno,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Betnava
+481,269000,79,3-sobno,1978,V večstanovanjski stavbi,,10,2005,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Dravlje
+482,90000,83,3-sobno,1920,V večstanovanjski stavbi,Pritličje,0,2005,,Popolnoma opremljeno,,EI v izdelavi,Podravska, Maribor, Radvanje
+483,169000,61,2-sobno,1954,V večstanovanjski stavbi,2.,2,2012,"Balkon, Loža",Popolnoma opremljeno,brez pripadajočega parkirišča,,Savinjska, Celje, Dolgo polje
+484,90000,57,2-sobno,1989,V večstanovanjski stavbi,Visoko pritličje,1,2020,Terasa,,1,EI v izdelavi,Podravska, Maribor, Radvanje
+485,139000,62,3-sobno,2005,V večstanovanjski stavbi,,0,0,,,2,EI v izdelavi,Pomurska, Murska Sobota, Murska Sobota
+486,117729,73,3-sobno,2022,V večstanovanjski stavbi,1.,0,0,Terasa,,1,,Pomurska, Turnišče, Turnišče
+487,149000,144,3-sobno,1989,V hiši,Pritličje,1,2005,"Terasa, Atrij",Popolnoma opremljeno,1,EI v izdelavi,Podravska, Maribor, Radvanje
+488,325000,0,4-sobno,2010,V večstanovanjski stavbi,6.,6,0,Terasa,Popolnoma opremljeno,2,,Savinjska, Celje, Celje
+489,267000,63,"2,5-sobno",1954,V večstanovanjski stavbi,2.,2,2001,Balkon,Popolnoma opremljeno,,F (150 - 210 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+490,123000,0,3-sobno,1986,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Ptuj, Ptuj
+491,129900,74,3-sobno,2012,V večstanovanjski stavbi,1.,5,0,,,2,,Pomurska, Gornja Radgona, Spodnja Ščavnica
+492,270000,68,3-sobno,1977,V večstanovanjski stavbi,,0,2020,Balkon,,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Osrednjeslovenska, Domžale, Domžale
+493,58800,64,3-sobno,1901,V večstanovanjski stavbi,2.,3,2021,,Popolnoma opremljeno,1,,Podravska, Ruše, Smolnik
+494,238000,48,,2008,,,0,0,,,,,Obalno-kraška, Piran, Piran
+495,197000,111,3-sobno,2007,V večstanovanjski stavbi,2.,2,0,,Delno opremljeno,,,Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+496,135000,103,2-sobno,1929,,1.,1,2005,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+497,230000,56,2-sobno,1982,V večstanovanjski stavbi,,7,0,"Balkon, Zaprt balkon",Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+498,129942,74,3-sobno,1980,,,0,2008,,Delno opremljeno,,,Podravska, Ptuj, Ptuj
+499,267000,58,,1978,V večstanovanjski stavbi,4.,4,0,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+500,395000,91,,1995,,,0,2018,,,,,Obalno-kraška, Izola, Jagodje
+501,250000,110,3-sobno,1937,V hiši,2.,2,2003,Balkon,,,,Gorenjska, Kranj, Kranj
+502,189000,65,3-sobno,1989,,4.,4,2006,,,,,Gorenjska, Kranj, Kranj
+503,239000,0,"2,5-sobno",1976,,,0,0,,,,C (35 - 60 kWh/m2a),Obalno-kraška, Izola, Izola
+504,149990,0,3-sobno,1935,,,3,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tezno
+505,109000,0,"1,5-sobno",1985,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Nova Vas
+506,129000,0,5-sobno,1911,,,1,0,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+507,93000,37,1-sobno,1966,V večstanovanjski stavbi,3.,5,2016,,Popolnoma opremljeno,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Betnava
+508,98000,43,"1,5-sobno",1905,V večstanovanjski stavbi,1.,0,0,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+509,255000,56,2-sobno,1977,V večstanovanjski stavbi,1.,10,2022,Balkon,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Šiška, Dravlje
+510,123500,0,2-sobno,1985,,,0,0,,,,Ni možno izdati,Podravska, Maribor, Pobrežje
+511,140000,68,3-sobno,0,,10.,12,0,Balkon,,,,Podravska, Maribor, Pobrežje
+512,270000,154,4-sobno,1941,V večstanovanjski stavbi,3.,0,0,Balkon,,,,Podravska, Maribor, Center
+513,85000,36,1-sobno,1900,V večstanovanjski stavbi,Pritličje,0,2022,,,,,Podravska, Ruše, Ruše
+514,165000,88,3-sobno,1956,V večstanovanjski stavbi,3.,4,0,,Popolnoma opremljeno,,,Podravska, Maribor, Tabor
+515,169000,28,Garsonjera,1970,,2.,14,0,,,,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+516,159000,72,3-sobno,1967,V večstanovanjski stavbi,,4,0,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Podravska, Maribor, Tabor
+517,178933,76,4-sobno,2022,V večstanovanjski stavbi,,0,0,Balkon,,brez pripadajočega parkirišča,,Pomurska, Apače, Apače
+518,92490,49,3-sobno,1920,V večstanovanjski stavbi,4.,4,2017,Terasa,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Pobrežje
+519,60000,31,1-sobno,1910,V večstanovanjski stavbi,1.,2,0,Balkon,Potrebno obnove,,,Podravska, Maribor, Center
+520,85000,0,2-sobno,1900,,3.,3,0,,,,Ni možno izdati,Podravska, Maribor, Center
+521,79000,0,3-sobno,1900,,2.,3,0,,,,Ni možno izdati,Podravska, Maribor, Center
+522,139000,0,2-sobno,1900,,2.,3,0,,,,Ni možno izdati,Podravska, Maribor, Center
+523,185000,0,2-sobno,1900,,2.,3,0,,,,Ni možno izdati,Podravska, Maribor, Center
+524,125000,47,2-sobno,1975,V večstanovanjski stavbi,,14,0,Zaprt balkon,Delno opremljeno,brez pripadajočega parkirišča,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Tezno
+525,267000,54,2-sobno,1976,V večstanovanjski stavbi,4.,4,2019,Balkon,Popolnoma opremljeno,1,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, BS 3
+526,49000,86,3-sobno,1800,V večstanovanjski stavbi,2.,2,0,,Neopremljeno,,,Koroška, Podvelka, Podvelka
+527,146000,73,3-sobno,1980,V večstanovanjski stavbi,,8,0,Zaprt balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Savinjska, Štore, Štore
+528,85000,40,,1910,V večstanovanjski stavbi,2.,3,2002,,,,,Podravska, Maribor, Tabor
+529,169100,67,,1979,V večstanovanjski stavbi,10.,0,2016,,,,,Goriška, Nova Gorica, Nova Gorica
+530,125000,53,,1985,V večstanovanjski stavbi,Pritličje,4,0,,Delno opremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Radvanje
+531,139000,66,3-sobno,1990,V večstanovanjski stavbi,,0,0,,,brez pripadajočega parkirišča,,Podravska, Maribor, Borštnikova ul.
+532,158000,0,3-sobno,1989,,,0,0,,,,,Obalno-kraška, Sežana, Sežana
+533,260000,77,3-sobno,2011,V večstanovanjski stavbi,2.,0,0,,,brez pripadajočega parkirišča,,Podravska, Maribor, Radvanje
+534,165000,83,4-sobno,1960,V večstanovanjski stavbi,2.,5,2019,,Popolnoma opremljeno,1,,Savinjska, Celje, Celje
+535,259000,88,4-sobno,1978,V večstanovanjski stavbi,10.,12,2012,Balkon,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Dravlje
+536,252000,90,3-sobno,1952,V večstanovanjski stavbi,Visoko pritličje,3,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+537,295000,176,5-sobno,1987,,Pritličje,1,2018,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Domžale, Domžale
+538,145000,46,2-sobno,1986,V večstanovanjski stavbi,5.,5,2013,,Popolnoma opremljeno,,,Gorenjska, Bled, Bled
+539,158000,0,3-sobno,2001,,,0,0,,,2,D (60 - 105 kWh/m2a),Obalno-kraška, Koper, Sv. Anton
+540,99000,47,2-sobno,1968,V večstanovanjski stavbi,3.,3,2018,Zaprt balkon,Popolnoma opremljeno,,EI v izdelavi,Podravska, Ptuj, Ptuj
+541,199500,101,4-sobno,1979,V večstanovanjski stavbi,,10,0,"Balkon, Zaprt balkon",Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+542,98000,52,2-sobno,1957,V večstanovanjski stavbi,,3,2004,Balkon,,1,EI v izdelavi,Podravska, Maribor, Tezno
+543,345000,67,3-sobno,1960,,8.,12,2022,,,,,Osrednjeslovenska, Ljubljana Center, Center
+544,203000,68,3-sobno,2010,V večstanovanjski stavbi,1.,3,2012,Balkon,Popolnoma opremljeno,1,A1 (0 - 10 kWh/m2a),Savinjska, Vojnik, Vojnik
+545,128990,61,2-sobno,1984,V večstanovanjski stavbi,1.,2,2010,Zaprt balkon,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Borštnikova ul.
+546,149900,0,4-sobno,1958,,,3,0,,,1,D (60 - 105 kWh/m2a),Podravska, Maribor, Tezno
+547,178933,88,4-sobno,2022,V večstanovanjski stavbi,1.,3,0,Balkon,,,,Pomurska, Apače, Apače
+548,139900,65,3-sobno,1979,V večstanovanjski stavbi,4.,5,0,Balkon,Popolnoma opremljeno,,,Podravska, Maribor, Borštnikova ul.
+549,114900,54,2-sobno,1965,V večstanovanjski stavbi,,4,2006,,,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Podravska, Maribor, Tabor
+550,148900,0,2-sobno,2009,,,2,0,,,1,C (35 - 60 kWh/m2a),Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+551,114900,0,2-sobno,1965,,,0,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tabor
+552,119000,0,2-sobno,1962,,,0,0,,,,,Savinjska, Celje, Celje
+553,149000,50,2-sobno,2008,V večstanovanjski stavbi,4.,4,0,Balkon,Popolnoma opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Studenci
+554,239000,77,2-sobno,2008,V večstanovanjski stavbi,Mansarda,0,0,Terasa,Popolnoma opremljeno,,E (105 - 150 kWh/m2a),Podravska, Ruše, Ruše
+555,250000,82,2-sobno,2008,V večstanovanjski stavbi,Mansarda,0,0,Terasa,Popolnoma opremljeno,,E (105 - 150 kWh/m2a),Podravska, Ruše, Ruše
+556,205000,39,1-sobno,1850,,,0,0,,,,,Osrednjeslovenska, Ljubljana Center, Center
+557,195000,83,3-sobno,1900,V večstanovanjski stavbi,,3,2004,,Popolnoma opremljeno,,,Obalno-kraška, Piran, Sv. Peter
+558,114900,51,2-sobno,1965,V večstanovanjski stavbi,4.,4,2011,,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tabor
+559,176300,41,"1,5-sobno",1990,V večstanovanjski stavbi,Pritličje,1,2017,,Delno opremljeno,,,Obalno-kraška, Izola, Izola
+560,269000,79,3-sobno,1978,V večstanovanjski stavbi,,10,2005,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Dravlje
+561,182000,74,3-sobno,1976,V večstanovanjski stavbi,5.,12,2017,,,,C (35 - 60 kWh/m2a),Savinjska, Celje, Lava
+562,397000,130,Garsonjera,1900,V večstanovanjski stavbi,,5,1994,,Delno opremljeno,,,Obalno-kraška, Piran, Piran
+563,360000,0,6 in večsobno,1895,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Melje
+564,125000,0,2-sobno,1975,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Tabor
+565,219000,0,2-sobno,1987,,,1,0,,,2,C (35 - 60 kWh/m2a),Obalno-kraška, Koper, Koper
+566,448000,0,6 in večsobno,2006,,,2,0,,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Grosuplje, Grosuplje
+567,97000,20,Garsonjera,1965,V večstanovanjski stavbi,13.,13,2017,Balkon,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Moste
+568,161983,46,1-sobno,2023,,Pritličje,2,0,"Terasa, Atrij",,,,Savinjska, Celje, Celje
+569,173808,56,2-sobno,2023,V večstanovanjski stavbi,2.,2,0,Balkon,,,,Savinjska, Celje, Celje
+570,257203,84,3-sobno,2023,V večstanovanjski stavbi,1.,2,0,Balkon,,,,Savinjska, Celje, Celje
+571,123055,37,1-sobno,2023,V večstanovanjski stavbi,Pritličje,2,0,"Terasa, Loža, Atrij",,,,Savinjska, Celje, Celje
+572,204638,55,2-sobno,2023,V večstanovanjski stavbi,Pritličje,2,0,"Terasa, Loža, Atrij",Neopremljeno,,,Savinjska, Celje, Celje
+573,129800,33,Garsonjera,1975,,Klet,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+574,298856,73,3-sobno,2023,V večstanovanjski stavbi,2.,3,0,Balkon,,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+575,298856,73,3-sobno,2023,V večstanovanjski stavbi,2.,3,0,Balkon,,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+576,297625,73,3-sobno,2023,V večstanovanjski stavbi,1.,3,0,Balkon,,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+577,297625,73,3-sobno,2023,V večstanovanjski stavbi,1.,3,0,Balkon,,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+578,258598,59,2-sobno,2023,V večstanovanjski stavbi,1.,3,0,Balkon,Delno opremljeno,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+579,259598,59,2-sobno,2023,V večstanovanjski stavbi,1.,3,0,Balkon,Delno opremljeno,2,,Osrednjeslovenska, Grosuplje, Šmarje - Sap
+580,383000,111,4-sobno,2006,V večstanovanjski stavbi,,4,2018,Terasa,Popolnoma opremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Osrednjeslovenska, Kamnik, Kamnik
+581,149000,78,2-sobno,1981,,1.,5,2012,,Delno opremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Betnava
+582,233000,0,2-sobno,2005,,,0,0,,,,E (105 - 150 kWh/m2a),Podravska, Maribor, Center
+583,249403,0,4-sobno,2022,,,3,0,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+585,198842,0,3-sobno,2022,,,0,0,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+586,378954,0,5-sobno,2022,,,3,0,,,,EI ni potrebna (334. člen EZ-1),Savinjska, Slovenske Konjice, Slovenske Konjice
+587,263000,54,2-sobno,1970,V večstanovanjski stavbi,3.,3,2015,Balkon,Delno opremljeno,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+588,149900,73,3-sobno,1945,,,0,2010,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Center
+589,180000,38,2-sobno,1908,,,2,2022,,,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+590,238000,50,2-sobno,1908,,,2,2022,,,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+591,225000,0,3-sobno,1900,,3.,3,0,,,,Ni možno izdati,Podravska, Maribor, Center
+593,315000,347,,1975,V večstanovanjski stavbi,,0,0,,,,,Osrednjeslovenska, Ivančna Gorica, Višnja Gora
+594,169000,104,4-sobno,1801,V večstanovanjski stavbi,,3,2020,Balkon,Delno opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Koroška, Slovenj Gradec, Slovenj Gradec
+595,166867,96,2-sobno,0,V večstanovanjski stavbi,,3,0,,,brez pripadajočega parkirišča,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+596,182463,76,3-sobno,0,V večstanovanjski stavbi,,3,0,,,brez pripadajočega parkirišča,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+597,339000,0,5-sobno,1970,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Vižmarje
+598,285000,67,3-sobno,1980,V večstanovanjski stavbi,3.,6,0,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Lucija
+600,149900,84,3-sobno,1900,V večstanovanjski stavbi,Visoko pritličje,2,2010,,,,E (105 - 150 kWh/m2a),Savinjska, Celje, Center
+601,275000,109,3-sobno,1954,V večstanovanjski stavbi,2.,2,2011,Balkon,Neopremljeno,,,Osrednjeslovenska, Ljubljana Moste Polje, Vevče
+602,176900,84,3-sobno,1987,V večstanovanjski stavbi,2.,4,2010,"Balkon, Terasa, Loža",Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Savinjska, Celje, Celje
+603,79000,0,3-sobno,1966,,Pritličje,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Šentilj v Slovenskih goricah, Zgornja Velka
+604,265000,0,3-sobno,1981,,,0,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+605,419000,0,3-sobno,2021,,,2,0,,,,B2 (25 - 35 kWh/m2a),Obalno-kraška, Koper, Koper
+606,138000,82,3-sobno,1959,V večstanovanjski stavbi,Visoko pritličje,3,2000,Balkon,,,,Savinjska, Celje, Center
+607,129000,30,Garsonjera,0,,Klet,0,2021,,,,D (60 - 105 kWh/m2a),Gorenjska, Kranjska Gora, Kranjska Gora
+608,169680,57,2-sobno,0,V večstanovanjski stavbi,,3,0,Atrij,,brez pripadajočega parkirišča,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+609,115000,124,"4,5-sobno",1946,,,0,2000,,,,,Savinjska, Vojnik, Arclin
+610,166235,0,2-sobno,2023,,,0,0,,,1,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Grosuplje, Šmarje - Sap
+611,330000,79,3-sobno,1977,V večstanovanjski stavbi,4.,0,2004,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Dravlje
+612,150000,66,2-sobno,1971,V večstanovanjski stavbi,3.,5,2005,,Delno opremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Tabor
+613,399000,85,3-sobno,1910,V večstanovanjski stavbi,Pritličje,4,2019,,Popolnoma opremljeno,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+614,165189,69,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+615,133686,56,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+616,165189,69,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+617,154814,69,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+618,154815,69,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+619,154814,69,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+620,169679,104,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+621,185804,112,3-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+622,166866,96,2-sobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+623,264000,91,2-sobno,2008,V večstanovanjski stavbi,7.,7,2015,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Podravska, Maribor, Tabor
+624,179900,34,1-sobno,1971,V večstanovanjski stavbi,Pritličje,0,2021,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+625,194000,40,"1,5-sobno",1895,,,0,2016,,,,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+626,139000,0,4-sobno,1978,,,4,0,,,,,Podravska, Ptuj, Ptuj
+627,248000,48,2-sobno,1908,,,2,2022,,,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+628,190000,36,2-sobno,1908,,,2,2022,,,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+629,209000,68,4-sobno,1961,,,0,2019,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Savinjska, Celje, Celje
+630,180000,35,2-sobno,1979,V večstanovanjski stavbi,Pritličje,4,2013,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Center, Center
+631,135000,101,3-sobno,1975,,,0,0,,,,F (150 - 210 kWh/m2a),Podravska, Maribor, Tezno
+632,166866,96,6 in večsobno,2023,,,0,0,,,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+633,279000,73,2-sobno,1975,V večstanovanjski stavbi,4.,4,2002,,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Šiška, Podutik
+634,202990,50,,1968,,,0,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+635,249000,53,"2,5-sobno",1902,,2.,0,2016,,,,,Osrednjeslovenska, Ljubljana Center, Center
+636,33000,32,Garsonjera,1964,V večstanovanjski stavbi,Pritličje,1,1992,,Popolnoma opremljeno,1,F (150 - 210 kWh/m2a),Pomurska, Razkrižje, Šafarsko
+637,450000,107,,2005,,,0,0,,,,,Obalno-kraška, Izola, Izola
+638,220000,57,2-sobno,1970,,4.,4,2014,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+639,199000,159,4-sobno,1973,V večstanovanjski stavbi,,1,0,,,,EI v izdelavi,Savinjska, Slovenske Konjice, Slovenske Konjice
+640,220000,54,2-sobno,1970,,4.,4,2014,Balkon,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+641,215000,75,3-sobno,2003,V večstanovanjski stavbi,Pritličje,3,0,Atrij,,2,,Podravska, Maribor, Radvanje
+642,348000,70,3-sobno,1981,V večstanovanjski stavbi,3.,4,2010,Balkon,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Šiška, Dravlje
+643,113900,71,3-sobno,1985,V večstanovanjski stavbi,3.,0,0,Balkon,,,,Podravska, Poljčane, Poljčane
+645,348000,70,3-sobno,1981,V večstanovanjski stavbi,3.,4,2004,Balkon,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Šiška, Draveljska gmajna
+646,189000,0,3-sobno,1970,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tezno
+647,260000,68,2-sobno,1889,V večstanovanjski stavbi,Visoko pritličje,6,2016,Terasa,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+648,105000,48,2-sobno,1971,V večstanovanjski stavbi,1.,6,2011,,Delno opremljeno,,C (35 - 60 kWh/m2a),Savinjska, Žalec, Žalec
+649,250000,104,"4,5-sobno",1927,V večstanovanjski stavbi,Visoko pritličje,3,2020,,,,E (105 - 150 kWh/m2a),Podravska, Maribor, Koroška vrata
+650,208800,52,2-sobno,1979,V večstanovanjski stavbi,Pritličje,8,2007,"Terasa, Atrij",,,,Gorenjska, Kranj, Kranj
+651,139000,0,2-sobno,1991,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Lukovica, Rafolče
+652,200000,0,4-sobno,1982,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Kamnik, Kamnik
+653,229000,0,2-sobno,1972,,,0,0,,,,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+654,175000,0,6 in večsobno,1996,,,0,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Tezno
+655,229900,50,2-sobno,1941,,2.,2,2015,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Savsko naselje
+658,139000,0,3-sobno,1972,,,0,0,,,,,Savinjska, Celje, Celje
+659,317000,74,2-sobno,1986,V večstanovanjski stavbi,,0,2003,,,,,Obalno-kraška, Piran, Lucija
+660,145000,70,,1977,V večstanovanjski stavbi,1.,0,2016,,,brez pripadajočega parkirišča,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+661,278000,0,2-sobno,1972,,,0,0,,,,F (150 - 210 kWh/m2a),Obalno-kraška, Piran, Portorož
+662,169000,157,,1939,V večstanovanjski stavbi,1.,0,0,,,,,Savinjska, Celje, Celje
+663,84000,13,Garsonjera,1965,,5.,5,2021,,,,,Osrednjeslovenska, Ljubljana Center, Prule
+664,279000,86,4-sobno,1968,,5.,0,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+665,279000,104,4-sobno,1936,,1.,3,2022,Balkon,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Logatec, Logatec
+666,479000,0,5-sobno,2009,,4.,4,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Ivan Cankar
+667,195000,0,3-sobno,1965,,,8,0,,,,,Podravska, Maribor, Center
+669,99000,55,3-sobno,1968,V večstanovanjski stavbi,1.,4,0,Balkon,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Pomurska, Radenci, Radenci
+670,238000,61,2-sobno,2008,,1.,2,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Škofljica, Lavrica
+671,87000,0,3-sobno,1974,,,6,0,,,,C (35 - 60 kWh/m2a),Savinjska, Celje, Celje
+672,319000,0,3-sobno,1980,,,0,0,,,,G (210+ kWh/m2a),Obalno-kraška, Koper, Koper
+674,250000,104,4-sobno,1926,V večstanovanjski stavbi,Pritličje,0,2019,,Delno opremljeno,,EI v izdelavi,Podravska, Maribor, Magdalena
+675,279000,61,2-sobno,2009,V večstanovanjski stavbi,1.,3,0,Balkon,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Šiška, Brod
+676,410000,109,3-sobno,1939,,Visoko pritličje,0,2011,,,,,Osrednjeslovenska, Ljubljana Center, Center
+677,348000,81,3-sobno,1981,,3.,4,2014,,,,,Osrednjeslovenska, Ljubljana Šiška, Koseze
+678,65000,50,2-sobno,1885,V večstanovanjski stavbi,Mansarda,3,2007,,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Lava
+679,198000,48,,1984,V večstanovanjski stavbi,,0,0,,,brez pripadajočega parkirišča,,Gorenjska, Bled, Bled
+680,437000,0,3-sobno,1930,,,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+681,169680,62,2-sobno,0,V večstanovanjski stavbi,,3,0,,,brez pripadajočega parkirišča,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+682,110000,81,3-sobno,1981,V večstanovanjski stavbi,4.,4,0,Balkon,Neopremljeno,,EI v izdelavi,Podravska, Ruše, Ruše
+685,158500,73,3-sobno,1994,V večstanovanjski stavbi,,2,2019,,Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Savinjska, Šoštanj, Šoštanj
+686,159120,47,3-sobno,2022,V večstanovanjski stavbi,,1,0,Atrij,,1,Ni možno izdati,Koroška, Slovenj Gradec, Slovenj Gradec
+687,285000,73,"3,5-sobno",1973,V večstanovanjski stavbi,Visoko pritličje,4,2018,Balkon,Neopremljeno,,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Gunclje
+688,205000,0,4-sobno,1900,,,0,0,,,,G (210+ kWh/m2a),Obalno-kraška, Izola, Izola
+689,269000,64,3-sobno,1979,V večstanovanjski stavbi,1.,8,2021,Zaprt balkon,Popolnoma opremljeno,,,Gorenjska, Kranj, Kranj
+690,198000,81,3-sobno,2003,V večstanovanjski stavbi,Pritličje,6,0,Zaprt balkon,Delno opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Magdalena
+691,155000,41,"1,5-sobno",2004,,3.,3,0,,,,,Osrednjeslovenska, Dol pri Ljubljani, Videm
+692,244500,0,3-sobno,2006,,,3,0,,,3,C (35 - 60 kWh/m2a),Savinjska, Celje, Celje
+693,129990,86,3-sobno,1956,V večstanovanjski stavbi,2.,3,1993,Balkon,Potrebno obnove,,D (101 do 150 kWh/m2a) - HR,Podravska, Ptuj, Ptuj
+694,290000,95,4-sobno,1936,V večstanovanjski stavbi,Pritličje,4,2021,Balkon,Popolnoma opremljeno,1,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+696,75000,0,2-sobno,1901,,,0,0,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+699,180000,154,4-sobno,2000,V večstanovanjski stavbi,5.,5,0,Balkon,Delno opremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Melje
+700,79000,25,Garsonjera,1910,,1.,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šentvid
+701,289000,56,2-sobno,1976,V večstanovanjski stavbi,,0,2018,,,brez pripadajočega parkirišča,,Obalno-kraška, Izola, Izola
+702,250000,104,"4,5-sobno",1927,V večstanovanjski stavbi,Visoko pritličje,4,2020,,Delno opremljeno,1,,Podravska, Maribor, Center
+703,216300,72,"3,5-sobno",2022,V večstanovanjski stavbi,,2,0,,,1,Ni možno izdati,Koroška, Slovenj Gradec, Slovenj Gradec
+704,246650,74,"3,5-sobno",2022,V večstanovanjski stavbi,,1,0,"Atrij, Terasa",,1,Ni možno izdati,Koroška, Slovenj Gradec, Slovenj Gradec
+705,295000,0,3-sobno,1980,,,0,0,,,,B2 (25 - 35 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+706,230000,137,3-sobno,0,V večstanovanjski stavbi,1.,0,2018,Balkon,,,EI ni potrebna (334. člen EZ-1),Podravska, Ptuj, Ptuj
+707,85000,60,2-sobno,1856,,1.,2,2004,,,,D (60 - 105 kWh/m2a),Podravska, Sv. Trojica v Slovenskih goricah, Sv. Trojica v Slovenskih goricah
+708,150000,54,2-sobno,0,,,0,0,,,,EI v izdelavi,Podravska, Maribor, Pobrežje
+710,220000,54,"2,5-sobno",2000,,1.,3,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+711,231000,71,3-sobno,1964,V večstanovanjski stavbi,2.,4,2022,Balkon,,,C (35 - 60 kWh/m2a),Gorenjska, Kranj, Kranj
+715,150000,48,"1,5-sobno",2022,V večstanovanjski stavbi,,2,0,,,1,Ni možno izdati,Koroška, Slovenj Gradec, Slovenj Gradec
+716,395000,91,,2006,V večstanovanjski stavbi,3.,4,0,,,,,Osrednjeslovenska, Ljubljana Šiška, Brod
+717,135000,71,,1850,V večstanovanjski stavbi,1.,3,0,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Savinjska, Celje, Celje
+718,235000,58,3-sobno,1974,V večstanovanjski stavbi,,4,2022,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Osrednjeslovenska, Vrhnika, Vrhnika
+719,270000,47,2-sobno,1978,,5.,7,2017,,,,,Osrednjeslovenska, Ljubljana Center, Center
+720,285000,74,3-sobno,1965,,Visoko pritličje,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+721,123000,48,,2006,V večstanovanjski stavbi,Pritličje,0,0,,,,,Jugovzhodna Slovenija, Novo mesto, Novo mesto
+722,175000,0,3-sobno,1961,,,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Center
+723,119950,57,2-sobno,1969,V večstanovanjski stavbi,Pritličje,5,2012,Balkon,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Betnava
+724,85000,309,6 in večsobno,1904,,,3,0,,,2,EI v izdelavi,Podravska, Rače, Fram
+725,68000,80,3-sobno,1767,V hiši,,0,0,,,2,Ni možno izdati,Gorenjska, Žirovnica, Zabreznica
+726,195000,45,1-sobno,1999,,Pritličje,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Moste
+727,85000,52,2-sobno,1988,,2.,2,2017,Balkon,Delno opremljeno,1,E (105 - 150 kWh/m2a),Pomurska, Gornja Radgona, Črešnjevci
+728,75000,0,1-sobno,1980,,4.,4,0,,,,,Podravska, Ptuj, Ptuj
+729,189000,132,,1878,V večstanovanjski stavbi,1.,2,0,,,brez pripadajočega parkirišča,,Savinjska, Celje, Celje
+730,265000,81,1-sobno,2000,V večstanovanjski stavbi,2.,6,0,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+731,297625,0,2-sobno,2023,,,0,0,,,2,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Grosuplje, Šmarje - Sap
+732,258598,0,2-sobno,2023,,,0,0,,,2,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Grosuplje, Šmarje - Sap
+733,349526,0,2-sobno,2023,,,0,0,,,2,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Grosuplje, Šmarje - Sap
+734,325000,164,3-sobno,2022,V večstanovanjski stavbi,,2,0,"Balkon, Terasa",Popolnoma opremljeno,1,,Pomurska, Moravske Toplice, Moravske Toplice
+735,169000,37,Garsonjera,1930,,,1,2022,,Delno opremljeno,,,Osrednjeslovenska, Ljubljana Bežigrad, Savsko naselje
+736,195000,45,3-sobno,1700,V večstanovanjski stavbi,1.,3,2016,,,,,Obalno-kraška, Koper, Koper
+737,275000,0,3-sobno,2003,,,2,0,,,1,B1 (15 - 25 kWh/m2a),Osrednjeslovenska, Dol pri Ljubljani, Dol pri Ljubljani
+738,265000,0,3-sobno,1963,,,0,0,,,,F (150 - 210 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Kodeljevo
+739,159000,28,Garsonjera,1900,,1.,1,2022,,,,,Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+740,150000,120,,2001,V večstanovanjski stavbi,Pritličje,2,0,,Popolnoma opremljeno,,,Goriška, Nova Gorica, Nova Gorica
+741,128000,72,3-sobno,2022,V večstanovanjski stavbi,2.,3,0,"Loža, Atrij",Neopremljeno,2,,Podravska, Sv. Ana v Slovenskih goricah, Sv. Ana v Slovenskih goricah
+742,218000,87,"3,5-sobno",2022,V večstanovanjski stavbi,1.,2,0,Terasa,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+743,309000,78,3-sobno,1982,V večstanovanjski stavbi,1.,12,2004,Balkon,Popolnoma opremljeno,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+744,109990,0,2-sobno,1986,,,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Celje
+745,168900,83,4-sobno,1971,V večstanovanjski stavbi,Visoko pritličje,9,2019,Balkon,Neopremljeno,,,Podravska, Maribor, Magdalena
+746,175000,0,5-sobno,1950,,,3,0,,,3,D (60 - 105 kWh/m2a),Goriška, Idrija, Idrija
+748,450000,75,3-sobno,2009,,2.,7,2020,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+749,149000,0,3-sobno,1960,,,6,0,,,,D (60 - 105 kWh/m2a),Gorenjska, Kranj, Kranj
+750,63000,55,2-sobno,1997,V večstanovanjski stavbi,Pritličje,0,1997,,,,,Podravska, Ptuj, Ptuj
+751,120000,74,3-sobno,1980,V večstanovanjski stavbi,1.,0,0,Balkon,,,,Podravska, Ptuj, Ptuj
+752,185000,60,2-sobno,1980,V večstanovanjski stavbi,,0,0,,,,,Podravska, Ptuj, Ptuj
+753,245000,143,4-sobno,2001,,,0,2019,,,,A1 (0 - 10 kWh/m2a),Savinjska, Celje, Medlog
+754,57000,15,Garsonjera,1964,V večstanovanjski stavbi,,5,2020,,Delno opremljeno,brez pripadajočega parkirišča,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Center
+755,317000,71,3-sobno,1986,V večstanovanjski stavbi,,0,2015,,,brez pripadajočega parkirišča,,Obalno-kraška, Izola, Izola
+757,229000,0,2-sobno,1964,,,9,0,,,,,Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+758,320000,0,5-sobno,1900,,2.,2,0,,,1,F (150 - 210 kWh/m2a),Obalno-kraška, Koper, Koper
+759,228000,71,,1959,,,0,0,,,,,Obalno-kraška, Piran, Sečovlje
+760,239500,83,3-sobno,1939,V večstanovanjski stavbi,,0,2011,,Popolnoma opremljeno,1,,Podravska, Maribor, Center
+761,112000,74,3-sobno,1985,,1.,0,2015,,,,D (60 - 105 kWh/m2a),Jugovzhodna Slovenija, Kočevje, Kočevje
+762,159000,70,2-sobno,1975,,1.,13,2010,Balkon,Delno opremljeno,,EI v izdelavi,Savinjska, Celje, Slavko Šlander
+763,229000,84,2-sobno,1953,V večstanovanjski stavbi,2.,2,2011,Balkon,Delno opremljeno,,EI v izdelavi,Savinjska, Celje, Gaberje
+764,440000,106,2-sobno,2011,V večstanovanjski stavbi,3.,4,2021,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Koper, Koper
+765,139000,0,Garsonjera,1969,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+766,295000,0,2-sobno,2010,,,2,0,,,2,C (35 - 60 kWh/m2a),Obalno-kraška, Koper, Koper
+767,249000,216,,1949,V večstanovanjski stavbi,,0,0,,,,,Podravska, Maribor, Center
+768,283000,0,3-sobno,1984,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+769,118000,0,3-sobno,2007,,,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Rogaška Slatina, Rogaška Slatina
+770,249000,0,4-sobno,2007,,,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Rogaška Slatina, Rogaška Slatina
+771,389000,0,4-sobno,1929,,,0,0,,,,C (35 - 60 kWh/m2a),Gorenjska, Kranj, Kranj
+772,339000,0,5-sobno,1996,,,4,0,,,1,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+773,235000,0,2-sobno,1920,,,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+774,249000,0,3-sobno,2011,,,2,0,,,,B2 (25 - 35 kWh/m2a),Jugovzhodna Slovenija, Trebnje, Trebnje
+775,82499,49,3-sobno,1920,,3.,3,2012,,Neopremljeno,,D (60 - 105 kWh/m2a),Podravska, Maribor, Ostalo
+776,287000,0,"2,5-sobno",1942,,,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+777,178933,88,4-sobno,2022,,1.,4,0,,,,EI v izdelavi,Pomurska, Apače, Apače
+778,230759,116,4-sobno,2022,,4.,4,0,,,,,Pomurska, Apače, Apače
+779,68700,40,Garsonjera,2022,V večstanovanjski stavbi,Visoko pritličje,2,0,,Neopremljeno,1,A2 (10 - 15 kWh/m2a),Podravska, Sv. Ana v Slovenskih goricah, Sv. Ana v Slovenskih goricah
+780,142450,80,3-sobno,2022,V večstanovanjski stavbi,1.,3,0,"Balkon, Atrij",Neopremljeno,2,A2 (10 - 15 kWh/m2a),Podravska, Sv. Ana v Slovenskih goricah, Sv. Ana v Slovenskih goricah
+781,230759,116,4-sobno,2022,V večstanovanjski stavbi,3.,3,0,Balkon,,,,Pomurska, Apače, Apače
+782,178000,86,3-sobno,1863,,Mansarda,0,2022,,,,,Podravska, Maribor, Koroška vrata
+783,249000,124,3-sobno,1936,,3.,3,2022,,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Logatec, Logatec
+784,189000,70,3-sobno,1936,,2.,3,2022,,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Logatec, Logatec
+785,194000,98,2-sobno,1936,,3.,3,2022,,,2,,Osrednjeslovenska, Logatec, Logatec
+786,189000,66,3-sobno,1964,V večstanovanjski stavbi,,0,2017,,,,,Obalno-kraška, Koper, Koper
+787,141000,0,4-sobno,1980,,2.,2,0,,,1,,Koroška, Slovenj Gradec, Slovenj Gradec
+788,89000,28,Garsonjera,1960,V večstanovanjski stavbi,3.,4,2022,,Delno opremljeno,,,Savinjska, Celje, Dolgo polje
+789,278000,0,3-sobno,1903,,,0,0,,,,D (60 - 105 kWh/m2a),Gorenjska, Gorenja vas - Poljane, Fužine
+790,370000,240,6 in večsobno,1500,,1.,0,2013,,,,,Savinjska, Celje, Center
+791,165650,92,4-sobno,2022,V večstanovanjski stavbi,1.,2,0,Balkon,Neopremljeno,,A2 (10 - 15 kWh/m2a),Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+793,89000,67,2-sobno,1870,,,0,2005,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Košaki
+794,194900,95,3-sobno,1900,V večstanovanjski stavbi,Mansarda,2,2010,,Popolnoma opremljeno,,D (101 do 150 kWh/m2a) - HR,Savinjska, Celje, Center
+795,120000,51,2-sobno,2009,,2.,0,0,,Delno opremljeno,,B1 (15 - 25 kWh/m2a),Savinjska, Šmarje pri Jelšah, Zastranje
+796,277372,143,6 in večsobno,1933,V večstanovanjski stavbi,,0,2022,,,2,,Pomurska, Gornja Radgona, Gornja Radgona
+797,249000,105,"3,5-sobno",2014,V večstanovanjski stavbi,,0,0,,Popolnoma opremljeno,1,C (35 - 60 kWh/m2a),Podravska, Maribor, Betnava
+798,277816,144,6 in večsobno,1933,V večstanovanjski stavbi,,0,2022,,,2,,Pomurska, Gornja Radgona, Gornja Radgona
+799,179000,49,3-sobno,1800,V večstanovanjski stavbi,2.,2,0,,Popolnoma opremljeno,,,Obalno-kraška, Koper, Koper
+800,126000,82,3-sobno,1983,,1.,3,2009,Balkon,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Pomurska, Ljutomer, Ljutomer
+801,69000,39,1-sobno,1947,,,0,0,,,,G (210+ kWh/m2a),Goriška, Nova Gorica, Rožna Dolina
+802,249000,150,3-sobno,1962,V hiši,1.,2,2017,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Brezovica pri Ljubljani, Brezovica pri Ljubljani
+803,247000,0,3-sobno,1960,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+804,129000,52,2-sobno,1914,,,0,2013,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+805,267000,188,4-sobno,1997,V večstanovanjski stavbi,1.,0,2012,,Popolnoma opremljeno,,,Obalno-kraška, Koper, Gažon
+806,379000,86,3-sobno,1895,,Visoko pritličje,0,2006,,,,,Osrednjeslovenska, Ljubljana Center, Center
+807,99900,0,2-sobno,1995,,1.,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Rogaška Slatina, Rogaška Slatina
+808,189000,54,3-sobno,1900,V večstanovanjski stavbi,2.,2,2017,Balkon,Popolnoma opremljeno,,G (210+ kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Moste
+809,355000,82,3-sobno,1760,,1.,0,2011,,,1,F (150 - 210 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+810,262000,67,3-sobno,1980,V večstanovanjski stavbi,,0,2016,"Balkon, Zaprt balkon",Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Lucija
+811,320000,110,5-sobno,2022,V hiši,Pritličje,2,0,,,2,,Podravska, Maribor, Studenci
+812,240000,272,Drugo,1965,,Pritličje,0,2018,,,,EI v izdelavi,Podravska, Ptuj, Ptuj
+813,170848,42,2-sobno,2010,V večstanovanjski stavbi,3.,3,2022,Terasa,,,,Savinjska, Vojnik, Vojnik
+814,212142,57,3-sobno,2010,V večstanovanjski stavbi,3.,3,2022,Terasa,,1,,Savinjska, Vojnik, Vojnik
+815,58000,0,Garsonjera,1964,,,0,0,,,,,Savinjska, Celje, Celje
+816,277815,206,5-sobno,1933,V večstanovanjski stavbi,1.,1,2022,,,,,Pomurska, Gornja Radgona, Gornja Radgona
+817,277372,199,5-sobno,1933,V večstanovanjski stavbi,Pritličje,1,2022,,,,,Pomurska, Gornja Radgona, Gornja Radgona
+818,149311,76,3-sobno,2022,V večstanovanjski stavbi,,2,0,"Atrij, Terasa",Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+819,101521,47,2-sobno,2022,V večstanovanjski stavbi,,1,0,Balkon,Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+820,135737,76,3-sobno,2022,V večstanovanjski stavbi,,1,0,"Atrij, Terasa",Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+821,128914,76,3-sobno,2022,V večstanovanjski stavbi,,1,0,Balkon,Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+822,141805,76,3-sobno,2022,V večstanovanjski stavbi,,1,0,Balkon,Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+824,480000,108,3-sobno,2004,V večstanovanjski stavbi,Visoko pritličje,3,0,Balkon,Popolnoma opremljeno,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+825,135737,76,3-sobno,2022,V večstanovanjski stavbi,,1,0,"Atrij, Terasa",Neopremljeno,1,B1 (15 - 25 kWh/m2a),Pomurska, Turnišče, Turnišče
+826,56000,0,2-sobno,1967,,,0,0,,,,,Savinjska, Celje, Celje
+827,69900,0,3-sobno,1967,,,0,0,,,,,Savinjska, Tabor, Tabor
+828,147000,0,3-sobno,1895,,,0,0,,,,,Savinjska, Celje, Celje
+831,495000,90,3-sobno,1955,V večstanovanjski stavbi,2.,6,2021,Balkon,Delno opremljeno,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Center, Center
+833,429000,150,5-sobno,1903,V hiši,1.,1,2015,,,1,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+834,195000,42,1-sobno,1987,,1.,4,0,,,,,Obalno-kraška, Piran, Lucija
+835,440000,56,2-sobno,2011,V večstanovanjski stavbi,3.,4,2021,Terasa,Popolnoma opremljeno,2,B2 (25 - 35 kWh/m2a),Obalno-kraška, Koper, Koper
+836,170000,50,2-sobno,1936,,Klet,2,2015,,Delno opremljeno,,,Osrednjeslovenska, Ljubljana Moste Polje, Zelena jama
+837,400000,657,Drugo,0,V hiši,Pritličje,8,0,,Nedokončana gradnja,,,Goriška, Ajdovščina, Grivče
+838,98000,0,2-sobno,1820,,2.,0,0,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+839,264000,78,"3,5-sobno",1909,V večstanovanjski stavbi,2.,2,2021,,,2,,Osrednjeslovenska, Grosuplje, Grosuplje
+840,125000,69,3-sobno,1964,,4.,5,0,,Neopremljeno,,C (35 - 60 kWh/m2a),Savinjska, Celje, Celje
+841,370000,90,3-sobno,2006,V večstanovanjski stavbi,,2,0,Balkon,,1,,Gorenjska, Bled, Bled
+842,245000,92,3-sobno,1976,,,0,0,,,,,Osrednjeslovenska, Kamnik, Kamnik
+843,400000,88,4-sobno,2005,,,3,0,Terasa,Neopremljeno,2,EI v izdelavi,Podravska, Maribor, Studenci
+844,372000,78,4-sobno,1988,V večstanovanjski stavbi,4.,5,2017,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Lucija
+845,189000,54,2-sobno,2013,V večstanovanjski stavbi,,5,0,Terasa,Neopremljeno,brez pripadajočega parkirišča,C (35 - 60 kWh/m2a),Gorenjska, Radovljica, Radovljica
+846,160000,36,1-sobno,1966,V večstanovanjski stavbi,2.,4,2016,,Popolnoma opremljeno,,D (60 - 105 kWh/m2a),Gorenjska, Kranj, Kranj
+847,79000,71,3-sobno,1994,,1.,3,0,,Neopremljeno,1,D (60 - 105 kWh/m2a),Pomurska, Gornja Radgona, Gornja Radgona
+848,180000,86,5-sobno,1925,,,1,0,,,,,Goriška, Bovec, Bovec
+849,105000,55,1-sobno,1930,,,0,0,,,,D (60 - 105 kWh/m2a),Goriška, Miren, Miren
+850,443089,102,4-sobno,0,V večstanovanjski stavbi,,0,0,"Balkon, Terasa",Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+851,230000,43,2-sobno,1995,V večstanovanjski stavbi,Pritličje,1,2021,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Portorož
+852,79000,0,2-sobno,1947,,,0,0,,,,E (105 - 150 kWh/m2a),Podravska, Ptuj, Ptuj
+853,390000,0,4-sobno,1975,,,0,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Center
+854,67016,39,1-sobno,1979,V večstanovanjski stavbi,4.,4,0,,,,EI v izdelavi,Podravska, Ptuj, Ptuj
+855,220000,89,3-sobno,1910,V večstanovanjski stavbi,,0,1993,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Izola, Izola
+856,253000,61,3-sobno,1986,,4.,5,0,Balkon,,,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+857,139990,52,2-sobno,1959,V večstanovanjski stavbi,Visoko pritličje,3,2020,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Tabor
+858,423000,104,3-sobno,1971,V večstanovanjski stavbi,,0,2021,,,brez pripadajočega parkirišča,,Obalno-kraška, Koper, Koper
+859,186256,82,4-sobno,2010,V večstanovanjski stavbi,3.,3,2022,Loža,Neopremljeno,,,Savinjska, Vojnik, Vojnik
+860,320000,100,1-sobno,2006,V večstanovanjski stavbi,Pritličje,2,0,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Lucija
+862,229000,78,3-sobno,1969,,1.,3,0,,,,,Osrednjeslovenska, Brezovica pri Ljubljani, Brezovica pri Ljubljani
+863,149900,87,3-sobno,2018,V večstanovanjski stavbi,,3,0,,Popolnoma opremljeno,1,B2 (25 - 35 kWh/m2a),Savinjska, Šoštanj, Topolšica
+864,300000,99,2-sobno,2006,V večstanovanjski stavbi,2.,2,0,,Popolnoma opremljeno,,,Obalno-kraška, Piran, Lucija
+865,129000,73,3-sobno,1845,V večstanovanjski stavbi,2.,2,2020,,Popolnoma opremljeno,,E (105 - 150 kWh/m2a),Podravska, Maribor, Tabor
+866,239000,121,4-sobno,1985,V večstanovanjski stavbi,5.,5,2013,Balkon,Popolnoma opremljeno,,,Osrednjeslovenska, Kamnik, Kamnik
+867,235000,99,3-sobno,1947,V večstanovanjski stavbi,3.,4,2005,Balkon,Popolnoma opremljeno,,EI v izdelavi,Gorenjska, Kranj, Kranj
+868,90000,94,3-sobno,1967,V hiši,1.,0,0,"Balkon, Terasa",Delno opremljeno,,F (150 - 210 kWh/m2a),Pomurska, Murska Sobota, Murska Sobota
+870,31000,36,1-sobno,1896,V večstanovanjski stavbi,2.,2,0,,Delno opremljeno,,,Zasavska, Trbovlje, Trbovlje
+871,430000,90,3-sobno,1920,V večstanovanjski stavbi,1.,3,2022,,Neopremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Piran, Portorož
+872,95000,94,3-sobno,1967,V hiši,Visoko pritličje,2,0,"Balkon, Terasa",,,EI v izdelavi,Pomurska, Murska Sobota, Murska Sobota
+873,499000,141,,1990,V večstanovanjski stavbi,1.,2,2015,,,,,Obalno-kraška, Piran, Portorož
+874,179800,0,4-sobno,1962,,,0,0,,,,,Goriška, Nova Gorica, Nova Gorica
+875,374829,0,5-sobno,2023,,,0,0,,,,,Savinjska, Celje, Celje
+876,133686,0,2-sobno,2023,V večstanovanjski stavbi,,3,0,"Loža, Atrij",,,,Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+877,85000,38,"1,5-sobno",2003,V večstanovanjski stavbi,2.,3,0,,,,D (60 - 105 kWh/m2a),Podravska, Ruše, Ruše
+879,271915,0,4-sobno,2023,,,3,0,,,,,Savinjska, Celje, Celje
+880,288091,0,4-sobno,2023,,,4,0,,,,,Savinjska, Celje, Celje
+881,329000,0,4-sobno,2007,,,0,0,,,2,C (35 - 60 kWh/m2a),Osrednjeslovenska, Domžale, Radomlje
+882,285000,135,4-sobno,1930,,,0,2007,,,,,Osrednjeslovenska, Ljubljana Šiška, Šentvid
+883,139000,0,4-sobno,1858,,,2,0,,,1,,Savinjska, Celje, Celje
+884,125000,0,3-sobno,1960,,,0,0,,,,D (60 - 105 kWh/m2a),Savinjska, Celje, Celje
+885,79900,62,3-sobno,1967,V hiši,,3,2017,Atrij,Delno opremljeno,brez pripadajočega parkirišča,E (105 - 150 kWh/m2a),Podravska, Maribor, Tezno
+886,285000,102,4-sobno,1976,,1.,4,2010,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Štepanjsko naselje
+887,461846,102,3-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+888,447502,102,4-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+889,138000,82,2-sobno,1900,,,0,0,,,,F (150 - 210 kWh/m2a),Goriška, Ajdovščina, Ajdovščina
+890,108000,56,"2,5-sobno",1900,V večstanovanjski stavbi,1.,3,1999,Balkon,Delno opremljeno,,E (105 - 150 kWh/m2a),Podravska, Maribor, Center
+891,83000,37,1-sobno,1850,V večstanovanjski stavbi,,4,0,,,brez pripadajočega parkirišča,,Savinjska, Celje, Celje
+892,343237,158,4-sobno,2019,V večstanovanjski stavbi,4.,5,0,,,,B1 (15 - 25 kWh/m2a),Savinjska, Celje, Center
+893,250000,163,5-sobno,1852,,1.,2,0,,,,,Gorenjska, Tržič, Tržič
+894,238000,90,4-sobno,1954,,1.,0,2012,,,,,Osrednjeslovenska, Medvode, Smlednik
+895,254020,88,"3,5-sobno",2022,V večstanovanjski stavbi,,3,0,,Neopremljeno,2,Ni možno izdati,Savinjska, Rogaška Slatina, Rogaška Slatina
+896,173600,89,"2,5-sobno",2022,V večstanovanjski stavbi,,3,0,,Neopremljeno,2,Ni možno izdati,Savinjska, Rogaška Slatina, Rogaška Slatina
+897,172800,86,3-sobno,1900,V hiši,1.,1,2021,,Neopremljeno,,C (35 - 60 kWh/m2a),Podravska, Maribor, Magdalena
+898,178990,59,2-sobno,0,V večstanovanjski stavbi,,3,0,"Atrij, Terasa",,2,,Zasavska, Zagorje ob Savi, Brezje
+899,195000,64,2-sobno,1965,V večstanovanjski stavbi,2.,2,2021,Balkon,Popolnoma opremljeno,2,Merjena EI,Osrednjeslovenska, Domžale, Rodica
+900,178990,59,2-sobno,0,V večstanovanjski stavbi,,3,0,"Atrij, Terasa",,2,,Zasavska, Zagorje ob Savi, Brezje
+902,255000,62,3-sobno,1963,,2.,4,2018,,,,,Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+903,447502,102,4-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+904,375000,0,3-sobno,2006,,,2,0,,,,C (35 - 60 kWh/m2a),Obalno-kraška, Piran, Portorož
+905,275000,84,3-sobno,1952,,2.,3,2015,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Zgornja Šiška
+906,447502,102,4-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+907,50000,91,3-sobno,1873,V večstanovanjski stavbi,Pritličje,2,0,,Delno opremljeno,,,Zasavska, Trbovlje, Trbovlje
+908,355000,77,"2,5-sobno",1978,,7.,9,2013,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+909,461846,102,3-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+910,447502,102,4-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+911,443089,102,4-sobno,0,V večstanovanjski stavbi,,5,0,,Neopremljeno,1,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Moste
+914,420000,121,3-sobno,2017,V večstanovanjski stavbi,Pritličje,2,0,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Obalno-kraška, Koper, Koper
+915,99000,48,"1,5-sobno",1945,V večstanovanjski stavbi,Pritličje,2,2017,,Delno opremljeno,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Kamnik, Črna pri Kamniku
+916,118000,77,,2007,V večstanovanjski stavbi,1.,0,0,,,brez pripadajočega parkirišča,,Savinjska, Slovenske Konjice, Loče
+917,122000,81,,2007,V večstanovanjski stavbi,1.,0,0,,,brez pripadajočega parkirišča,,Savinjska, Slovenske Konjice, Loče
+918,369000,100,"4,5-sobno",1939,V hiši,,0,2018,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+919,126900,0,2-sobno,2008,,Pritličje,0,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Brezje - Dogoše - Zrkovce
+920,130000,110,3-sobno,1963,V hiši,1.,2,2014,,Delno opremljeno,,EI v izdelavi,Savinjska, Podčetrtek, Podčetrtek
+921,264000,0,1-sobno,1985,,,0,0,,,1,,Obalno-kraška, Piran, Portorož
+922,235000,119,5-sobno,1912,,1.,0,2011,,Delno opremljeno,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Škofljica, Škofljica
+923,249000,85,3-sobno,1900,V večstanovanjski stavbi,,3,2013,,Popolnoma opremljeno,brez pripadajočega parkirišča,B2 (25 - 35 kWh/m2a),Obalno-kraška, Izola, Izola
+924,122000,53,2-sobno,1978,V večstanovanjski stavbi,7.,7,2002,,Delno opremljeno,,EI v izdelavi,Savinjska, Velenje, Bevče
+925,169500,68,"3,5-sobno",2022,V večstanovanjski stavbi,1.,2,0,Loža,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+928,202000,96,3-sobno,2022,V večstanovanjski stavbi,Pritličje,2,0,Atrij,Neopremljeno,,Merjena EI,Savinjska, Žalec, Žalec
+930,94200,38,1-sobno,2022,V večstanovanjski stavbi,1.,2,0,Loža,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+933,206000,88,"3,5-sobno",2022,V večstanovanjski stavbi,1.,2,0,Terasa,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+934,204000,106,3-sobno,2022,V večstanovanjski stavbi,Pritličje,2,0,Atrij,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+936,201000,106,3-sobno,2022,V večstanovanjski stavbi,Pritličje,2,0,Atrij,,,EI v izdelavi,Savinjska, Žalec, Žalec
+938,235000,67,"3,5-sobno",1912,V večstanovanjski stavbi,,0,1998,,,brez pripadajočega parkirišča,,Osrednjeslovenska, Škofljica, Škofljica
+939,289000,82,4-sobno,1965,,Visoko pritličje,4,2018,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+940,110000,0,4-sobno,2009,,,3,0,,,,B2 (25 - 35 kWh/m2a),Podravska, Dornava, Dornava
+941,194000,91,,2022,V večstanovanjski stavbi,Pritličje,0,0,Atrij,Neopremljeno,,EI v izdelavi,Savinjska, Žalec, Žalec
+942,490000,0,5-sobno,1993,,,0,0,,,,C (35 - 60 kWh/m2a),Obalno-kraška, Koper, Koper
+943,166440,83,2-sobno,2022,,,0,0,"Balkon, Terasa",,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+944,95800,0,4-sobno,1988,,,0,0,,,,C (35 - 60 kWh/m2a),Posavska, Brežice, Loče
+945,247000,0,3-sobno,2007,,1.,0,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Domžale, Radomlje
+946,169725,88,2-sobno,2022,,,0,0,"Balkon, Terasa",,1,,Savinjska, Rogaška Slatina, Rogaška Slatina
+947,166950,80,2-sobno,1930,,2.,2,2008,,Delno opremljeno,,A1 (0 - 10 kWh/m2a),Savinjska, Žalec, Žalec
+948,155000,0,3-sobno,1967,,,0,0,,,,C (35 - 60 kWh/m2a),Obalno-kraška, Sežana, Sežana
+949,194910,80,,2022,,,0,0,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+951,51000,257,6 in večsobno,1868,,,0,0,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+953,286200,104,4-sobno,2022,V večstanovanjski stavbi,3.,3,0,Terasa,,,,Podravska, Maribor, Tabor
+955,199575,80,3-sobno,2022,V večstanovanjski stavbi,Pritličje,3,0,Atrij,,,EI v izdelavi,Podravska, Maribor, Tabor
+956,328000,69,,1900,,,0,0,,,,,Obalno-kraška, Piran, Portorož
+957,115000,0,3-sobno,1976,,,0,0,,,,E (105 - 150 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Zgornji Kašelj
+958,289000,123,3-sobno,1800,,Mansarda,2,0,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Moste Polje, Moste
+959,79990,107,4-sobno,1945,V hiši,1.,1,0,"Balkon, Terasa",Potrebno obnove,,,Podravska, Hoče, Hotinja vas
+960,489000,131,"4,5-sobno",2022,V hiši,,2,0,,,2,Ni možno izdati,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+962,101000,50,1-sobno,2005,V večstanovanjski stavbi,,3,2021,,Neopremljeno,1,C (35 - 60 kWh/m2a),Koroška, Slovenj Gradec, Legen
+963,140000,0,4-sobno,1966,,,3,0,,,7+,EI ni potrebna (334. člen EZ-1),Gorenjska, Bled, Bled
+964,210000,0,4-sobno,1860,,,2,0,,,,E (105 - 150 kWh/m2a),Obalno-kraška, Koper, Koper
+965,330000,85,"3,5-sobno",1985,,1.,5,2010,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+966,375000,74,3-sobno,2005,V večstanovanjski stavbi,2.,7,0,,Popolnoma opremljeno,,,Obalno-kraška, Piran, Lucija
+967,222200,41,1-sobno,1973,,,0,2021,,,,B2 (25 - 35 kWh/m2a),Podravska, Maribor, Tabor
+968,60000,21,Garsonjera,1988,V večstanovanjski stavbi,Mansarda,0,2004,,,,C (35 - 60 kWh/m2a),Gorenjska, Cerklje na Gorenjskem, Cerklje na Gorenjskem
+969,84000,29,2-sobno,2006,V večstanovanjski stavbi,,3,2021,Balkon,Delno opremljeno,1,,Koroška, Slovenj Gradec, Legen
+970,171000,79,4-sobno,2006,V večstanovanjski stavbi,,3,2021,Balkon,Delno opremljeno,1,,Koroška, Slovenj Gradec, Legen
+971,178933,88,4-sobno,2022,V večstanovanjski stavbi,1.,3,0,,,brez pripadajočega parkirišča,,Pomurska, Apače, Apače
+972,250185,0,3-sobno,2022,,,3,0,,,2,,Savinjska, Rogaška Slatina, Rogaška Slatina
+973,254019,0,3-sobno,2022,,,3,0,,,2,,Savinjska, Rogaška Slatina, Rogaška Slatina
+974,208800,66,2-sobno,1979,,Pritličje,0,2008,Zaprt balkon,Popolnoma opremljeno,,,Gorenjska, Kranj, Kranj
+975,440000,0,3-sobno,2011,,,0,0,,,,B2 (25 - 35 kWh/m2a),Obalno-kraška, Koper, Koper
+976,79900,0,2-sobno,1971,,,3,0,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+977,127000,82,3-sobno,1990,V večstanovanjski stavbi,,2,2006,Zaprt balkon,Delno opremljeno,brez pripadajočega parkirišča,EI v izdelavi,Savinjska, Gornji Grad, Gornji Grad
+978,129000,0,4-sobno,1950,,,0,0,,,,,Jugovzhodna Slovenija, Novo mesto, Novo mesto
+979,87700,0,2-sobno,1971,,1.,3,0,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+980,287000,90,"2,5-sobno",1942,V večstanovanjski stavbi,1.,0,1999,Balkon,,,,Osrednjeslovenska, Ljubljana Šiška, Šentvid
+981,127700,0,3-sobno,1970,,,11,0,,,,,Savinjska, Velenje, Velenje
+983,304700,0,5-sobno,1878,,1.,0,0,,,,D (60 - 105 kWh/m2a),Podravska, Maribor, Center
+985,115000,79,,1979,,,0,2008,,,,C (35 - 60 kWh/m2a),Pomurska, Lendava, Lendava
+986,239300,0,3-sobno,1948,,,0,0,,,,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+987,318000,122,3-sobno,1990,,2.,2,2021,,,,C (35 - 60 kWh/m2a),Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+988,245000,0,6 in večsobno,1980,,,0,0,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Bežigrad, Ježica
+989,324132,0,4-sobno,2021,,,0,0,,,,B2 (25 - 35 kWh/m2a),Podravska, Ptuj, Ptuj
+990,400000,0,3-sobno,1991,,,2,0,,,2,D (60 - 105 kWh/m2a),Obalno-kraška, Piran, Piran
+992,135000,60,3-sobno,1959,V večstanovanjski stavbi,2.,4,2020,Balkon,Popolnoma opremljeno,,EI v izdelavi,Savinjska, Štore, Štore
+993,133000,125,,0,,1.,0,2004,,Neopremljeno,,,Gorenjska, Tržič, Tržič
+994,239990,238,2-sobno,2007,V večstanovanjski stavbi,,0,0,,,2,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+995,220000,69,3-sobno,1964,V večstanovanjski stavbi,,0,0,,Popolnoma opremljeno,1,,Osrednjeslovenska, Ljubljana Moste Polje, Studenec
+996,410000,150,4-sobno,1920,,1.,2,2004,,,,EI v izdelavi,Osrednjeslovenska, Ljubljana Bežigrad, Bežigrad
+997,179800,58,2-sobno,2022,V večstanovanjski stavbi,,3,0,,Neopremljeno,2,Ni možno izdati,Savinjska, Rogaška Slatina, Rogaška Slatina
+998,250186,88,"3,5-sobno",2022,V večstanovanjski stavbi,,3,0,,Neopremljeno,2,Ni možno izdati,Savinjska, Rogaška Slatina, Rogaška Slatina
+999,239500,80,"2,5-sobno",2022,V večstanovanjski stavbi,,3,0,,Neopremljeno,2,Ni možno izdati,Savinjska, Rogaška Slatina, Rogaška Slatina
+1000,145000,78,3-sobno,1900,V večstanovanjski stavbi,3.,3,2010,,,,EI v izdelavi,Podravska, Maribor, Center
+1001,320000,0,3-sobno,1929,V večstanovanjski stavbi,3.,3,1997,,,,EI v izdelavi,Osrednjeslovenska, Ljubljana Šiška, Spodnja Šiška
+1002,111780,0,4-sobno,2000,,,0,0,,,,,Podravska, Gorišnica, Gorišnica
+1003,260000,132,5-sobno,2007,V večstanovanjski stavbi,4.,5,0,Terasa,,,C (35 - 60 kWh/m2a),Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+1005,150000,172,4-sobno,1905,,2.,2,2002,,Neopremljeno,,B1 (15 - 25 kWh/m2a),Pomurska, Ljutomer, Ljutomer
+1006,89900,93,3-sobno,1907,V večstanovanjski stavbi,Pritličje,3,2007,,Delno opremljeno,,EI v izdelavi,Koroška, Mislinja, Tolsti Vrh pri Mislinji
+1007,110000,109,4-sobno,2009,V večstanovanjski stavbi,,5,0,Balkon,Popolnoma opremljeno,brez pripadajočega parkirišča,D (60 - 105 kWh/m2a),Koroška, Ravne na Koroškem, Ravne na Koroškem
+1008,499000,153,4-sobno,2022,V večstanovanjski stavbi,,0,0,,,2,Ni možno izdati,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+1009,499000,153,4-sobno,2022,,,0,0,,,2,Ni možno izdati,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+1010,489000,131,"4,5-sobno",2022,V hiši,,2,0,,,2,Ni možno izdati,Osrednjeslovenska, Ljubljana Moste Polje, Polje
+1012,109000,123,5-sobno,1992,,Pritličje,0,0,Terasa,,,,Podravska, Hajdina, Hajdina
+1014,460000,133,3-sobno,1760,,1.,1,2010,,,,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Ljubljana Center, Center
+1016,320000,0,2-sobno,1873,,,0,0,,,,C (35 - 60 kWh/m2a),Podravska, Maribor, Center
+1017,317000,76,3-sobno,1892,,3.,0,2005,Balkon,Popolnoma opremljeno,,EI v izdelavi,Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+1020,208000,80,3-sobno,1800,V večstanovanjski stavbi,3.,3,2010,,Delno opremljeno,,,Obalno-kraška, Piran, Piran
+1021,488000,105,4-sobno,2021,V večstanovanjski stavbi,,1,0,"Atrij, Terasa",Neopremljeno,2,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+1022,498000,105,4-sobno,2021,V večstanovanjski stavbi,,4,0,"Atrij, Terasa",Neopremljeno,2,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+1024,128000,102,3-sobno,1939,V večstanovanjski stavbi,,1,2020,"Balkon, Atrij",,,EI v izdelavi,Podravska, Maribor, Studenci
+1025,280000,0,3-sobno,1974,,,4,0,,,1,EI ni potrebna (334. člen EZ-1),Gorenjska, Bled, Bled
+1026,150000,0,3-sobno,2010,,,3,0,,,1,D (60 - 105 kWh/m2a),Podravska, Lovrenc na Pohorju, Lovrenc na Pohorju
+1027,139500,0,4-sobno,1836,,,0,0,,,1,,Savinjska, Žalec, Žalec
+1028,89000,0,4-sobno,1893,,,0,0,,,,,Zasavska, Trbovlje, Trbovlje
+1029,466000,0,3-sobno,2005,,,0,0,,,,,Obalno-kraška, Piran, Piran
+1030,75000,17,Garsonjera,1983,,5.,12,2018,,,,D (60 - 105 kWh/m2a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+1031,419000,114,"4,5-sobno",1973,,,2,2009,,Popolnoma opremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+1032,429000,118,4-sobno,2021,,,3,0,"Balkon, Terasa",Neopremljeno,brez pripadajočega parkirišča,,Osrednjeslovenska, Ljubljana Šiška, Šiška
+1033,480000,124,Apartma,0,V večstanovanjski stavbi,3.,3,1990,Balkon,,,,Osrednjeslovenska, Ljubljana Center, Stara Ljubljana
+1034,495000,81,2-sobno,2005,V večstanovanjski stavbi,2.,0,0,Balkon,,,,Obalno-kraška, Piran, Lucija
+1035,495000,81,,2006,,,0,0,,,,,Obalno-kraška, Piran, Lucija
+1036,71000,88,2-sobno,2003,V večstanovanjski stavbi,Visoko pritličje,2,0,Terasa,Nedokončana gradnja,,EI ni potrebna (334. člen EZ-1),Podravska, Šentilj v Slovenskih goricah, Selnica ob Muri
+1037,51000,80,2-sobno,2003,V večstanovanjski stavbi,Pritličje,2,0,Atrij,Nedokončana gradnja,brez pripadajočega parkirišča,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+1038,60000,74,,2003,V večstanovanjski stavbi,1.,2,0,Terasa,Nedokončana gradnja,1,EI v izdelavi,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+1041,445000,129,"4,5-sobno",2010,V večstanovanjski stavbi,3.,3,2015,,,,EI v izdelavi,Gorenjska, Kranj, Kranj
+1042,59000,70,2-sobno,2003,V večstanovanjski stavbi,Pritličje,0,2010,Terasa,Delno opremljeno,,EI ni potrebna (334. člen EZ-1),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+1043,199000,42,2-sobno,1963,V večstanovanjski stavbi,Visoko pritličje,0,2013,,,,EI v izdelavi,Osrednjeslovenska, Ljubljana Moste Polje, Kodeljevo
+1044,90000,73,,1982,,,0,2015,,,,,Savinjska, Zreče, Zreče

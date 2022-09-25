@@ -1,0 +1,969 @@
+,Price,SurfaceArea,TotalRooms,YearBuilt,TotalFloors,HouseMaterial,HouseType,LandArea,YearRenovated,Furniture,ParkingSpots,BalconyTerraceAtrium,OutdoorFurniture,EnergyClass,Region,District,Neighborhood
+0,320000,200,4,2013,Dvonadstropna,"Zidana hiša (beton, opeka)",Dvojček,0,2013,Delno opremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Pesnica pri Mariboru, Spodnje Dobrenje
+1,157000,142,,1966,,,Samostojna,898,0,,brez pripadajočega parkirišča,,,,Savinjska, Celje, Celje
+4,250000,250,8,2005,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Pomurska, Radenci, Radenski Vrh
+5,149000,65,2,1974,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2000,Popolnoma opremljeno,3,Balkon,"Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Žar",,Savinjska, Laško, Brstnik
+6,350000,140,,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,580,0,,,,,,Savinjska, Braslovče, Trnava
+7,450000,198,,2005,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Savinjska, Žalec, Migojnice
+8,398000,151,6,1985,,,Samostojna,402,2020,Neopremljeno,brez pripadajočega parkirišča,Balkon,,E (105 - 150 kWh/m²a),Gorenjska, Naklo, Podbrezje
+9,130000,331,,2004,,"Zidana hiša (beton, opeka)",Samostojna,740,0,Nedokončana gradnja,,,,EI v izdelavi,Podravska, Ptuj, Ptuj
+10,185000,0,3,2000,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,0,2021,Popolnoma opremljeno,,Atrij,,,Podravska, Maribor, Pobrežje
+11,440000,350,7,2017,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,7+,"Balkon, Zaprt balkon, Terasa, Loža, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar",A1 (0 - 10 kWh/m²a),Savinjska, Šentjur, Ponikva
+12,320000,150,5,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Neopremljeno,4,,,,Osrednjeslovenska, Medvode, Rakovnik
+13,85000,0,3,1967,,,Samostojna,0,0,,,,,,Podravska, Pesnica pri Mariboru, Jarenina
+14,61990,100,,1984,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2022,Popolnoma opremljeno,5,"Balkon, Terasa, Loža, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",C (35 - 60 kWh/m²a),Pomurska, Ljutomer, Ljutomer
+16,327000,290,,2001,,"Zidana hiša (beton, opeka)",Dvojček,620,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Obalno-kraška, Kozina, Bač pri Materiji
+18,199000,107,3,1976,,"Zidana hiša (beton, opeka)",Samostojna,522,2018,Delno opremljeno,brez pripadajočega parkirišča,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+19,170000,522,,1970,,"Zidana hiša (beton, opeka)",Samostojna,929,2002,Delno opremljeno,2,,,,Posavska, Sevnica, Boštanj
+20,140000,70,3,1934,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2011,Delno opremljeno,,"Terasa, Atrij",Vrt/dvorišče,EI v izdelavi,Savinjska, Nazarje, Nazarje
+22,90000,300,5,2010,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Pomurska, Lendava, Dolga vas
+23,360000,282,5,0,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,970,2005,,4,"Balkon, Zaprt balkon","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",D (60 - 105 kWh/m²a),Podravska, Maribor, Studenci
+24,262000,427,7,2007,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,1,2007,Popolnoma opremljeno,7+,"Zaprt balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Žar",E (105 - 150 kWh/m²a),Podravska, Zavrč, Korenjak
+26,259000,0,5,1950,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Obalno-kraška, Koper, Škofije
+27,159000,0,6,1800,Večnadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,Ni možno izdati,Obalno-kraška, Koper, Črni Kal
+29,32000,153,,1965,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Podlehnik, Zgornje Gruškovje
+32,60000,120,5,1985,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,1995,Delno opremljeno,,"Balkon, Zaprt balkon","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar",,Jugovzhodna Slovenija, Škocjan, Dolenje Radulje
+34,399800,297,5,1988,Večnadstropna,,Samostojna,580,0,,,"Balkon, Terasa, Atrij",Vrt/dvorišče,D (60 - 105 kWh/m²a),Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+35,210000,100,,1905,,,,0,2020,,,Terasa,,,Obalno-kraška, Koper, Glem
+36,219000,223,,1985,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,380,0,,,Atrij,,E (105 - 150 kWh/m²a),Podravska, Ruše, Ruše
+38,270000,127,4,1977,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,528,2000,Delno opremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Žar",E (151 do 200 kWh/m²a) - HR,Gorenjska, Preddvor, Bašelj
+40,99000,179,,1979,,,,0,1990,,,,,F (150 - 210 kWh/m²a),Pomurska, Beltinci, Dokležovje
+41,246000,108,2,1964,,,Samostojna,314,2015,Delno opremljeno,3,Terasa,Vrt/dvorišče,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+42,66000,35,3,1850,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,1980,Potrebno obnove,2,Balkon,,,Savinjska, Kozje, Podsreda
+43,320000,100,5,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,395,1999,Delno opremljeno,,"Balkon, Terasa",Vrtna uta,F (150 - 210 kWh/m²a),Gorenjska, Kranj, Kranj
+44,360000,129,4,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,341,2022,Neopremljeno,2,Terasa,Vrt/dvorišče,A1 (0 - 10 kWh/m²a),Podravska, Maribor, Studenci
+45,397000,140,5,1987,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,602,0,,,"Balkon, Terasa",Vrt/dvorišče,,Gorenjska, Cerklje na Gorenjskem, Cerklje na Gorenjskem
+46,120000,190,7,1965,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2016,Delno opremljeno,3,,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Pomurska, Murska Sobota, Murska Sobota
+47,148000,80,3,1977,Visokopritlična,,Samostojna,0,0,,,"Balkon, Terasa, Loža","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Žar, Bazen",EI v izdelavi,Osrednjeslovenska, Polhov Gradec, Selo nad Polhovim Gradcem
+48,175000,0,,1988,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Primorsko-notranjska, Pivka, Parje
+49,235000,221,6,2018,Pritlična,Lesena hiša,Samostojna,986,0,Delno opremljeno,6,"Balkon, Zaprt balkon, Terasa, Loža",Vrt/dvorišče,EI v izdelavi,Pomurska, Tišina, Sodišinci
+50,250000,183,,1970,,"Zidana hiša (beton, opeka)",Samostojna,0,2002,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+52,475000,221,,2018,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,406,0,Delno opremljeno,4,Balkon,Vrt/dvorišče,,Gorenjska, Tržič, Bistrica pri Tržiču
+53,146000,121,,1913,Dvonadstropna,,Samostojna,228,2016,,1,,,,Gorenjska, Kranj, Kranj
+54,90000,120,,0,Pritlična,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,2019,,,,,,Podravska, Ormož, Svetinje
+55,240000,180,7,1984,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,900,0,Delno opremljeno,7+,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Posavska, Brežice, Dobova
+56,473500,320,6,2004,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Neopremljeno,,"Terasa, Loža","Vrt/dvorišče, Lopa za shranjevanje, Žar",,Osrednjeslovenska, Škofljica, Škofljica
+60,325000,230,5,1972,,"Zidana hiša (beton, opeka)",Samostojna,950,0,,,,,,Gorenjska, Cerklje na Gorenjskem, Cerklje na Gorenjskem
+62,39000,67,2,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2021,Neopremljeno,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",EI v izdelavi,Pomurska, Lendava, Lendava
+64,269000,166,6,2003,Večnadstropna,"Zidana hiša (beton, opeka)",Dvojček,178,0,,,"Balkon, Atrij",Vrt/dvorišče,,Goriška, Bovec, Bovec
+65,164000,82,4,1995,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,778,2015,Popolnoma opremljeno,3,"Balkon, Loža","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Podravska, Maribor okolica, Jelovec
+66,195000,160,9,0,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,375,2020,,,"Balkon, Terasa",,,Podravska, Hoče, Hoče
+67,150000,148,5,1970,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,1999,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",C (35 - 60 kWh/m²a),Pomurska, Gornja Radgona, Orehovski Vrh
+68,99900,170,9,1914,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,780,2020,Popolnoma opremljeno,,"Balkon, Terasa, Loža","Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Pomurska, Turnišče, Gomilica
+69,195000,220,5,1900,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2011,,,Terasa,,C (35 - 60 kWh/m²a),Jugovzhodna Slovenija, Črnomelj, Črnomelj
+70,249000,254,9,1980,Dvonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,2013,Delno opremljeno,7+,"Balkon, Zaprt balkon, Terasa, Loža, Atrij","Vrt/dvorišče, Lopa za shranjevanje",G (210+ kWh/m²a),Podravska, Kungota, Gradiška
+72,370000,282,5,1970,,"Zidana hiša (beton, opeka)",Samostojna,900,2005,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Maribor, Studenci
+73,449000,137,5,2006,,,Samostojna,602,0,Popolnoma opremljeno,brez pripadajočega parkirišča,"Balkon, Terasa",Vrt/dvorišče,D (60 - 105 kWh/m²a),Gorenjska, Naklo, Podbrezje
+74,170000,129,,1940,,,Samostojna,0,2003,,,,"Vrt/dvorišče, Lopa za shranjevanje",G (210+ kWh/m²a),Podravska, Miklavž na Dravskem polju, Dobrovce
+75,420000,144,4,2019,Dvonadstropna,,Dvojček,172,0,,,,,C (35 - 60 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Jezero
+78,135000,78,3,1929,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,182,2015,Popolnoma opremljeno,2,,Vrt/dvorišče,,Podravska, Maribor, Tabor
+79,225000,151,4,1959,,,Samostojna,519,2019,Popolnoma opremljeno,,Balkon,Vrt/dvorišče,,Podravska, Maribor, Tezno
+80,139900,120,5,1991,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2021,,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",F (150 - 210 kWh/m²a),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+81,75000,53,3,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Maribor, Center
+82,105000,177,,1968,,,Samostojna,0,2008,,,,,,Savinjska, Šmarje pri Jelšah, Šentvid pri Grobelnem
+83,119000,158,,1990,,,Samostojna,0,2020,Delno opremljeno,,"Balkon, Terasa",,B2 (25 - 35 kWh/m²a),Podravska, Ormož, Loperšice
+87,140000,0,,0,,,,0,0,,,,,,Savinjska, Zreče, Skomarje
+88,110000,110,,1988,Enonadstropna,,Samostojna,0,0,Popolnoma opremljeno,,Terasa,"Vrt/dvorišče, Vrtna uta",EI v izdelavi,Podravska, Šentilj v Slovenskih goricah, Zgornja Velka
+89,100000,120,3,1980,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2015,Delno opremljeno,,,,,Podravska, Ptuj, Spuhlja
+92,459000,277,5,1820,,"Zidana hiša (beton, opeka)",,238,2016,Popolnoma opremljeno,,,,,Osrednjeslovenska, Kamnik, Kamnik
+93,499940,172,6,2021,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,385,0,Neopremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt, Vrtna uta, Žar, Bazen",B1 (15 - 25 kWh/m²a),Podravska, Maribor, Radvanje
+94,328500,140,6,2021,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,137,0,Neopremljeno,3,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar, Bazen",B1 (15 - 25 kWh/m²a),Podravska, Maribor, Radvanje
+95,340000,190,5,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,460,0,Nedokončana gradnja,2,,Vrt/dvorišče,,Osrednjeslovenska, Medvode, Rakovnik
+98,350000,0,6,2022,Večnadstropna,,Samostojna,0,0,,,,Bazen,,Savinjska, Vojnik, Frankolovo
+99,204000,0,5,1993,,,Samostojna,0,0,,4,,Vrt/dvorišče,,Savinjska, Žalec, Žalec
+100,105000,76,3,1956,,,Samostojna,0,0,Delno opremljeno,,,"Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Podravska, Duplek, Spodnji Duplek
+102,350000,274,7,1979,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,794,2015,Popolnoma opremljeno,6,"Balkon, Zaprt balkon, Terasa, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar, Bazen",D (60 - 105 kWh/m²a),Podravska, Duplek, Spodnji Duplek
+103,199000,437,10+,1980,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2018,Popolnoma opremljeno,5,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",,Jugovzhodna Slovenija, Metlika, Metlika
+104,228000,202,5,1977,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,1,,,,Goriška, Kanal ob Soči, Ročinj
+105,249000,158,6,2022,,,Samostojna,505,0,,2,,,,Podravska, Hoče, Rogoza
+106,162000,156,7,1964,,,Samostojna,763,2001,Delno opremljeno,2,Terasa,Vrt/dvorišče,D (60 - 105 kWh/m²a),Pomurska, Gornja Radgona, Gornja Radgona
+107,230000,82,10+,2000,,,Ostalo,309,0,,,,,E (105 - 150 kWh/m²a),Goriška, Bovec, Bovec
+108,45000,60,10+,1931,,,Vrstna,142,0,,,,,G (210+ kWh/m²a),Goriška, Šempeter pri Gorici, Vrtojba
+109,265000,130,5,0,Enonadstropna,,Samostojna,255,0,,,,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor, Tezno
+110,195000,0,,0,,,Kmetija,0,0,,,,,,Posavska, Krško, Selo
+111,334000,86,7,1937,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2005,Popolnoma opremljeno,4,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Žar",D (60 - 105 kWh/m²a),Osrednjeslovenska, Medvode, Medvode
+112,245000,98,,1900,Enonadstropna,Kamnita hiša,Vrstna,38,2000,,,Balkon,Vrt/dvorišče,,Obalno-kraška, Koper, Škofije
+113,199000,150,6,1995,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,150,2013,,,"Balkon, Terasa",,,Pomurska, Murska Sobota, Satahovci
+114,220000,257,7,2000,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,220,0,Delno opremljeno,4,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",E (105 - 150 kWh/m²a),Jugovzhodna Slovenija, Novo mesto, Otočec
+115,99000,144,,2000,,,Samostojna,0,2008,,,,,,Savinjska, Vojnik, Male Dole
+116,130000,82,,1937,,,Samostojna,0,2021,,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Pomurska, Puconci, Puconci
+117,195000,0,9,1923,,,Samostojna,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Zasavska, Trbovlje, Trbovlje
+118,189000,0,5,1974,,,Samostojna,0,0,,4,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",EI ni potrebna (334. člen EZ-1),Podravska, Gorišnica, Gorišnica
+120,260000,170,7,2005,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,296,0,Delno opremljeno,,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Podravska, Maribor, Pobrežje
+121,299900,0,5,1920,,"Zidana hiša (beton, opeka)",Samostojna,0,2015,Popolnoma opremljeno,1,,,,Goriška, Idrija, Črni Vrh nad Idrijo
+122,299000,1,5,1920,,"Zidana hiša (beton, opeka)",Kmetija,1,2015,Popolnoma opremljeno,1,,,,Goriška, Idrija, Črni Vrh nad Idrijo
+123,170000,84,4,1838,,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,2000,Neopremljeno,2,,,,Podravska, Miklavž na Dravskem polju, Dobrovce
+124,320000,114,4,1998,,,Dvojček,376,0,,brez pripadajočega parkirišča,,,EI v izdelavi,Osrednjeslovenska, Dol pri Ljubljani, Dolsko
+125,83000,182,,1963,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,,Vrt/dvorišče,EI v izdelavi,Pomurska, Ljutomer, Cven
+126,175000,204,4,2020,,"Zidana hiša (beton, opeka)",Samostojna,731,0,,,,,,Podravska, Kidričevo, Kidričevo
+127,82000,90,3,1965,,"Zidana hiša (beton, opeka)",Samostojna,0,2000,Popolnoma opremljeno,,,,,Podravska, Selnica ob Dravi, Zgornja Selnica
+128,86000,240,3,1990,,"Zidana hiša (beton, opeka)",Samostojna,0,2006,,,,,,Podravska, Sv. Ana v Slovenskih goricah, Lokavec
+129,229000,119,4,1968,,,Samostojna,664,2014,Popolnoma opremljeno,,"Balkon, Terasa",,E (105 - 150 kWh/m²a),Podravska, Ptuj, Ptuj
+131,329000,59,3,2011,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,472,2011,Delno opremljeno,4,"Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",C (35 - 60 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Nove Jarše
+132,136900,110,9,1972,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,631,0,,,Balkon,Vrt/dvorišče,,Pomurska, Ljutomer, Ljutomer
+133,197000,113,,1930,,,Samostojna,524,2020,,,,,,Savinjska, Celje, Lava
+134,174000,174,5,1994,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",E (105 - 150 kWh/m²a),Podravska, Cerkvenjak, Stanetinci
+135,110000,120,,1980,Pritlična,"Zidana hiša (beton, opeka)",Atrijska,960,2022,Neopremljeno,7+,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",D (60 - 105 kWh/m²a),Pomurska, Lendava, Mostje
+137,299500,0,6,1975,Večnadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Polzela, Polzela
+139,139900,110,4,1965,Visokopritlična,,Samostojna,629,2008,,,Balkon,Vrt/dvorišče,,Podravska, Ptuj, Ptuj
+141,339000,341,,1904,,,,615,0,Delno opremljeno,4,,,F (150 - 210 kWh/m²a),Podravska, Maribor, Studenci
+142,115000,0,6,0,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2009,,,Balkon,"Vrt/dvorišče, Vrtna uta",F (150 - 210 kWh/m²a),Podravska, Ptuj, Ptuj
+143,45000,59,1,1966,Pritlična,,Samostojna,0,1990,,,Terasa,,,Pomurska, Dobrovnik, Dobrovnik
+144,175000,240,6,2008,,,Samostojna,0,0,,,,,Ni možno izdati,Osrednjeslovenska, Grosuplje, Grosuplje
+145,290000,124,5,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,536,2022,,,"Balkon, Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Hoče, Radizel
+147,194900,110,3,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,350,0,Neopremljeno,2,Terasa,,B1 (15 - 25 kWh/m²a),Podravska, Rače, Fram
+150,490000,369,,1990,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,0,,4,"Balkon, Zaprt balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar, Bazen",,Podravska, Majšperk, Podlože
+151,85000,150,,0,,,Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Žužemberk, Lopata
+152,77000,120,,0,,,Samostojna,0,0,Popolnoma opremljeno,,Terasa,Vrt/dvorišče,EI v izdelavi,Pomurska, Lendava, Lendava
+153,287000,0,5,1937,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje",G (210+ kWh/m²a),Podravska, Maribor, Malečnik
+154,369000,200,6,2001,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2021,Popolnoma opremljeno,3,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Pomurska, Gornja Radgona, Spodnji Ivanjci
+155,149800,0,7,1978,Večnadstropna,,Samostojna,0,0,,4,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Savinjska, Šentjur, Šentjur
+156,68000,95,3,1960,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,,"Vrt/dvorišče, Vrtna uta",,Posavska, Krško, Reštanj
+157,65000,90,4,1970,,"Zidana hiša (beton, opeka)",Samostojna,300,1990,Delno opremljeno,,,,,Posavska, Brežice, Krška vas
+158,185000,150,5,1900,Dvonadstropna,Kamnita hiša,Dvostanovanjska,450,1990,Potrebno obnove,7+,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",EI ni potrebna (334. člen EZ-1),Obalno-kraška, Divača, Divača
+159,100000,120,2,2007,Enonadstropna,"Zidana hiša (beton, opeka)",Ostalo,0,2018,Popolnoma opremljeno,5,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Žar, Bazen",EI v izdelavi,Podravska, Videm pri Ptuju, Ljubstava
+160,155000,215,3,1993,Večnadstropna,,Dvojček,448,2021,Popolnoma opremljeno,,"Terasa, Atrij","Vrt/dvorišče, Vrtna uta",E (105 - 150 kWh/m²a),Pomurska, Lendava, Lendava
+161,405000,220,,2021,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Rače, Podova
+162,78000,0,,1800,,,,0,0,,,,,,Podravska, Maribor okolica, Grušova
+163,69000,40,2,2000,Enonadstropna,"Zidana hiša (beton, opeka)",Ostalo,302,0,,2,Terasa,Vrt/dvorišče,,Savinjska, Šentjur, Pletovarje
+164,110000,170,8,1977,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2017,Popolnoma opremljeno,,"Balkon, Terasa",Vrt/dvorišče,,Podravska, Ormož, Senešci
+165,198000,170,,1977,,,Kmetija,0,2017,,,,,,Podravska, Ormož, Velika Nedelja
+167,53000,80,,1731,,"Zidana hiša (beton, opeka)",Samostojna,0,1985,,,,,,Jugovzhodna Slovenija, Šentrupert, Šentrupert
+168,175000,230,10+,1982,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2022,,,Terasa,Vrt/dvorišče,,Pomurska, Beltinci, Dokležovje
+170,142000,75,3,1991,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,965,2000,,5,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Posavska, Brežice, Kapele
+171,74000,95,3,1972,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2017,Delno opremljeno,6,Terasa,Vrt/dvorišče,E (105 - 150 kWh/m²a),Pomurska, Puconci, Moščanci
+172,279990,193,4,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,265,0,Delno opremljeno,,"Terasa, Loža, Atrij",Vrt/dvorišče,A2 (10 - 15 kWh/m²a),Podravska, Maribor, Tezno
+173,420000,0,5,2008,Dvonadstropna,,Samostojna,0,0,,4,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Obalno-kraška, Koper, Sv. Anton
+174,75000,104,2,1983,,"Zidana hiša (beton, opeka)",Samostojna,372,0,Delno opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Kungota, Gradiška
+175,98000,0,,1967,,,Samostojna,700,0,,,,,,Podravska, Ptuj, Ptuj
+177,118000,205,,1950,,,Samostojna,0,2002,,brez pripadajočega parkirišča,,,EI v izdelavi,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+178,118000,205,,1950,,,Kmetija,0,2002,,brez pripadajočega parkirišča,,,EI v izdelavi,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+179,310000,0,5,1892,,,Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Osrednjeslovenska, Medvode, Medvode
+180,380000,0,5,2007,,,Dvojček,0,0,,2,,Vrt/dvorišče,,Obalno-kraška, Koper, Koper
+182,290000,230,6,2010,,,Samostojna,801,2021,Delno opremljeno,brez pripadajočega parkirišča,Terasa,,,Podravska, Maribor okolica, Počehova
+183,280000,142,4,2020,,"Zidana hiša (beton, opeka)",Dvojček,362,0,,,,,,Podravska, Rače, Požeg
+184,69990,350,10+,1920,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,"Vrt/dvorišče, Lopa za shranjevanje",Ni možno izdati,Podravska, Maribor, Za Kalvarijo
+187,40000,35,1,1996,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2004,Delno opremljeno,,"Terasa, Atrij",Vrt/dvorišče,F (150 - 210 kWh/m²a),Pomurska, Ljutomer, Drakovci
+188,190000,82,,1980,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,82,2021,Popolnoma opremljeno,,,Vrt/dvorišče,,Obalno-kraška, Izola, Korte
+189,139900,130,4,1974,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,410,0,Neopremljeno,,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt",F (150 - 210 kWh/m²a),Savinjska, Polzela, Polzela
+190,170000,200,,1938,,,,0,2003,,,,,,Podravska, Miklavž na Dravskem polju, Dobrovce
+191,168000,0,5,1975,,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Hoče, Hotinja vas
+192,150000,80,3,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Jugovzhodna Slovenija, Ribnica, Ortnek
+193,315000,340,,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,612,0,Popolnoma opremljeno,,,Vrt/dvorišče,,Goriška, Idrija, Črni Vrh nad Idrijo
+194,164500,160,3,1990,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,725,0,,,,,,Savinjska, Polzela, Ločica ob Savinji
+195,160000,146,5,2005,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,3,,,,Podravska, Maribor okolica, Ruperče
+197,185000,212,,1972,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+198,450000,108,,1968,,"Zidana hiša (beton, opeka)",Dvojček,237,1999,,,,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Vič - Dolgi most
+199,194000,65,,1970,Enonadstropna,,Vrstna,129,0,,,,,E (105 - 150 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+200,149000,800,,1989,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Balkon,Vrt/dvorišče,,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+201,166500,180,1,1998,Dvonadstropna,,Samostojna,303,2015,,,Balkon,,,Podravska, Slovenska Bistrica, Pragersko
+202,69000,48,,2006,,,,0,0,,,,,,Podravska, Poljčane, Poljčane
+203,189000,179,,1967,Dvonadstropna,"Zidana hiša (beton, opeka)",Dvojček,0,0,,,,,G (210+ kWh/m²a),Savinjska, Žalec, Migojnice
+204,250000,111,5,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,360,0,Neopremljeno,2,"Terasa, Atrij",Vrt/dvorišče,Ni možno izdati,Podravska, Rače, Podova
+205,125000,70,2,1988,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,495,2020,Popolnoma opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Savinjska, Celje, Slatina v Rožni Dolini
+206,290000,317,,2006,,,Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Sodražica, Sodražica
+207,455000,89,,1927,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,517,0,,,,,,Osrednjeslovenska, Ljubljana Vič Rudnik, Brdo
+208,345000,187,4,1959,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2021,,3,"Balkon, Terasa, Loža",Vrt/dvorišče,E (105 - 150 kWh/m²a),Gorenjska, Kranj, Primskovo
+209,88000,60,2,1980,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,800,2021,Delno opremljeno,,"Balkon, Terasa",,Merjena EI,Savinjska, Rogaška Slatina, Tržišče
+210,117700,0,5,1972,Dvonadstropna,,Samostojna,0,0,,3,,Vrt/dvorišče,,Obalno-kraška, Sežana, Griže
+211,270000,0,3,1990,,,Samostojna,0,0,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Osrednjeslovenska, Ivančna Gorica, Višnja Gora
+213,199000,256,6,2005,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,700,2017,,,"Balkon, Terasa, Loža","Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Hajdina, Slovenja vas
+214,38000,30,1,1990,,,Samostojna,0,0,,,Balkon,,EI ni potrebna (334. člen EZ-1),Savinjska, Šentjur, Dramlje
+216,360000,280,,2000,,"Zidana hiša (beton, opeka)",,0,2010,Popolnoma opremljeno,,"Balkon, Terasa",,,Savinjska, Šentjur, Proseniško
+217,334000,130,6,1939,,,Samostojna,0,0,,,,,,Osrednjeslovenska, Medvode, Medvode
+218,280000,168,,1963,,"Zidana hiša (beton, opeka)",Dvojček,462,2005,,,,,,Savinjska, Celje, Celje
+219,320000,114,4,1998,,,Dvojček,376,0,,brez pripadajočega parkirišča,,,EI v izdelavi,Osrednjeslovenska, Dol pri Ljubljani, Dolsko
+220,189900,138,,2020,,,Dvojček,398,0,,2,"Balkon, Atrij",,,Podravska, Kungota, Zgornja Kungota
+221,320000,133,5,2022,,,Samostojna,500,0,,brez pripadajočega parkirišča,Atrij,Vrt/dvorišče,,Podravska, Maribor okolica, Razvanje
+222,219000,120,,0,,"Zidana hiša (beton, opeka)",Atrijska,657,0,Neopremljeno,brez pripadajočega parkirišča,"Terasa, Atrij",Vrt/dvorišče,,Podravska, Lenart v Slovenskih goricah, Voličina
+223,169900,80,,2003,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Terasa,Vrt/dvorišče,B1 (15 - 25 kWh/m²a),Podravska, Makole, Stari Grad
+225,85000,180,4,1980,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,860,2010,,,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+226,160000,0,,1985,,,,0,0,,,,,,Savinjska, Vitanje, Stenica
+227,299000,340,7,1992,,,Samostojna,0,0,,7+,Terasa,Vrt/dvorišče,E (105 - 150 kWh/m²a),Pomurska, Murska Sobota, Markišavci
+228,239500,217,5,1972,,,Samostojna,499,0,Popolnoma opremljeno,brez pripadajočega parkirišča,"Balkon, Terasa",Vrt/dvorišče,,Podravska, Maribor, Melje
+229,230000,189,10+,1980,,,Ostalo,797,0,,,,,F (150 - 210 kWh/m²a),Goriška, Renče, Vogrsko
+230,379000,165,,2003,,,Samostojna,0,0,Popolnoma opremljeno,brez pripadajočega parkirišča,"Zaprt balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Posavska, Krško, Sremič
+234,445000,145,4,1840,,,Samostojna,0,1995,,,,,E (105 - 150 kWh/m²a),Osrednjeslovenska, Ljubljana Center, Center
+235,239900,177,4,1997,Dvonadstropna,,Samostojna,0,2010,Popolnoma opremljeno,,"Balkon, Zaprt balkon","Vrt/dvorišče, Lopa za shranjevanje",E (105 - 150 kWh/m²a),Savinjska, Žalec, Grče
+238,107550,0,,1960,,,Ostalo,0,0,,,,,,Podravska, Hoče, Hočko Pohorje
+239,160000,184,10+,1980,Dvonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,2013,Delno opremljeno,4,Terasa,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Trnovska vas, Trnovska vas
+241,61990,0,,1984,,,,0,0,,,,,,Pomurska, Ljutomer, Ljutomer
+242,370000,180,6,1990,Enonadstropna,,Samostojna,600,2020,Popolnoma opremljeno,2,"Balkon, Zaprt balkon, Terasa, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta",,Podravska, Maribor, Ostalo
+243,90000,0,8,1978,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Balkon,Vrt/dvorišče,,Pomurska, Črenšovci, Trnje
+244,144900,256,,1993,,,,355,2019,,,,,,Podravska, Kidričevo, Lovrenc na Dravskem polju
+245,194000,120,,2022,,,,375,0,,,,,,Savinjska, Vojnik, Vojnik
+246,115000,210,10+,1984,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,600,2000,Potrebno obnove,,"Balkon, Terasa, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta",,Osrednjeslovenska, Litija, Vače
+247,74000,0,,1974,,,,0,0,,,,,,Savinjska, Laško, Mala Breza
+248,99000,100,,2012,,,,0,2022,,,"Balkon, Terasa",Vrt/dvorišče,,Pomurska, Lendava, Dolina pri Lendavi
+250,335000,206,,1950,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Kidričevo, Lovrenc na Dravskem polju
+252,69800,130,1,1980,Pritlična,,Samostojna,0,0,,,"Balkon, Zaprt balkon, Terasa",,EI v izdelavi,Savinjska, Šmarje pri Jelšah, Grliče
+255,360000,305,,1980,Pritlična,,Ostalo,0,2005,,,,,,Podravska, Ptuj, Ptuj
+256,370000,155,5,2008,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,365,2008,Popolnoma opremljeno,,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Obalno-kraška, Kozina, Hrpelje
+257,62000,72,,1980,,,Samostojna,960,0,,,,,D (60 - 105 kWh/m²a),Pomurska, Murska Sobota, Bakovci
+259,155000,137,3,2022,Visokopritlična,"Zidana hiša (beton, opeka)",Vrstna,267,0,,,Terasa,Vrt/dvorišče,Ni možno izdati,Podravska, Hajdina, Hajdina
+260,279000,149,3,2008,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,909,0,,,,,,Podravska, Ptuj, Ptuj
+261,50000,102,3,1980,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,434,2010,Popolnoma opremljeno,3,"Balkon, Terasa","Vrt/dvorišče, Vrtna uta",,Podravska, Ormož, Trstenik
+262,195000,121,4,2023,,"Zidana hiša (beton, opeka)",Dvojček,513,0,,,,,,Podravska, Duplek, Spodnji Duplek
+263,205000,121,4,2023,,"Zidana hiša (beton, opeka)",Dvojček,842,0,,,,,,Podravska, Duplek, Spodnji Duplek
+264,127500,180,5,1934,,"Zidana hiša (beton, opeka)",,0,1995,,,,,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+265,295000,143,4,2006,,"Zidana hiša (beton, opeka)",,336,2019,Neopremljeno,1,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+266,275000,240,,1984,,"Zidana hiša (beton, opeka)",Samostojna,600,2017,,1,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+267,207000,179,,1800,,"Zidana hiša (beton, opeka)",,0,1980,,2,,,,Savinjska, Rogaška Slatina, Rajnkovec
+268,130000,179,,1800,,"Zidana hiša (beton, opeka)",Samostojna,0,1980,,2,,,,Savinjska, Rogaška Slatina, Rajnkovec
+270,347900,141,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,247,0,,2,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor, Limbuš
+271,347900,141,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,247,0,,2,Terasa,Lopa za shranjevanje,,Podravska, Maribor, Limbuš
+272,329900,124,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,294,0,,2,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor, Limbuš
+273,329900,124,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,294,0,,2,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor, Limbuš
+274,215000,180,,0,,,,0,0,,,,,,Jugovzhodna Slovenija, Šmarješke Toplice, Šmarješke Toplice
+276,220000,111,5,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,255,0,Neopremljeno,2,"Terasa, Atrij",Vrt/dvorišče,Ni možno izdati,Podravska, Rače, Podova
+277,285000,86,2,2008,Visokopritlična,"Zidana hiša (beton, opeka)",Dvostanovanjska,298,0,Delno opremljeno,2,"Terasa, Atrij",Vrt/dvorišče,EI v izdelavi,Osrednjeslovenska, Komenda, Klanec
+278,310000,356,7,1984,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,833,2020,Popolnoma opremljeno,3,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Žar, Bazen",E (105 - 150 kWh/m²a),Podravska, Maribor, Bresternica
+279,285000,260,6,1998,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,625,0,Popolnoma opremljeno,,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Podravska, Maribor, Center
+280,222000,350,5,1998,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,2004,,3,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Jugovzhodna Slovenija, Novo mesto, Dolenji Suhadol
+281,114990,60,,1928,,,Samostojna,372,0,,,,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor, Pobrežje
+283,179900,234,5,1988,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Delno opremljeno,,"Terasa, Loža","Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Ptuj, Podvinci
+284,189000,142,4,2012,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,699,0,,,Terasa,,,Podravska, Ptuj, Ptuj
+285,450000,291,6,2003,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,"Balkon, Zaprt balkon","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje",C (35 - 60 kWh/m²a),Podravska, Gorišnica, Tibolci
+286,166000,137,3,2022,Visokopritlična,"Zidana hiša (beton, opeka)",Vrstna,350,0,,,Terasa,Vrt/dvorišče,,Podravska, Hajdina, Hajdina
+287,149900,96,4,1986,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,668,0,,,Balkon,"Vrt/dvorišče, Vrtna uta",,Podravska, Ptuj, Ptuj
+288,74900,32,1,1860,Pritlična,Lesena hiša,Samostojna,0,0,,,,,,Podravska, Ormož, Lunovec
+289,189000,190,6,1936,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,276,2005,Delno opremljeno,2,Balkon,,,Podravska, Maribor, Pobrežje
+290,289000,215,,1979,,,Samostojna,0,2015,Delno opremljeno,,"Balkon, Zaprt balkon, Terasa, Loža, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Bazen",,Podravska, Duplek, Spodnji Duplek
+292,395000,150,,2023,Enonadstropna,,Samostojna,750,0,,,Terasa,,B2 (25 - 35 kWh/m²a),Savinjska, Velenje, Velenje
+294,90000,137,5,1850,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,1985,Popolnoma opremljeno,2,"Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Posavska, Krško, Raka
+295,295000,112,6,2001,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,600,2007,Delno opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje",,Osrednjeslovenska, Škofljica, Gradišče nad Pijavo Gorico
+296,298000,612,,1989,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Neopremljeno,,,,,Obalno-kraška, Komen, Gorjansko
+297,157000,67,,1825,,"Zidana hiša (beton, opeka)",,268,1993,,,,,,Obalno-kraška, Kozina, Mihele
+298,69900,80,3,1998,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,"Balkon, Terasa, Loža",Vrtna uta,,Podravska, Majšperk, Koritno
+303,119000,80,,1950,,,Samostojna,0,2010,,,,,,Podravska, Hoče, Hotinja vas
+304,200000,179,5,1997,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2019,,4,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Osrednjeslovenska, Litija, Čateška Gora
+305,75000,100,3,1932,,Kamnita hiša,Samostojna,697,1980,Delno opremljeno,,,"Vrt/dvorišče, Vrtna uta, Žar",F (150 - 210 kWh/m²a),Jugovzhodna Slovenija, Loški Potok, Draga
+306,279000,189,,2007,,,Vrstna,175,0,,,"Balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Maribor, Limbuš
+307,205000,135,4,2002,,,Samostojna,0,0,Popolnoma opremljeno,3,"Balkon, Terasa",Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Rače, Morje
+308,249000,450,6,2002,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,,"Balkon, Terasa, Loža","Vrt/dvorišče, Lopa za shranjevanje",,Pomurska, Gornja Radgona, Spodnja Ščavnica
+309,140000,115,3,1980,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,870,0,,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Jugovzhodna Slovenija, Semič, Semič
+310,110000,120,3,1980,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,960,2022,Neopremljeno,7+,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",C (35 - 60 kWh/m²a),Pomurska, Lendava, Mostje
+311,105000,147,6,1953,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,359,1997,,,,,,Zasavska, Zagorje ob Savi, Selo pri Zagorju
+312,390000,0,5,1970,Dvonadstropna,,Samostojna,0,0,,2,,,EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Ljubljana Šiška, Šiška
+313,339000,0,6,1996,,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+314,50000,0,3,1997,,,Samostojna,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Savinjska, Rogaška Slatina, Rogaška Slatina
+315,220000,0,6,1965,,,Samostojna,0,0,,,,,,Zasavska, Trbovlje, Trbovlje
+316,62000,0,2,1989,Večnadstropna,,,0,0,,2,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Savinjska, Šentjur, Loka pri Žusmu
+317,220000,0,6,1994,,,Samostojna,0,0,,,,,,Podravska, Ptuj, Ptuj
+318,96000,0,2,1976,Dvonadstropna,,Samostojna,0,0,,,,,,Podravska, Videm pri Ptuju, Videm pri Ptuju
+321,138000,200,,0,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,188,2010,,3,Balkon,,EI v izdelavi,Savinjska, Radeče, Radeče
+322,280000,79,4,1800,,"Zidana hiša (beton, opeka)",,0,2018,,,,,,Obalno-kraška, Koper, Koper
+324,120000,80,3,1976,,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Popolnoma opremljeno,,,,,Podravska, Maribor okolica, Vrhov Dol
+325,119700,101,3,1972,,"Zidana hiša (beton, opeka)",Kmetija,0,0,,,,,,Podravska, Videm pri Ptuju, Vareja
+326,246000,433,,2014,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Zgornja Polskava
+327,370000,152,,2023,,"Zidana hiša (beton, opeka)",,210,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+328,350000,151,,2023,,"Zidana hiša (beton, opeka)",,174,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+329,350000,151,,2023,,"Zidana hiša (beton, opeka)",,169,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+330,362000,152,,2023,,"Zidana hiša (beton, opeka)",,194,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+331,115000,84,,1954,,,Samostojna,481,0,Delno opremljeno,brez pripadajočega parkirišča,Balkon,Vrt/dvorišče,F (150 - 210 kWh/m²a),Posavska, Krško, Leskovec pri Krškem
+332,65000,85,,1965,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,576,1985,,,,,,Savinjska, Polzela, Andraž nad Polzelo
+333,115000,84,4,1954,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,481,0,Delno opremljeno,,Balkon,,F (150 - 210 kWh/m²a),Posavska, Krško, Leskovec pri Krškem
+334,350000,191,,1969,Enonadstropna,,Vrstna,433,2007,,,,,C (35 - 60 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+335,210000,234,,1995,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,185,2014,,,"Balkon, Terasa",,D (101 do 150 kWh/m²a) - HR,Savinjska, Slovenske Konjice, Slovenske Konjice
+336,160000,160,4,1925,Pritlična,"Zidana hiša (beton, opeka)",Ostalo,0,2011,Popolnoma opremljeno,,,"Vrt/dvorišče, Lopa za shranjevanje",F (150 - 210 kWh/m²a),Savinjska, Polzela, Orova vas
+337,155000,96,3,2022,Pritlična,,Samostojna,512,0,Delno opremljeno,2,Terasa,Vrt/dvorišče,A1 (0 - 10 kWh/m²a),Jugovzhodna Slovenija, Straža, Straža
+340,300000,358,1,2019,Enonadstropna,,Samostojna,858,0,Nedokončana gradnja,,Balkon,Vrt/dvorišče,,Osrednjeslovenska, Logatec, Logatec
+341,370000,152,,2023,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,211,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Novo Polje
+342,350000,152,,2023,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,174,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Novo Polje
+343,350000,152,,2023,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,169,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Novo Polje
+344,362000,152,,2023,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,194,0,,,,,,Osrednjeslovenska, Ljubljana Moste Polje, Novo Polje
+345,259000,188,5,2022,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,312,0,Neopremljeno,4,"Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje",B1 (15 - 25 kWh/m²a),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+346,360000,600,,1900,,"Zidana hiša (beton, opeka)",Samostojna,314,1980,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Maribor, Center
+348,228000,140,4,1980,Visokopritlična,,Samostojna,852,2015,,,"Balkon, Terasa","Vrt/dvorišče, Žar",D (60 - 105 kWh/m²a),Podravska, Kungota, Gradiška
+349,260000,400,10+,1990,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2020,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar",,Koroška, Slovenj Gradec, Gradišče
+350,215000,104,4,2006,Enonadstropna,,Dvojček,152,2019,Delno opremljeno,2,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Podravska, Maribor, Tezno
+351,59000,300,1,2008,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2008,Nedokončana gradnja,,Balkon,,,Pomurska, Gornja Radgona, Zbigovci
+352,308000,146,5,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,2007,Popolnoma opremljeno,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Savinjska, Prebold, Prebold
+354,105000,60,3,1940,,,Samostojna,544,2001,,2,Terasa,Vrt/dvorišče,F (150 - 210 kWh/m²a),Savinjska, Šentjur, Šentjur
+355,105000,130,5,1907,,"Zidana hiša (beton, opeka)",Samostojna,462,2000,Popolnoma opremljeno,,,,,Pomurska, Ljutomer, Ljutomer
+356,255000,268,5,2001,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,779,0,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Žar, Bazen",D (101 do 150 kWh/m²a) - HR,Podravska, Kungota, Zgornja Kungota
+357,91500,134,,1991,Večnadstropna,,Dvostanovanjska,0,2020,,,,,F (150 - 210 kWh/m²a),Pomurska, Murska Sobota, Murska Sobota
+358,40000,50,3,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Zavrč, Gorenjski Vrh
+362,77000,117,2,1960,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Potrebno obnove,,Atrij,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Kidričevo, Župečja vas
+364,75000,120,3,1985,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2019,Popolnoma opremljeno,7+,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Žar",,Savinjska, Rogaška Slatina, Rogaška Slatina
+365,180000,120,1,0,Pritlična,,Samostojna,565,2005,,,,,,Jugovzhodna Slovenija, Trebnje, Trebnje
+366,140000,204,4,1972,Dvonadstropna,"Zidana hiša (beton, opeka)",,0,0,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje",,Jugovzhodna Slovenija, Kočevje, Mrtvice
+369,100000,95,4,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,1985,,,,,,Savinjska, Braslovče, Braslovče
+370,210000,305,8,1976,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2003,Popolnoma opremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Žar",D (60 - 105 kWh/m²a),Zasavska, Zagorje ob Savi, Zagorje ob Savi
+371,148000,244,,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,410,0,,,,,,Podravska, Maribor, Brezje - Dogoše - Zrkovce
+373,200000,96,4,2003,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,210,2015,Popolnoma opremljeno,,"Balkon, Terasa",Lopa za shranjevanje,D (60 - 105 kWh/m²a),Podravska, Maribor, Bresternica
+374,280000,204,7,1988,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,918,2004,,,"Balkon, Terasa","Lopa za shranjevanje, Žar",,Koroška, Ravne na Koroškem, Brdinje
+376,99000,300,5,2010,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Pomurska, Lendava, Dolga vas
+377,87000,100,,1965,,,Dvojček,814,0,,,,,,Podravska, Gorišnica, Gorišnica
+378,69999,58,2,2000,Visokopritlična,"Zidana hiša (beton, opeka)",Ostalo,301,0,Delno opremljeno,2,Terasa,"Vrt/dvorišče, Žar",,Savinjska, Šentjur, Grušce
+379,170000,220,,1975,,,Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Kočevje, Gorenje
+380,169900,127,4,1930,,"Zidana hiša (beton, opeka)",Samostojna,653,2003,,2,,,,Pomurska, Beltinci, Lipa
+381,375000,308,4,2010,,"Zidana hiša (beton, opeka)",Samostojna,975,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Osrednjeslovenska, Velike Lašče, Velike Lašče
+383,220000,120,,1985,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Posavska, Krško, Krško
+384,52000,0,5,1925,Dvonadstropna,Lesena hiša,Kmetija,0,2014,,,,,,Posavska, Brežice, Bizeljsko
+386,145000,75,3,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,145,0,Delno opremljeno,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Maribor, Studenci
+387,430000,217,,2022,,,Dvojček,568,0,,,,,,Osrednjeslovenska, Velike Lašče, Mali Ločnik
+388,100000,0,10+,0,Večnadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,0,,,,,,Posavska, Krško, Dolenja vas pri Krškem
+389,361350,195,,2021,,,Dvojček,0,0,,,,,,Osrednjeslovenska, Ljubljana Bežigrad, Črnuče
+390,220000,111,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,0,0,,2,Terasa,Vrt/dvorišče,,Podravska, Rače, Rače
+394,200000,77,,2022,,,Samostojna,300,0,,,,,,Savinjska, Celje, Trnovlje pri Celju
+395,230000,116,,2022,,,Dvojček,272,0,,,,,,Savinjska, Celje, Trnovlje pri Celju
+396,270000,309,,2019,,,Samostojna,408,0,,,,,,Podravska, Maribor, Malečnik
+397,57900,86,,1954,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Markovci, Bukovci
+398,252000,441,5,1980,,"Zidana hiša (beton, opeka)",Dvostanovanjska,485,2009,Delno opremljeno,2,,,,Zasavska, Trbovlje, Trbovlje
+399,165000,90,3,1910,Enonadstropna,Kamnita hiša,Samostojna,850,0,Potrebno obnove,,Terasa,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Koper, Pobegi
+400,124900,116,4,1975,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,Balkon,"Vrt/dvorišče, Vrtna uta",,Podravska, Sv. Ana v Slovenskih goricah, Sv. Ana v Slovenskih goricah
+401,140000,164,5,1973,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,1982,Popolnoma opremljeno,,"Balkon, Terasa, Atrij",Vrt/dvorišče,F (150 - 210 kWh/m²a),Pomurska, Ljutomer, Mekotnjak
+403,99000,446,,1999,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Pomurska, Gornja Radgona, Črešnjevci
+406,280000,155,3,2022,,"Zidana hiša (beton, opeka)",Dvojček,301,0,,,,,,Osrednjeslovenska, Vrhnika, Sinja Gorica
+407,155000,174,5,1988,,,Samostojna,858,2016,Popolnoma opremljeno,2,"Balkon, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Kungota, Rošpoh - Del
+408,74000,117,10+,1860,,,Ostalo,0,0,,,,,G (210+ kWh/m²a),Goriška, Kanal ob Soči, Gorenja vas
+409,230000,246,5,1906,,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,2016,Delno opremljeno,brez pripadajočega parkirišča,,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Kidričevo, Njiverce
+410,245000,97,4,2001,,,Samostojna,444,2020,Popolnoma opremljeno,3,"Balkon, Atrij, Terasa",Vrt/dvorišče,EI v izdelavi,Koroška, Ravne na Koroškem, Ravne na Koroškem
+411,177000,200,,1968,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,760,2022,Delno opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Pomurska, Murska Sobota, Murska Sobota
+412,318000,300,1,2000,Pritlična,,Samostojna,0,0,,,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+413,209000,207,5,1978,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,605,2021,Popolnoma opremljeno,5,"Balkon, Terasa, Loža",Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Hajdina, Hajdoše
+414,240000,252,,1990,,"Zidana hiša (beton, opeka)",Samostojna,0,2020,,,"Balkon, Zaprt balkon, Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Podravska, Ptuj, Kicar
+415,450000,437,10+,1977,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,7+,"Balkon, Terasa, Loža, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Jugovzhodna Slovenija, Dolenjske Toplice, Dolenjske Toplice
+417,215000,472,,1996,Večnadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,0,,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",E (105 - 150 kWh/m²a),Pomurska, Moravske Toplice, Krnci
+420,295000,211,,1975,,"Zidana hiša (beton, opeka)",Samostojna,630,0,,,,,,Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+421,350000,215,,1979,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2015,,3,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar, Bazen",D (101 do 150 kWh/m²a) - HR,Podravska, Duplek, Spodnji Duplek
+422,210000,165,8,1911,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,120,1995,Popolnoma opremljeno,2,,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",C (35 - 60 kWh/m²a),Podravska, Maribor, Magdalena
+423,380000,0,,0,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Goriška, Vipava, Vipava
+424,188000,85,3,2018,Enonadstropna,,Ostalo,0,0,Popolnoma opremljeno,,Terasa,Bazen,Ni možno izdati,Obalno-kraška, Piran, Lucija
+427,165000,200,5,1934,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,750,2021,Popolnoma opremljeno,7+,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",,Pomurska, Lendava, Lendava
+429,110000,64,4,1975,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,572,2007,Potrebno obnove,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",F (150 - 210 kWh/m²a),Savinjska, Rogatec, Rogatec
+430,175000,148,6,1971,,,Samostojna,783,2017,,2,Balkon,Vrt/dvorišče,C (35 - 60 kWh/m²a),Savinjska, Laško, Laško
+431,110000,64,4,1975,,"Zidana hiša (beton, opeka)",Samostojna,572,2007,Delno opremljeno,2,"Balkon, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Savinjska, Rogatec, Rogatec
+432,194000,0,5,1972,,,Samostojna,0,0,,5,,"Bazen, Vrt/dvorišče",,Podravska, Majšperk, Majšperk
+433,499000,768,5,1902,,"Zidana hiša (beton, opeka)",,0,0,Neopremljeno,,,,,Savinjska, Celje, Celje
+434,220000,230,5,1965,,"Zidana hiša (beton, opeka)",Dvojček,428,0,Popolnoma opremljeno,,,,,Savinjska, Celje, Celje
+436,225000,186,,2022,,"Zidana hiša (beton, opeka)",Dvojček,310,0,,,,,,Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+437,130000,178,,1975,,"Zidana hiša (beton, opeka)",Samostojna,0,2000,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Bojtina
+438,489000,0,8,1987,,,Samostojna,0,0,,,,,,Savinjska, Vojnik, Vojnik
+440,39999,110,3,1920,,"Zidana hiša (beton, opeka)",Kmetija,0,0,Neopremljeno,brez pripadajočega parkirišča,,,,Pomurska, Moravske Toplice, Selo
+442,55000,0,3,1988,,,,0,0,,,,,,Jugovzhodna Slovenija, Mirna Peč, Mirna Peč
+443,207000,0,5,1995,Enonadstropna,,Samostojna,0,0,,7+,,"Bazen, Vrt/dvorišče",,Savinjska, Rogaška Slatina, Podplat
+444,139000,92,,1800,,,Samostojna,0,0,,,,,Ni možno izdati,Osrednjeslovenska, Ivančna Gorica, Veliko Globoko
+446,236000,167,5,2022,,"Zidana hiša (beton, opeka)",Samostojna,751,0,Neopremljeno,1,,,,Savinjska, Vransko, Vransko
+447,170000,315,,1880,,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,2022,,,,,C (35 - 60 kWh/m²a),Savinjska, Tabor, Tabor
+448,423000,130,3,2008,Enonadstropna,Lesena hiša,Samostojna,400,0,Popolnoma opremljeno,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",,Osrednjeslovenska, Škofljica, Smrjene
+449,450000,136,,2022,,,Samostojna,415,0,,,,,,Gorenjska, Šenčur, Šenčur
+450,425000,136,,2022,,,Samostojna,461,0,,,,,,Gorenjska, Preddvor, Tupaliče
+452,80000,184,3,1950,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2003,Delno opremljeno,,"Balkon, Terasa, Atrij",Vrt/dvorišče,G (210+ kWh/m²a),Pomurska, Razkrižje, Veščica
+453,99000,239,,1911,,,Samostojna,579,2016,,,,,Ni možno izdati,Osrednjeslovenska, Ivančna Gorica, Zagradec
+454,219900,0,6,1958,,,Samostojna,0,0,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Savinjska, Laško, Laško
+456,118000,0,3,1922,Dvonadstropna,Kamnita hiša,Samostojna,0,0,,,,,G (210+ kWh/m²a),Obalno-kraška, Koper, Črni Kal
+457,222000,339,10+,1992,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Podravska, Majšperk, Majšperk
+459,253000,86,,1770,,"Zidana hiša (beton, opeka)",Samostojna,0,1982,,,,,,Jugovzhodna Slovenija, Šmarješke Toplice, Šmarješke Toplice
+460,60000,112,,1850,,"Zidana hiša (beton, opeka)",Kmetija,0,1985,Delno opremljeno,1,,,,Pomurska, Ljutomer, Radomerščak
+461,169000,0,6,1999,,,Samostojna,0,0,,,,,,Podravska, Ormož, Ormož
+462,255000,156,5,1964,,,Samostojna,0,2007,Popolnoma opremljeno,3,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Savinjska, Šmartno ob Paki, Gavce
+463,109000,116,,1963,,,Samostojna,0,0,,,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+464,64900,103,4,1880,,,Samostojna,0,1960,,,,Vrt/dvorišče,,Podravska, Središče ob Dravi, Središče ob Dravi
+466,450000,225,7,1980,,,Samostojna,0,2014,Popolnoma opremljeno,3,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Koroška, Slovenj Gradec, Slovenj Gradec
+467,250000,127,,2002,,"Zidana hiša (beton, opeka)",Samostojna,0,2019,Popolnoma opremljeno,,,,,Savinjska, Šentjur, Dobovec pri Ponikvi
+468,150000,165,3,1985,,"Zidana hiša (beton, opeka)",Samostojna,873,2009,,,,,,Podravska, Hajdina, Hajdina
+469,129150,155,4,1965,Pritlična,,Samostojna,0,1995,Delno opremljeno,,,,,Podravska, Trnovska vas, Trnovski Vrh
+470,67900,100,3,1966,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,998,2002,,,,,,Pomurska, Lendava, Dolnji Lakoš
+471,165000,105,5,1976,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,753,2004,Neopremljeno,3,Balkon,Vrt/dvorišče,E (105 - 150 kWh/m²a),Podravska, Maribor, Bresternica
+472,235000,157,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,643,0,,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+473,120000,100,,1988,,,Samostojna,961,2010,,,,,,Podravska, Rače, Morje
+474,118000,167,,1953,,,Samostojna,376,2015,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Starše, Prepolje
+475,255000,309,6,2001,Dvonadstropna,,Samostojna,779,0,Popolnoma opremljeno,,"Balkon, Terasa",,,Podravska, Kungota, Zgornja Kungota
+476,139000,137,4,1970,,"Zidana hiša (beton, opeka)",Samostojna,371,0,,,,,,Podravska, Maribor, Studenci
+477,144900,0,4,1990,Dvonadstropna,,Samostojna,0,0,,2,,,F (150 - 210 kWh/m²a),Pomurska, Lendava, Lendava
+478,230000,0,8,1972,,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+479,39990,0,2,1800,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Podčetrtek, Podčetrtek
+480,129900,0,4,2022,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Rogaška Slatina, Rogaška Slatina
+481,399000,0,5,1953,,,Samostojna,0,0,,,,Vrt/dvorišče,,Osrednjeslovenska, Domžale, Domžale
+482,139000,120,,1987,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,,"Vrt/dvorišče, Bazen",E (105 - 150 kWh/m²a),Podravska, Ptuj, Kicar
+483,147825,118,,2022,,"Zidana hiša (beton, opeka)",Dvojček,384,0,,,,,,Podravska, Hajdina, Hajdoše
+484,130000,0,3,1970,,,Samostojna,0,0,,2,,,G (210+ kWh/m²a),Gorenjska, Jesenice, Jesenice
+485,229987,147,4,0,,,Samostojna,585,0,Neopremljeno,brez pripadajočega parkirišča,Terasa,Vrt/dvorišče,,Pomurska, Gornja Radgona, Gornja Radgona
+487,175000,333,8,2006,,,Dvojček,0,0,Delno opremljeno,,Terasa,Vrt/dvorišče,C (35 - 60 kWh/m²a),Pomurska, Moravske Toplice, Vučja Gomila
+488,250000,259,5,1985,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,931,2018,Popolnoma opremljeno,,"Balkon, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Hoče, Zgornje Hoče
+489,295000,186,,2022,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Trebnje, Kamni Potok
+490,249990,138,4,2022,,,Atrijska,613,0,,brez pripadajočega parkirišča,,,,Podravska, Šentilj v Slovenskih goricah, Kresnica
+492,229990,107,3,2022,,,Dvojček,0,0,,brez pripadajočega parkirišča,,,,Podravska, Šentilj v Slovenskih goricah, Kresnica
+493,209990,107,3,2022,,,Dvojček,0,0,,brez pripadajočega parkirišča,,,,Podravska, Šentilj v Slovenskih goricah, Kresnica
+494,95000,101,,1990,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Destrnik, Dolič
+495,395000,242,,1972,,,Samostojna,773,0,,,,,F (150 - 210 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Dobrunje
+496,44900,42,,1886,,,Samostojna,0,0,,,,,,Podravska, Podlehnik, Jablovec
+497,119000,63,3,1958,,,Samostojna,959,2005,Popolnoma opremljeno,brez pripadajočega parkirišča,Balkon,,,Podravska, Hoče, Zgornje Hoče
+498,295000,400,10+,1963,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,703,2008,,,,,G (210+ kWh/m²a),Savinjska, Prebold, Prebold
+499,170000,126,10+,1800,,,Ostalo,0,0,,,,,E (105 - 150 kWh/m²a),Goriška, Tolmin, Slap ob Idrijci
+500,215000,166,3,1955,,"Zidana hiša (beton, opeka)",Samostojna,0,2013,Popolnoma opremljeno,2,,,,Savinjska, Slovenske Konjice, Žiče
+501,87000,127,4,1988,,"Zidana hiša (beton, opeka)",Samostojna,0,2019,Popolnoma opremljeno,2,,,,Pomurska, Puconci, Vaneča
+502,139900,220,3,1850,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,400,2010,Delno opremljeno,,Balkon,,EI v izdelavi,Osrednjeslovenska, Velike Lašče, Gradež
+504,160000,176,7,1995,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2022,,,Balkon,"Vrt/dvorišče, Zimski vrt, Vrtna uta",D (60 - 105 kWh/m²a),Podravska, Ptuj, Kicar
+505,439000,146,4,2008,Enonadstropna,,Vrstna,213,0,Popolnoma opremljeno,2,"Balkon, Terasa, Atrij","Vrt/dvorišče, Bazen",,Osrednjeslovenska, Škofljica, Škofljica
+506,289000,90,3,1965,Pritlična,"Zidana hiša (beton, opeka)",Vrstna,486,2011,Delno opremljeno,3,,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",D (60 - 105 kWh/m²a),Osrednjeslovenska, Kamnik, Kamnik
+507,290000,191,5,1955,,"Zidana hiša (beton, opeka)",,267,1997,,1,,,,Obalno-kraška, Koper, Čežarji
+508,250000,154,7,1977,,,Samostojna,779,2015,Popolnoma opremljeno,4,"Balkon, Terasa",,D (60 - 105 kWh/m²a),Savinjska, Laško, Laško
+509,43000,57,,1980,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Videm pri Ptuju, Strmec pri Leskovcu
+512,157000,170,,1986,Dvonadstropna,,Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Šmarješke Toplice, Šmarješke Toplice
+514,209900,145,6,1967,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,477,2005,Popolnoma opremljeno,,"Balkon, Terasa","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar",E (151 do 200 kWh/m²a) - HR,Savinjska, Žalec, Šempeter v Savinjski dolini
+516,288000,195,4,2015,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,806,0,,3,,,,Osrednjeslovenska, Medvode, Sora
+517,288000,195,4,2015,Enonadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,806,0,,3,,,,Osrednjeslovenska, Medvode, Sora
+518,149000,168,,2005,,,Samostojna,916,2007,,,,,D (60 - 105 kWh/m²a),Savinjska, Štore, Svetina
+519,490000,121,,1900,,,Samostojna,0,1997,,,,,,Savinjska, Vransko, Ločica pri Vranskem
+520,170000,0,6,1979,,,,0,0,,,,,E (105 - 150 kWh/m²a),Goriška, Nova Gorica, Nova Gorica
+521,198000,191,7,1906,,,Samostojna,0,1998,Delno opremljeno,7+,Terasa,Vrt/dvorišče,D (60 - 105 kWh/m²a),Pomurska, Križevci, Iljaševci
+522,185000,164,,1986,,,Samostojna,615,2020,,,,,E (105 - 150 kWh/m²a),Podravska, Hoče, Radizel
+523,289000,291,8,1985,,,Samostojna,0,2017,Popolnoma opremljeno,2,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Koroška, Dravograd, Dravograd
+524,397000,130,5,1900,,"Zidana hiša (beton, opeka)",,0,1994,Delno opremljeno,,,,,Obalno-kraška, Piran, Piran
+527,299000,419,,1998,,"Zidana hiša (beton, opeka)",Dvojček,0,2018,,,,,,Podravska, Maribor okolica, Pekel
+528,69990,60,,1900,,"Zidana hiša (beton, opeka)",Samostojna,0,1960,,2,,,,Podravska, Lenart v Slovenskih goricah, Spodnji Žerjavci
+529,110000,104,,1965,Enonadstropna,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Podravska, Lenart v Slovenskih goricah, Voličina
+530,137000,70,,1960,,"Zidana hiša (beton, opeka)",Samostojna,349,2006,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+531,307000,183,,1937,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Maribor, Malečnik
+532,117000,138,4,1971,,"Zidana hiša (beton, opeka)",Samostojna,390,2012,Delno opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Pomurska, Radenci, Radenci
+533,330000,122,,1969,,,,272,0,,,,,,Obalno-kraška, Koper, Koper
+534,450000,209,,1985,,,Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Osrednjeslovenska, Ljubljana Šiška, Šiška
+535,120000,62,,1750,Pritlična,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,0,,,,,,Podravska, Destrnik, Svetinci
+536,32500,52,,1906,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Pomurska, Petrovci, Stanjevci
+537,368000,226,,2021,Večnadstropna,"Zidana hiša (beton, opeka)",Dvojček,316,0,,,"Terasa, Atrij",,,Osrednjeslovenska, Ljubljana, Podgrad
+538,165000,125,4,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Dvojček,450,0,,,,,,Savinjska, Polzela, Polzela
+540,189000,0,4,2012,,,Samostojna,0,0,,,,,,Podravska, Ptuj, Ptuj
+541,270000,0,7,1887,,,Samostojna,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Savinjska, Rečica ob Savinji, Rečica ob Savinji
+542,54900,0,3,1993,Enonadstropna,,,0,0,,4,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Savinjska, Slovenske Konjice, Slovenske Konjice
+543,195000,167,,1892,,,Vrstna,114,2017,,brez pripadajočega parkirišča,,,,Gorenjska, Bohinj, Bohinjska Bistrica
+544,183000,135,4,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,450,0,,,,,,Savinjska, Žalec, Šempeter v Savinjski dolini
+545,205000,95,10+,1990,,,Ostalo,90,0,,,,,Ni možno izdati,Goriška, Ajdovščina, Vipavski Križ
+546,438000,228,,1977,,,Samostojna,0,0,,,,,,Savinjska, Prebold, Kaplja vas
+548,135000,112,,1831,,,Samostojna,1,1965,,,,,,Savinjska, Celje, Pečovnik
+549,498000,0,3,2017,,,Samostojna,0,0,,,,,B2 (25 - 35 kWh/m²a),Obalno-kraška, Koper, Čežarji
+550,200000,200,,1972,Enonadstropna,,Dvostanovanjska,501,0,,,,,EI v izdelavi,Podravska, Maribor, Radvanje
+551,189000,0,6,1922,,,Samostojna,0,0,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Podravska, Maribor, Melje
+552,62000,248,3,1925,Pritlična,,Samostojna,909,1968,Popolnoma opremljeno,,Atrij,Vrt/dvorišče,G (210+ kWh/m²a),Pomurska, Ljutomer, Mala Nedelja
+553,195000,140,4,2022,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,580,0,,,,,,Savinjska, Braslovče, Trnava
+554,315000,347,,1975,,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,0,,,,,,Osrednjeslovenska, Ivančna Gorica, Višnja Gora
+555,497000,243,,2021,,,Samostojna,482,0,,,,,,Osrednjeslovenska, Škofljica, Lavrica
+556,198000,351,5,1960,,"Zidana hiša (beton, opeka)",Samostojna,0,1974,,3,,,,Pomurska, Radenci, Radenci
+557,139000,120,,2007,Enonadstropna,,Samostojna,491,0,,,,,Ni možno izdati,Podravska, Hoče, Hoče
+558,65000,221,10+,1750,,,Ostalo,560,0,,,,,E (105 - 150 kWh/m²a),Goriška, Tolmin, Šentviška Gora
+559,495000,96,10+,1907,,,Samostojna,783,0,,,,,G (210+ kWh/m²a),Goriška, Brda, Vipolže
+560,320000,94,,1890,,,,0,0,,,,,,Obalno-kraška, Piran, Portorož
+561,360000,130,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,341,0,,,,Vrt/dvorišče,,Podravska, Maribor, Studenci
+562,79000,0,2,1900,,,Samostojna,0,0,,,,,,Podravska, Rače, Fram
+563,85000,0,2,1990,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Šentilj v Slovenskih goricah, Zgornja Velka
+564,39000,0,2,1846,Enonadstropna,,Samostojna,0,0,,,,,,Podravska, Destrnik, Destrnik
+565,62000,0,2,1900,,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Podravska, Ormož, Velika Nedelja
+566,249900,344,5,1999,,"Zidana hiša (beton, opeka)",Dvostanovanjska,0,0,,3,,,,Podravska, Cerkvenjak, Cerkvenjak
+567,64900,80,4,1900,Večnadstropna,Kamnita hiša,Samostojna,0,0,,,,,F (150 - 210 kWh/m²a),Savinjska, Laško, Debro
+568,49000,41,1,2010,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,621,0,Delno opremljeno,,,"Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Podravska, Videm pri Ptuju, Gradišče
+569,300000,0,6,1958,,,Samostojna,0,0,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Savinjska, Laško, Laško
+570,75000,67,,1993,,,Vrstna,30,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Koroška, Dravograd, Dravograd
+571,210000,330,,1955,Enonadstropna,,Samostojna,685,2015,Popolnoma opremljeno,3,"Balkon, Terasa",,,Pomurska, Tišina, Murski Črnci
+572,348000,0,5,2020,Dvonadstropna,,Samostojna,0,0,,2,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Podravska, Duplek, Spodnji Duplek
+573,169000,198,8,1979,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,682,2013,Nedokončana gradnja,,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Podravska, Maribor, Malečnik
+574,170000,191,5,1982,,"Zidana hiša (beton, opeka)",Dvojček,0,2014,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Benedikt, Ihova
+575,449000,0,5,2014,,,Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Obalno-kraška, Kozina, Hrpelje
+576,149000,200,1,0,Pritlična,,Samostojna,170,2014,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Ptuj, Ptuj
+578,247500,144,1,2000,Pritlična,,Samostojna,0,0,,,,,EI v izdelavi,Podravska, Ptuj, Ptuj
+579,122000,140,1,1999,Pritlična,,Samostojna,0,0,,,Balkon,,,Podravska, Ptuj, Ptuj
+580,259900,130,3,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,568,0,,2,Atrij,Vrt/dvorišče,,Podravska, Videm pri Ptuju, Popovci
+581,310000,142,7,1984,,,Samostojna,833,2019,Delno opremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Bazen",E (105 - 150 kWh/m²a),Podravska, Maribor okolica, Jelovec
+582,150000,175,5,1910,,"Zidana hiša (beton, opeka)",Samostojna,494,2011,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Maribor, Pobrežje
+583,297000,292,10+,1995,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,600,2009,Popolnoma opremljeno,6,"Balkon, Terasa",Žar,D (60 - 105 kWh/m²a),Savinjska, Velenje, Plešivec
+584,465000,264,7,1862,,,Samostojna,0,2020,Popolnoma opremljeno,brez pripadajočega parkirišča,Terasa,"Vrt/dvorišče, Bazen",B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Litija, Vače
+585,95000,350,,1850,,,Samostojna,0,1974,Neopremljeno,brez pripadajočega parkirišča,,Vrt/dvorišče,G (210+ kWh/m²a),Podravska, Ruše, Log
+587,420000,255,5,1998,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,2,,,,Savinjska, Polzela, Polzela
+588,39000,70,2,1951,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,,,,,Podravska, Makole, Jelovec pri Makolah
+589,37000,223,,1900,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Mokronog - Trebelno, Mokronog
+590,83000,541,,1978,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Posavska, Krško, Senovo
+591,379000,91,,1996,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,606,2021,Delno opremljeno,,Terasa,Vrt/dvorišče,,Podravska, Maribor, Kamnica
+593,350000,0,4,2017,Pritlična,,Samostojna,0,0,,5,,"Bazen, Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",B2 (25 - 35 kWh/m²a),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+594,41000,0,1,1800,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Juršinci, Juršinci
+595,140000,174,,1982,,,Samostojna,805,0,,,,,F (150 - 210 kWh/m²a),Podravska, Pesnica pri Mariboru, Pesnica pri Mariboru
+596,155000,205,8,1975,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,525,2016,Delno opremljeno,,Balkon,,,Podravska, Hoče, Hoče
+597,320000,180,5,1937,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,669,2001,Delno opremljeno,2,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Podravska, Maribor, Tabor
+598,235000,355,,1973,,,Samostojna,935,2005,,,,,D (60 - 105 kWh/m²a),Podravska, Rače, Fram
+599,299000,139,4,2022,Enonadstropna,,Samostojna,250,0,Neopremljeno,,Balkon,,EI v izdelavi,Podravska, Maribor, Magdalena
+600,270000,164,4,1952,,,Samostojna,0,2020,Popolnoma opremljeno,2,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Poljčane, Studenice
+601,320000,161,5,1979,,,Samostojna,0,2014,Delno opremljeno,4,"Balkon, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Savinjska, Rogaška Slatina, Prnek
+602,135000,143,,1960,,"Zidana hiša (beton, opeka)",Dvojček,496,2015,,,Terasa,,D (60 - 105 kWh/m²a),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+603,68000,0,2,1940,,,Samostojna,0,0,,,,,,Goriška, Ajdovščina, Ajdovščina
+604,115000,118,,1970,Enonadstropna,,Vrstna,103,0,Delno opremljeno,2,"Balkon, Terasa",,E (105 - 150 kWh/m²a),Savinjska, Slovenske Konjice, Slovenske Konjice
+606,145000,88,,1946,,"Zidana hiša (beton, opeka)",Samostojna,0,1980,Neopremljeno,brez pripadajočega parkirišča,,,,Savinjska, Celje, Ljubečna
+607,159000,0,6,1970,Večnadstropna,,Samostojna,0,0,,,,,G (210+ kWh/m²a),Podravska, Ptuj, Ptuj
+608,250000,365,,2015,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Savinjska, Vojnik, Lešje
+609,370000,232,,2008,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Savinjska, Vojnik, Lešje
+610,189000,243,,1978,,"Zidana hiša (beton, opeka)",Samostojna,0,1985,Popolnoma opremljeno,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+611,279900,215,5,2022,,,Samostojna,328,0,Neopremljeno,2,Terasa,Vrt/dvorišče,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+612,120000,186,4,1971,,"Zidana hiša (beton, opeka)",Samostojna,788,0,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Kidričevo, Lovrenc na Dravskem polju
+613,294900,229,,2022,,"Zidana hiša (beton, opeka)",Samostojna,355,0,,,,,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+614,279900,229,,2022,,"Zidana hiša (beton, opeka)",Samostojna,312,0,,,,,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+615,259900,188,,2022,,"Zidana hiša (beton, opeka)",Samostojna,342,0,,,,,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+616,390000,99,,2009,Enonadstropna,,Dvojček,226,2017,,2,"Terasa, Atrij",,B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Jezero
+617,65000,60,,1988,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,"Balkon, Terasa",Vrt/dvorišče,,Podravska, Videm pri Ptuju, Spodnji Leskovec
+618,139990,194,5,2022,,"Zidana hiša (beton, opeka)",Samostojna,800,0,,,,,,Podravska, Sv. Trojica v Slovenskih goricah, Spodnje Verjane
+619,150015,194,5,2022,,"Zidana hiša (beton, opeka)",Samostojna,800,0,,brez pripadajočega parkirišča,,,,Podravska, Sv. Trojica v Slovenskih goricah, Spodnje Verjane
+620,152752,194,5,2022,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Sv. Trojica v Slovenskih goricah, Spodnje Verjane
+621,160965,194,5,2022,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Sv. Trojica v Slovenskih goricah, Spodnje Verjane
+623,180000,229,,1976,,"Zidana hiša (beton, opeka)",Samostojna,834,0,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+624,249000,0,6,2012,Večnadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Kungota, Pesnica
+625,328000,0,5,1870,Dvonadstropna,Kamnita hiša,Samostojna,0,0,,5,,Vrt/dvorišče,G (210+ kWh/m²a),Obalno-kraška, Koper, Osp
+626,68000,88,2,2007,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Videm pri Ptuju, Belavšek
+627,314490,129,,2022,,,Dvojček,0,0,,brez pripadajočega parkirišča,,,,Podravska, Maribor okolica, Kamnica
+628,419000,250,2,1865,Visokopritlična,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,391,2002,,4,Terasa,Vrt/dvorišče,EI v izdelavi,Osrednjeslovenska, Kamnik, Kamnik
+629,340000,276,,2009,,"Zidana hiša (beton, opeka)",Samostojna,864,0,,brez pripadajočega parkirišča,,,,Podravska, Maribor, Limbuš
+630,275000,93,,1874,Enonadstropna,,,628,1950,,,Balkon,,,Gorenjska, Bled, Bodešče
+631,54900,0,2,1987,,,,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Podravska, Sveti Tomaž, Sveti Tomaž
+632,159000,0,1,1890,,,Samostojna,0,0,,,,,G (210+ kWh/m²a),Obalno-kraška, Koper, Koper
+634,305700,164,,2022,,"Zidana hiša (beton, opeka)",Dvojček,242,0,,,,,,Podravska, Maribor, Pobrežje
+635,308000,164,,2022,,"Zidana hiša (beton, opeka)",Dvojček,275,0,,,,,,Podravska, Maribor, Pobrežje
+637,350000,175,,2002,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,2,"Balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Maribor, Bresternica
+638,310000,165,3,2022,,"Zidana hiša (beton, opeka)",Dvojček,255,0,Neopremljeno,brez pripadajočega parkirišča,,,,Podravska, Maribor, Pobrežje
+641,199000,0,4,1999,Večnadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Podravska, Rače, Fram
+642,83000,110,,1928,Enonadstropna,,Samostojna,0,0,,,,,,Pomurska, Puconci, Puconci
+643,279800,172,,1982,,"Zidana hiša (beton, opeka)",Samostojna,293,2015,,,,,,Obalno-kraška, Koper, Gabrovica pri Črnem Kalu
+644,389000,0,6,1972,,,Samostojna,0,0,,,,Vrt/dvorišče,,Goriška, Nova Gorica, Nova Gorica
+645,139000,115,,1964,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,"Atrij, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Pomurska, Gornja Radgona, Gornja Radgona
+646,349000,194,6,1909,Enonadstropna,,Dvojček,378,0,Popolnoma opremljeno,4,,,,Goriška, Bovec, Log pod Mangartom
+647,240000,187,,1600,Večnadstropna,,Samostojna,169,1900,,,,,G (210+ kWh/m²a),Gorenjska, Radovljica, Radovljica
+648,275000,157,,1930,Dvonadstropna,,Samostojna,450,2010,,,,,,Zasavska, Zagorje ob Savi, Zagorje ob Savi
+649,114500,104,,1900,,"Zidana hiša (beton, opeka)",Samostojna,144,0,,brez pripadajočega parkirišča,,,,Savinjska, Luče, Luče
+650,165000,206,,1922,,"Zidana hiša (beton, opeka)",Ostalo,489,2010,Delno opremljeno,,,,,Goriška, Miren, Miren
+653,85000,100,,1945,Pritlična,,Stanovanjsko-poslovna,0,0,,,,,,Podravska, Ptuj, Ptuj
+654,279000,201,4,2008,Pritlična,,Atrijska,909,0,,,,"Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Podravska, Ptuj, Ptuj
+655,259000,190,,1982,,,Samostojna,0,2018,,,,,,Podravska, Šentilj v Slovenskih goricah, Ceršak
+656,451000,0,8,1967,Večnadstropna,,Samostojna,0,0,,4,,,F (150 - 210 kWh/m²a),Gorenjska, Bled, Bled
+659,438000,228,,1977,,,Samostojna,0,0,,,,,,Savinjska, Prebold, Kaplja vas
+660,218000,298,,1920,,"Zidana hiša (beton, opeka)",Samostojna,470,2010,,,,,,Podravska, Maribor, Tabor
+661,65000,263,,1901,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Goriška, Nova Gorica, Čepovan
+662,49000,0,2,1989,,,Samostojna,0,0,,1,,,,Posavska, Brežice, Brežice
+663,159000,0,6,1964,,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Savinjska, Braslovče, Braslovče
+664,99000,0,4,1780,,,Samostojna,0,0,,,,,,Podravska, Kungota, Pesnica
+665,338000,0,5,1999,Dvonadstropna,,Samostojna,0,0,,1,,,C (35 - 60 kWh/m²a),Obalno-kraška, Koper, Škofije
+666,94000,553,,1910,,,,0,1940,,brez pripadajočega parkirišča,,,F (150 - 210 kWh/m²a),Posavska, Brežice, Dobova
+667,490000,285,,2007,,,Samostojna,961,0,,,,,,Osrednjeslovenska, Brezovica pri Ljubljani, Preserje
+668,100000,48,10+,1930,,,Ostalo,0,0,,,,,Ni možno izdati,Goriška, Brda, Vipolže
+669,250000,0,2,1993,,,Samostojna,0,0,,7+,,,,Savinjska, Polzela, Polzela
+671,170000,150,6,1998,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2001,Delno opremljeno,5,Balkon,"Vrt/dvorišče, Žar",B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Ivančna Gorica, Temenica
+672,198000,200,,2013,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,brez pripadajočega parkirišča,,,,Podravska, Oplotnica, Oplotnica
+673,95000,97,3,1920,Pritlična,,Samostojna,0,2018,,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Podravska, Ormož, Ormož
+674,297000,115,3,1900,,"Zidana hiša (beton, opeka)",,0,2019,Popolnoma opremljeno,,,,,Obalno-kraška, Piran, Padna
+675,182000,122,,2022,,,Samostojna,374,0,,,,,Ni možno izdati,Podravska, Ruše, Bezena
+676,165000,139,10+,1966,,,Ostalo,855,0,,,,,G (210+ kWh/m²a),Goriška, Nova Gorica, Branik
+677,224800,226,4,1973,,"Zidana hiša (beton, opeka)",Samostojna,299,1997,Popolnoma opremljeno,,"Balkon, Terasa, Atrij",,,Podravska, Maribor, Betnava
+679,143000,142,,1982,,"Zidana hiša (beton, opeka)",Samostojna,0,2015,,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+680,495000,125,,1939,Dvonadstropna,,Samostojna,0,1992,,,Balkon,,F (150 - 210 kWh/m²a),Osrednjeslovenska, Ljubljana, Medno
+681,194000,120,,2022,,,Samostojna,510,0,,,,,Ni možno izdati,Podravska, Kidričevo, Cirkovce
+682,490000,0,8,1975,Večnadstropna,,Samostojna,0,0,,4,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Gorenjska, Bled, Bled
+683,275000,0,5,1974,Enonadstropna,,Samostojna,0,0,,4,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Maribor, Tezno
+684,385000,205,5,1965,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,513,2019,Delno opremljeno,2,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Žar",D (60 - 105 kWh/m²a),Podravska, Maribor, Tabor
+685,325000,240,5,2006,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,395,2010,Popolnoma opremljeno,2,"Balkon, Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",B2 (25 - 35 kWh/m²a),Podravska, Maribor, Limbuš
+686,195000,150,,1892,,,Vrstna,77,1950,,brez pripadajočega parkirišča,,,EI ni potrebna (334. člen EZ-1),Gorenjska, Bohinj, Bohinjska Bistrica
+687,240000,187,,0,,,Samostojna,169,0,,brez pripadajočega parkirišča,,,EI ni potrebna (334. člen EZ-1),Gorenjska, Radovljica, Radovljica
+688,68000,80,3,1767,,,Samostojna,161,0,,2,,,Ni možno izdati,Gorenjska, Žirovnica, Zabreznica
+689,189000,100,,1987,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,,,E (105 - 150 kWh/m²a),Gorenjska, Jesenice, Jesenice
+690,355000,241,,1900,Pritlična,"Zidana hiša (beton, opeka)",Dvostanovanjska,683,2020,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Podravska, Maribor, Radvanje
+692,290000,250,6,1939,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,426,0,,,"Balkon, Zaprt balkon, Terasa",Vrt/dvorišče,F (150 - 210 kWh/m²a),Savinjska, Celje, Center
+693,239000,182,6,2008,Enonadstropna,,Samostojna,546,0,Delno opremljeno,,Balkon,Lopa za shranjevanje,D (60 - 105 kWh/m²a),Podravska, Hoče, Rogoza
+694,295000,266,5,2012,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,,"Balkon, Zaprt balkon, Atrij",Vrt/dvorišče,D (60 - 105 kWh/m²a),Pomurska, Razkrižje, Gibina
+695,158500,226,,0,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Pomurska, Puconci, Vaneča
+696,155000,112,10+,2007,,,Ostalo,131,0,,,,,D (60 - 105 kWh/m²a),Goriška, Bovec, Žaga
+697,89000,72,,1961,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,376,2019,,,,,E (105 - 150 kWh/m²a),Podravska, Duplek, Ciglence
+698,129900,232,1,0,Pritlična,,Samostojna,0,1985,,,"Balkon, Terasa",,EI v izdelavi,Podravska, Cirkulane, Cirkulane
+700,402500,182,,2021,Enonadstropna,,Vrstna,263,0,,3,"Balkon, Atrij",,,Goriška, Nova Gorica, Solkan
+701,299000,182,,2021,Dvonadstropna,,Vrstna,269,0,,3,"Balkon, Atrij",,,Goriška, Nova Gorica, Solkan
+702,120000,193,,1947,,,Samostojna,418,0,,,,,,Savinjska, Rogaška Slatina, Rogaška Slatina
+703,280000,135,,2022,,"Zidana hiša (beton, opeka)",,480,0,,,,,,Podravska, Ptuj, Ptuj
+705,240000,177,,1900,,,,0,0,,,,,,Obalno-kraška, Izola, Izola
+706,147000,176,,1938,,"Zidana hiša (beton, opeka)",Samostojna,576,0,,,,,,Savinjska, Celje, Celje
+708,319000,80,3,1900,,"Zidana hiša (beton, opeka)",,0,2017,Popolnoma opremljeno,,,,,Obalno-kraška, Piran, Piran
+709,98200,0,5,1810,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Nazarje, Nazarje
+710,387700,0,5,2008,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Braslovče, Braslovče
+713,224900,95,5,2002,,"Zidana hiša (beton, opeka)",Samostojna,603,0,,,"Balkon, Terasa",Vrt/dvorišče,D (60 - 105 kWh/m²a),Pomurska, Moravske Toplice, Moravske Toplice
+714,215000,95,4,2006,,,Dvojček,152,2019,,2,,,D (60 - 105 kWh/m²a),Podravska, Maribor, Tezno
+715,237000,24,,1990,,"Zidana hiša (beton, opeka)",Samostojna,496,0,,,,,,Obalno-kraška, Izola, Izola
+716,285000,272,5,1985,,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Popolnoma opremljeno,3,,,,Zasavska, Trbovlje, Prapreče - Del
+717,45000,69,,1852,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Savinjska, Radeče, Zavrate
+718,474092,0,4,2021,,Kamnita hiša,,0,0,,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Obalno-kraška, Sežana, Sežana
+719,494000,195,3,2022,Dvonadstropna,,Dvojček,550,0,,,"Terasa, Atrij",Vrt/dvorišče,,Osrednjeslovenska, Ljubljana Vič Rudnik, Rudnik
+722,79900,120,5,1965,,,Samostojna,0,0,,,Terasa,Vrt/dvorišče,EI v izdelavi,Podravska, Ptuj, Ptuj
+725,310000,137,6,2003,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Balkon,,EI v izdelavi,Osrednjeslovenska, Kamnik, Soteska
+726,275000,150,,1970,,"Zidana hiša (beton, opeka)",Samostojna,710,2010,,,,,,Savinjska, Celje, Celje
+727,219500,90,,1900,,"Zidana hiša (beton, opeka)",Dvojček,62,2007,,,,,,Obalno-kraška, Koper, Sv. Anton
+729,294000,339,,1990,,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+730,159800,110,6,1990,,,Samostojna,0,2020,Popolnoma opremljeno,2,"Balkon, Zaprt balkon, Terasa",Vrt/dvorišče,,Podravska, Makole, Dežno pri Makolah
+731,285000,54,,1994,Enonadstropna,,Vrstna,88,1994,Delno opremljeno,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Osrednjeslovenska, Ljubljana Bežigrad, Tomačevo
+732,179000,0,7,1938,,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Maribor, Pobrežje
+733,65000,0,4,1988,Dvonadstropna,,Samostojna,0,0,,,,,,Podravska, Cirkulane, Cirkulane
+734,220000,146,5,2010,,"Zidana hiša (beton, opeka)",Kmetija,0,0,Popolnoma opremljeno,2,,,,Podravska, Ormož, Sodinci
+735,62000,116,,1820,,"Zidana hiša (beton, opeka)",Samostojna,0,1966,,,,,,Goriška, Tolmin, Most na Soči
+736,359900,121,,2022,Dvonadstropna,,Dvojček,340,0,,,Terasa,Vrt/dvorišče,,Osrednjeslovenska, Vrhnika, Velika Ligojna
+737,65000,84,,1963,,,Samostojna,0,2019,,,,,,Podravska, Makole, Stari Grad
+739,323000,235,10+,1939,Enonadstropna,"Zidana hiša (beton, opeka)",Ostalo,716,2010,Popolnoma opremljeno,5,"Balkon, Zaprt balkon, Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta, Žar",D (60 - 105 kWh/m²a),Podravska, Maribor, Tabor
+740,145000,221,,1972,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,1,,,,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+743,170000,0,4,1904,Večnadstropna,,Samostojna,0,0,,2,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Goriška, Idrija, Idrija
+744,360000,0,7,2007,,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Primorsko-notranjska, Cerknica, Cerknica
+746,485000,0,5,1860,Dvonadstropna,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",EI ni potrebna (334. člen EZ-1),Osrednjeslovenska, Ivančna Gorica, Ivančna Gorica
+747,490000,0,6,1975,,,Samostojna,0,0,,,,Vrt/dvorišče,F (150 - 210 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Dobrunje
+749,450000,0,6,1962,,,Samostojna,0,0,,,,,,Goriška, Nova Gorica, Rožna Dolina
+751,342000,331,,1990,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,919,0,Delno opremljeno,,"Terasa, Atrij",Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Maribor, Pobrežje
+752,240000,204,10+,2011,,,Ostalo,329,0,,,,,C (35 - 60 kWh/m²a),Goriška, Miren, Lokvica
+753,243000,136,,1895,,,Samostojna,530,2017,,,,,,Osrednjeslovenska, Domžale, Radomlje
+754,279000,221,,2008,Pritlična,,Samostojna,909,0,,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",,Podravska, Ptuj, Ptuj
+755,155000,0,4,2005,Dvonadstropna,,Samostojna,0,0,,3,,,G (210+ kWh/m²a),Obalno-kraška, Koper, Peraji
+756,34000,0,3,1890,,,,0,0,,,,Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Videm pri Ptuju, Videm pri Ptuju
+757,350000,180,5,1970,Dvonadstropna,"Zidana hiša (beton, opeka)",Kmetija,2,0,,,,,G (210+ kWh/m²a),Savinjska, Žalec, Pongrac
+758,417000,0,8,1988,,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Gorenjska, Jesenice, Jesenice
+761,490000,0,5,2013,,Lesena hiša,Samostojna,0,0,,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Savinjska, Žalec, Žalec
+762,37600,35,,1921,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,2,,,,Podravska, Cerkvenjak, Čagona
+763,299000,281,6,2010,,,,518,0,,brez pripadajočega parkirišča,Balkon,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+765,349000,314,6,2001,,,Samostojna,652,0,Delno opremljeno,4,"Balkon, Terasa",Vrt/dvorišče,EI v izdelavi,Koroška, Mislinja, Šentilj pod Turjakom
+766,234000,479,,1953,,,Samostojna,0,1999,Delno opremljeno,brez pripadajočega parkirišča,Balkon,Vrt/dvorišče,EI v izdelavi,Koroška, Slovenj Gradec, Tomaška vas
+767,155000,0,4,1980,Dvonadstropna,,Samostojna,0,0,,3,,,,Podravska, Hajdina, Zgornja Hajdina
+768,119900,133,4,1972,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2004,Popolnoma opremljeno,,"Balkon, Terasa",,,Savinjska, Slovenske Konjice, Loče
+769,81000,138,4,1984,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2020,Nedokončana gradnja,,,"Lopa za shranjevanje, Vrtna uta",D (60 - 105 kWh/m²a),Koroška, Prevalje, Leše
+770,175000,200,5,2012,,,Samostojna,0,0,,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",C (35 - 60 kWh/m²a),Podravska, Juršinci, Juršinci
+771,179000,239,3,1973,,"Zidana hiša (beton, opeka)",Samostojna,639,2021,,,Terasa,,F (150 - 210 kWh/m²a),Podravska, Maribor, Ostalo
+772,198000,60,,1986,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Obalno-kraška, Koper, Bertoki
+773,164000,162,,2022,,"Zidana hiša (beton, opeka)",Dvojček,200,0,Neopremljeno,,,,,Savinjska, Celje, Trnovlje pri Celju
+774,287000,0,9,1989,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Maribor, Tezno
+776,65000,0,3,1980,Enonadstropna,,,0,0,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Cirkulane, Cirkulane
+777,166000,175,,2022,,"Zidana hiša (beton, opeka)",Samostojna,525,0,Neopremljeno,,,,,Savinjska, Braslovče, Kamenče
+778,399000,191,5,1826,,"Zidana hiša (beton, opeka)",Kmetija,1,2003,,,,,,Gorenjska, Radovljica, Kropa
+779,139000,0,5,1962,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",G (210+ kWh/m²a),Pomurska, Ljutomer, Ljutomer
+780,148000,0,6,1982,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Koroška, Mislinja, Mislinja
+781,180000,0,4,2003,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Koper, Podpeč
+782,165000,131,6,1976,,,Samostojna,753,2004,Neopremljeno,brez pripadajočega parkirišča,"Balkon, Terasa",Vrt/dvorišče,E (105 - 150 kWh/m²a),Podravska, Maribor, Bresternica
+783,85000,350,3,1958,,,Samostojna,0,0,Delno opremljeno,brez pripadajočega parkirišča,,,F (150 - 210 kWh/m²a),Jugovzhodna Slovenija, Kočevje, Stari Log
+784,165000,120,3,1956,Visokopritlična,"Zidana hiša (beton, opeka)",Dvojček,300,2020,Nedokončana gradnja,,Balkon,,Ni možno izdati,Osrednjeslovenska, Kamnik, Godič
+785,229000,168,,1988,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,224,0,Delno opremljeno,,Terasa,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Maribor, Tezno
+786,115000,170,10+,1850,,,Vrstna,0,0,,,,,G (210+ kWh/m²a),Obalno-kraška, Komen, Lisjaki
+787,36700,0,2,1750,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Rogatec, Rogatec
+789,473000,0,5,1981,Večnadstropna,,Samostojna,0,0,,2,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Obalno-kraška, Koper, Koper
+790,135000,0,4,1968,,,Samostojna,0,0,,,,Vrt/dvorišče,,Koroška, Dravograd, Dravograd
+791,136000,0,6,1780,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Primorsko-notranjska, Ilirska Bistrica, Ilirska Bistrica
+793,239000,300,5,1990,,"Zidana hiša (beton, opeka)",Samostojna,703,2008,,3,,,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+794,229700,0,6,2012,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Podčetrtek, Pristava pri Mestinju
+796,298000,114,,2022,,,Dvojček,280,0,,,,,,Gorenjska, Kranj, Hrastje
+797,288000,114,,2022,,,Dvojček,260,0,,,,,,Gorenjska, Kranj, Hrastje
+798,315000,135,,2022,,,Samostojna,400,0,,,,,,Gorenjska, Kranj, Hrastje
+799,130000,74,3,1892,Pritlična,"Zidana hiša (beton, opeka)",Vrstna,0,2006,Popolnoma opremljeno,1,,"Vrt/dvorišče, Lopa za shranjevanje",,Podravska, Maribor okolica, Pekre
+800,185000,81,5,2010,,"Zidana hiša (beton, opeka)",,56,0,,,,,,Obalno-kraška, Koper, Cerej
+801,380000,320,,2006,,,,0,0,,,,,,Savinjska, Braslovče, Parižlje
+802,39700,0,2,1967,,,Samostojna,0,0,,,,,,Savinjska, Šentjur, Loka pri Žusmu
+803,339000,0,7,1995,,,Samostojna,0,0,,,,,,Goriška, Ajdovščina, Ajdovščina
+804,159500,53,,1997,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,Terasa,,,Podravska, Kidričevo, Lovrenc na Dravskem polju
+805,119200,53,,1997,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,Terasa,,,Podravska, Kidričevo, Lovrenc na Dravskem polju
+807,35000,99,,1957,,"Zidana hiša (beton, opeka)",Samostojna,0,1990,,brez pripadajočega parkirišča,,,,Podravska, Poljčane, Ljubično
+808,229000,211,8,2010,,,Samostojna,0,0,Popolnoma opremljeno,brez pripadajočega parkirišča,"Balkon, Terasa",,,Savinjska, Rogaška Slatina, Zgornje Negonje
+809,340000,120,2,1955,,"Zidana hiša (beton, opeka)",Kmetija,1,0,,,,,,Podravska, Slovenska Bistrica, Črešnjevec
+811,380000,220,5,1957,,"Zidana hiša (beton, opeka)",Samostojna,829,2016,,,,,,Osrednjeslovenska, Domžale, Škrjančevo
+812,171000,154,,1979,,,Samostojna,0,2012,,,,,,Savinjska, Laško, Lahomno
+814,327000,290,6,2001,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,619,0,Delno opremljeno,,Balkon,,D (60 - 105 kWh/m²a),Obalno-kraška, Kozina, Bač pri Materiji
+815,129000,266,,1965,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,G (250 do 1000 kWh/m²a) - HR,Savinjska, Slovenske Konjice, Loče
+816,36000,0,1,1990,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Juršinci, Juršinci
+817,76000,0,2,1953,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Videm pri Ptuju, Videm pri Ptuju
+818,205000,0,4,2009,,,Samostojna,0,0,,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Savinjska, Slovenske Konjice, Slovenske Konjice
+819,110000,0,1,1850,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Koper, Koper
+821,298000,130,3,2022,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,437,0,Nedokončana gradnja,,"Balkon, Terasa",,Merjena EI,Osrednjeslovenska, Mengeš, Dobeno
+822,410000,159,4,2021,,,Dvojček,426,0,Neopremljeno,brez pripadajočega parkirišča,Terasa,,EI v izdelavi,Osrednjeslovenska, Velike Lašče, Mali Ločnik
+823,180000,127,,1920,,"Zidana hiša (beton, opeka)",Samostojna,301,0,,,,,,Osrednjeslovenska, Medvode, Medvode
+824,139000,0,5,1850,,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Sežana, Dutovlje
+825,348000,126,,1926,Enonadstropna,,Samostojna,610,2013,,,Terasa,Vrt/dvorišče,B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Žabnica
+826,416000,182,,2021,Enonadstropna,,Vrstna,263,0,,3,Atrij,,,Goriška, Nova Gorica, Solkan
+827,332000,102,,1979,Dvonadstropna,,Samostojna,618,2000,,,"Balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Rakitna
+831,270000,201,8,1979,,,Samostojna,557,2004,,brez pripadajočega parkirišča,"Balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Maribor, Radvanje
+832,285000,140,4,2017,Enonadstropna,,Samostojna,999,0,Delno opremljeno,,Terasa,,,Savinjska, Braslovče, Parižlje
+833,139000,166,,1920,Visokopritlična,,Samostojna,0,1976,,,,,,Goriška, Bovec, Žaga
+834,399000,111,,2021,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,501,0,,,,,,Osrednjeslovenska, Medvode, Zbilje
+836,158800,475,,1880,Večnadstropna,,Ostalo,593,0,,7+,,,,Primorsko-notranjska, Cerknica, Rakek
+837,390000,199,,1990,Večnadstropna,,Dvojček,0,2008,Popolnoma opremljeno,2,"Balkon, Atrij","Vrt/dvorišče, Žar",,Goriška, Bovec, Plužna
+839,87000,104,4,1975,,"Zidana hiša (beton, opeka)",Samostojna,0,2020,Delno opremljeno,,Balkon,"Vrt/dvorišče, Lopa za shranjevanje",F (150 - 210 kWh/m²a),Pomurska, Rogašovci, Večeslavci
+841,189000,230,,1970,,,Ostalo,994,0,,,,,G (210+ kWh/m²a),Podravska, Maribor okolica, Kamnica
+842,197000,0,5,1810,,,Samostojna,0,0,,,,,,Obalno-kraška, Sežana, Sežana
+843,140000,104,,1965,Enonadstropna,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Podravska, Lenart v Slovenskih goricah, Voličina
+844,389000,124,,2022,Enonadstropna,"Zidana hiša (beton, opeka)",Dvojček,250,0,,,,,Ni možno izdati,Osrednjeslovenska, Ljubljana Moste Polje, Dobrunje
+845,39980,0,2,1985,,,,0,0,,,,,D (60 - 105 kWh/m²a),Posavska, Sevnica, Tržišče
+846,399000,350,5,2005,,"Zidana hiša (beton, opeka)",Samostojna,537,2010,Popolnoma opremljeno,1,,,,Podravska, Maribor okolica, Počehova
+847,119000,410,10+,1978,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,820,1998,,,"Balkon, Terasa",,,Pomurska, Beltinci, Beltinci
+848,329000,380,5,1980,,"Zidana hiša (beton, opeka)",Samostojna,799,1998,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Maribor okolica, Dogoše
+849,179000,94,,1967,,,Samostojna,1,0,Delno opremljeno,brez pripadajočega parkirišča,Balkon,,,Podravska, Videm pri Ptuju, Spodnji Leskovec
+851,450000,700,,1900,,,Samostojna,314,0,,,,,,Podravska, Maribor, Center
+852,150000,100,,1993,,,Samostojna,560,0,Delno opremljeno,6,,Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Starše, Zlatoličje
+853,176000,97,,1972,,,Samostojna,0,2005,Delno opremljeno,brez pripadajočega parkirišča,Atrij,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Slovenska Bistrica, Zgornja Polskava
+854,124000,95,4,1948,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,402,0,,,,"Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Podravska, Maribor, Limbuš
+855,65000,64,,1975,,,Samostojna,546,1998,,brez pripadajočega parkirišča,,,G (210+ kWh/m²a),Podravska, Cirkulane, Gradišča
+856,95000,0,5,1971,,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Podravska, Cirkulane, Cirkulane
+859,150000,207,,1875,Pritlična,,Samostojna,0,2019,,,,,G (210+ kWh/m²a),Pomurska, Apače, Drobtinci
+860,54000,61,,1936,,"Zidana hiša (beton, opeka)",Samostojna,0,2000,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Savinjska, Šmarje pri Jelšah, Babna Gora
+861,228000,0,4,2018,Dvonadstropna,,,0,0,,3,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Maribor, Tezno
+864,350000,190,5,1969,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,433,2007,Delno opremljeno,,Balkon,,,Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+869,250000,0,6,1991,,,Samostojna,0,0,,,,Vrt/dvorišče,,Koroška, Dravograd, Dravograd
+870,80000,93,4,1800,,"Zidana hiša (beton, opeka)",Samostojna,309,1960,,,,,,Goriška, Ajdovščina, Šmarje
+871,155000,110,,2022,,,Dvojček,371,0,,brez pripadajočega parkirišča,,,Ni možno izdati,Savinjska, Prebold, Sv. Lovrenc
+872,175000,107,,1964,,"Zidana hiša (beton, opeka)",Samostojna,0,2006,,brez pripadajočega parkirišča,,,,Podravska, Duplek, Zgornja Korena
+873,190000,0,7,2021,,,Samostojna,0,0,,,,,,Podravska, Dornava, Dornava
+874,145000,214,2,2000,,,Samostojna,0,2015,Neopremljeno,4,"Balkon, Terasa",Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Cirkulane, Meje
+875,55000,93,,1997,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Podlehnik, Sedlašek
+876,150000,0,8,1920,,,Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Goriška, Nova Gorica, Nova Gorica
+877,378000,143,,1939,,,,156,0,,,,,,Obalno-kraška, Izola, Izola
+878,69000,94,2,1986,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,953,0,Delno opremljeno,,"Balkon, Terasa",Vrt/dvorišče,G (210+ kWh/m²a),Pomurska, Ljutomer, Drakovci
+882,275000,166,,2022,,"Zidana hiša (beton, opeka)",,0,0,,,,,,Podravska, Ptuj, Ptuj
+883,275000,161,,2022,,"Zidana hiša (beton, opeka)",,0,0,,,,,,Podravska, Ptuj, Ptuj
+884,275000,161,,2022,,"Zidana hiša (beton, opeka)",,0,0,,,,,,Podravska, Ptuj, Ptuj
+885,430000,375,6,2005,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,536,2015,Popolnoma opremljeno,,Balkon,,C (35 - 60 kWh/m²a),Podravska, Maribor okolica, Počehova
+886,400000,183,4,1977,,"Zidana hiša (beton, opeka)",Samostojna,400,2007,,,,,,Podravska, Maribor, Radvanje
+887,199900,263,,1962,,,Samostojna,0,0,Potrebno obnove,,,,EI ni potrebna (334. člen EZ-1),Pomurska, Gornja Radgona, Lomanoše
+888,299000,0,6,2000,,,Samostojna,0,0,,,,,,Gorenjska, Radovljica, Brda
+889,215000,0,6,1924,Dvonadstropna,,Samostojna,0,0,,,,,,Obalno-kraška, Koper, Ankaran
+890,290000,129,,2022,,,Dvojček,0,0,,brez pripadajočega parkirišča,,,,Podravska, Maribor okolica, Kamnica
+892,169000,0,5,1978,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Ptuj, Ptuj
+893,49000,0,2,1930,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Primorsko-notranjska, Ilirska Bistrica, Ilirska Bistrica
+894,145000,142,,1900,,"Zidana hiša (beton, opeka)",Samostojna,720,1990,,,,,,Obalno-kraška, Koper, Pregara
+895,200000,80,10+,1927,,,Ostalo,0,0,,,,,G (210+ kWh/m²a),Goriška, Brda, Vedrijan
+897,175000,120,4,1965,,,Samostojna,0,0,,,Terasa,"Vrt/dvorišče, Lopa za shranjevanje",EI v izdelavi,Podravska, Ptuj, Ptuj
+898,320000,259,,1987,,"Zidana hiša (beton, opeka)",Samostojna,582,0,,,,,,Obalno-kraška, Koper, Sv. Anton
+899,87000,110,,1911,,"Zidana hiša (beton, opeka)",Samostojna,0,1997,,,,,,Primorsko-notranjska, Ilirska Bistrica, Dolnja Bitnja
+901,115000,200,7,2004,,,Samostojna,0,0,,,,,Ni možno izdati,Osrednjeslovenska, Šmartno pri Litiji, Sevno
+902,125000,128,,1973,,,Samostojna,0,0,,,,,,Osrednjeslovenska, Medvode, Trnovec
+904,270000,93,,1908,,,Vrstna,0,0,,,,,,Obalno-kraška, Koper, Krkavče
+905,390000,168,,2014,,"Zidana hiša (beton, opeka)",Dvostanovanjska,340,0,,,,,,Osrednjeslovenska, Ivančna Gorica, Višnja Gora
+906,195000,159,6,2010,,,Samostojna,150,0,,brez pripadajočega parkirišča,Balkon,,EI v izdelavi,Savinjska, Slovenske Konjice, Slovenske Konjice
+907,249000,0,7,1986,,,Samostojna,0,0,,,,Vrt/dvorišče,,Koroška, Ravne na Koroškem, Ravne na Koroškem
+908,250000,227,,2002,,"Zidana hiša (beton, opeka)",Dvojček,0,0,,,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+910,269000,0,6,2015,,,Samostojna,0,0,,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Podravska, Majšperk, Majšperk
+911,180000,130,,1972,,,Samostojna,537,0,,,,,,Gorenjska, Cerklje na Gorenjskem, Pšata
+912,99900,178,3,1967,,"Zidana hiša (beton, opeka)",Samostojna,0,1980,,3,,,,Podravska, Sveti Jurij v Slovenskih goricah, Malna
+913,230000,0,4,1984,,,Samostojna,0,0,,,,Vrt/dvorišče,G (210+ kWh/m²a),Podravska, Hoče, Hotinja vas
+915,69000,70,,1900,,,Dvostanovanjska,530,2006,Neopremljeno,brez pripadajočega parkirišča,,Vrt/dvorišče,,Savinjska, Rogatec, Rogatec
+917,430000,276,6,2002,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,804,2014,Popolnoma opremljeno,2,Terasa,"Vrt/dvorišče, Žar",C (35 - 60 kWh/m²a),Podravska, Hoče, Slivnica pri Mariboru
+919,99000,54,3,1996,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2013,Delno opremljeno,,,,,Pomurska, Razkrižje, Gibina
+920,84500,0,4,1999,,,Samostojna,0,0,,,,,G (210+ kWh/m²a),Savinjska, Rogaška Slatina, Rogaška Slatina
+921,240000,310,,1995,,,Samostojna,0,0,,,,,,Savinjska, Celje, Trnovlje pri Celju
+922,65000,0,6,2012,,,Samostojna,0,0,,,,,,Pomurska, Lendava, Lendava
+923,80000,0,4,1990,,,Samostojna,0,0,,,,,,Pomurska, Lendava, Lendava
+924,50000,0,2,1900,,,Samostojna,0,0,,,,,G (210+ kWh/m²a),Savinjska, Slovenske Konjice, Slovenske Konjice
+925,79800,0,,2016,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Markovci, Markovci
+927,118000,188,2,1953,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,376,2010,Delno opremljeno,4,"Terasa, Atrij",Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Starše, Marjeta na Dravskem polju
+930,129000,128,,2005,,,Samostojna,493,0,Potrebno obnove,,,,,Pomurska, Murska Sobota, Murska Sobota
+931,95000,120,5,1895,,,Samostojna,0,2019,,,,,D (60 - 105 kWh/m²a),Jugovzhodna Slovenija, Kočevje, Kočevje
+932,105000,145,,1900,,"Zidana hiša (beton, opeka)",Samostojna,172,0,,,,,,Obalno-kraška, Koper, Sv. Anton
+933,433000,305,9,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,422,2021,Delno opremljeno,4,"Balkon, Loža",,D (60 - 105 kWh/m²a),Osrednjeslovenska, Mengeš, Mengeš
+935,297100,164,,2020,,"Zidana hiša (beton, opeka)",,0,0,,,,,,Podravska, Ptuj, Ptuj
+938,219000,0,5,1955,,,Samostojna,0,0,,,,,,Podravska, Ptuj, Ptuj
+939,64000,67,3,1930,Pritlična,,Samostojna,328,1970,Popolnoma opremljeno,,,,G (210+ kWh/m²a),Podravska, Hajdina, Skorba
+941,156000,0,8,1800,,,Samostojna,0,0,,,,,,Goriška, Tolmin, Tolmin
+942,433000,305,9,1967,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,422,2021,Delno opremljeno,4,"Balkon, Terasa",,,Osrednjeslovenska, Mengeš, Mengeš
+943,179500,202,7,1998,,,Samostojna,427,0,Popolnoma opremljeno,1,"Balkon, Terasa",,C (35 - 60 kWh/m²a),Pomurska, Murska Sobota, Murska Sobota
+945,290000,70,,2017,Enonadstropna,,Samostojna,523,0,Popolnoma opremljeno,,Balkon,,EI v izdelavi,Savinjska, Bistrica ob Sotli, Srebrnik
+946,93900,80,,1952,Enonadstropna,,Samostojna,0,0,,,,,G (210+ kWh/m²a),Podravska, Maribor, Bresternica
+947,35000,0,1,1978,Enonadstropna,,,0,0,,,,,,Savinjska, Šentjur, Šentjur
+951,270000,0,5,1903,Enonadstropna,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",G (210+ kWh/m²a),Goriška, Nova Gorica, Nova Gorica
+952,450000,0,,1960,,,Ostalo,0,2014,,,,,,Podravska, Rače, Rače
+954,447000,0,8,2005,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Obalno-kraška, Koper, Ankaran
+955,384990,0,6,2004,Večnadstropna,Kamnita hiša,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Cirkulane, Cirkulane
+957,349000,0,8,1781,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Koroška, Radlje ob Dravi, Radlje ob Dravi
+958,330000,0,8,1985,,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+959,159000,0,10+,1920,,,Samostojna,0,0,,,,Vrt/dvorišče,C (35 - 60 kWh/m²a),Savinjska, Rečica ob Savinji, Rečica ob Savinji
+960,247700,0,7,1988,Dvonadstropna,,Samostojna,0,0,,,,,D (60 - 105 kWh/m²a),Koroška, Ravne na Koroškem, Ravne na Koroškem
+961,259000,0,6,2004,Večnadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Ptuj, Ptuj
+962,129900,0,7,1983,,,Samostojna,0,0,,5,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",,Pomurska, Murska Sobota, Murska Sobota
+964,195000,124,4,2004,,,Samostojna,0,0,,2,Terasa,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Sv. Trojica v Slovenskih goricah, Osek
+965,290000,50,,1800,,"Zidana hiša (beton, opeka)",Samostojna,342,0,,,,,,Obalno-kraška, Koper, Dvori
+966,300000,307,5,1904,,"Zidana hiša (beton, opeka)",Samostojna,172,1984,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Savinjska, Šoštanj, Šoštanj
+967,470000,105,,1950,Pritlična,,Vrstna,228,0,Neopremljeno,,,,EI v izdelavi,Osrednjeslovenska, Ljubljana, Topniška
+968,129000,148,,1950,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,500,0,,,Balkon,,F (150 - 210 kWh/m²a),Podravska, Slovenska Bistrica, Zgornja Polskava
+969,65000,130,2,1958,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,898,2018,Popolnoma opremljeno,,"Terasa, Atrij",Vrt/dvorišče,G (210+ kWh/m²a),Pomurska, Ljutomer, Precetinci
+970,310000,62,,1800,,"Zidana hiša (beton, opeka)",Samostojna,342,0,,brez pripadajočega parkirišča,,,,Obalno-kraška, Koper, Sv. Anton
+971,55000,139,10+,1920,,,Ostalo,374,0,,,,,G (210+ kWh/m²a),Goriška, Kanal ob Soči, Lig
+972,75000,112,10+,1840,,,Ostalo,431,0,,,,,G (210+ kWh/m²a),Goriška, Kanal ob Soči, Kanal ob Soči
+974,420000,276,,2009,,,Samostojna,0,0,,,,,E (105 - 150 kWh/m²a),Gorenjska, Kranj, Zgornja Besnica
+975,169000,150,1,1965,Pritlična,,Samostojna,0,0,,,,,EI v izdelavi,Podravska, Ptuj, Ptuj
+976,300000,110,,1977,,,Samostojna,750,0,,,,,,Podravska, Ptuj, Ptuj
+977,493000,0,5,2016,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+978,208000,136,4,2022,,"Zidana hiša (beton, opeka)",Dvojček,280,0,Neopremljeno,brez pripadajočega parkirišča,,,,Savinjska, Tabor, Tabor
+979,55000,0,5,1800,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Šmartno ob Paki, Šmartno ob Paki
+980,87000,202,,2006,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Mokronog - Trebelno, Mokronog
+981,298000,200,5,1976,Večnadstropna,,,305,0,,,,,E (105 - 150 kWh/m²a),Osrednjeslovenska, Medvode, Smlednik
+982,279000,151,4,2006,,"Zidana hiša (beton, opeka)",Samostojna,625,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Podravska, Hoče, Hoče
+983,69500,90,2,1767,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,161,1900,Neopremljeno,2,,Vrt/dvorišče,EI v izdelavi,Gorenjska, Žirovnica, Zabreznica
+984,273750,138,,2022,Pritlična,,Ostalo,613,0,,,,,EI ni potrebna (334. člen EZ-1),Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+985,188000,183,5,1925,,"Zidana hiša (beton, opeka)",Samostojna,107,2006,Popolnoma opremljeno,,,,,Zasavska, Trbovlje, Trbovlje
+986,147000,147,5,1998,,"Zidana hiša (beton, opeka)",Samostojna,767,2016,Popolnoma opremljeno,2,,,,Zasavska, Hrastnik, Krištandol
+987,399000,0,4,2019,,,Samostojna,0,0,,,,,B1 (15 - 25 kWh/m²a),Podravska, Maribor, Radvanje
+988,110000,75,,1800,,"Zidana hiša (beton, opeka)",,117,0,,,,,,Obalno-kraška, Piran, Padna
+989,109000,173,3,1982,Pritlična,"Zidana hiša (beton, opeka)",Samostojna,885,2000,Popolnoma opremljeno,,"Balkon, Atrij",Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Ormož, Ormož
+990,175000,220,3,1985,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,415,0,Delno opremljeno,,Balkon,,EI v izdelavi,Savinjska, Zreče, Stranice
+991,449000,412,3,1887,,,Samostojna,0,2018,Popolnoma opremljeno,7+,Balkon,,F (150 - 210 kWh/m²a),Primorsko-notranjska, Pivka, Pivka
+992,360000,180,4,1920,,,Dvojček,1,2016,Popolnoma opremljeno,brez pripadajočega parkirišča,"Balkon, Terasa",Bazen,,Goriška, Miren, Kostanjevica na Krasu
+993,80000,0,3,1951,,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Podravska, Ptuj, Ptuj
+994,340000,141,3,1965,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,982,2015,Delno opremljeno,,Balkon,,EI v izdelavi,Osrednjeslovenska, Grosuplje, Lobček
+996,390000,96,4,2009,,,Dvojček,226,2017,Popolnoma opremljeno,3,"Atrij, Terasa",,B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Podpeč
+997,89500,150,3,1967,Pritlična,,Samostojna,0,2003,Popolnoma opremljeno,,,,,Podravska, Cirkulane, Brezovec
+998,176000,381,10+,1995,Večnadstropna,"Zidana hiša (beton, opeka)",Dvostanovanjska,808,2020,Popolnoma opremljeno,,"Balkon, Terasa, Atrij","Vrt/dvorišče, Zimski vrt, Lopa za shranjevanje, Vrtna uta, Žar",D (60 - 105 kWh/m²a),Podravska, Benedikt, Benedikt
+1000,474092,0,4,2021,,Kamnita hiša,Samostojna,0,0,,3,,,C (35 - 60 kWh/m²a),Obalno-kraška, Sežana, Sežana
+1001,60000,0,5,1707,,Kamnita hiša,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Laško, Laško
+1003,180000,121,10+,2007,,,Ostalo,0,0,,,,,Ni možno izdati,Obalno-kraška, Komen, Trebižani
+1004,390000,99,3,2009,Enonadstropna,"Zidana hiša (beton, opeka)",Vrstna,226,2017,,,Terasa,Vrt/dvorišče,B2 (25 - 35 kWh/m²a),Osrednjeslovenska, Brezovica pri Ljubljani, Jezero
+1006,298000,157,4,2001,Dvonadstropna,"Zidana hiša (beton, opeka)",Vrstna,145,0,Popolnoma opremljeno,,,,EI v izdelavi,Osrednjeslovenska, Grosuplje, Grosuplje
+1007,370000,191,,1969,,,Vrstna,433,0,,,Balkon,,C (35 - 60 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+1009,259900,188,,2022,,"Zidana hiša (beton, opeka)",Samostojna,342,0,,brez pripadajočega parkirišča,,,,Podravska, Šentilj v Slovenskih goricah, Šentilj v Slovenskih goricah
+1010,185000,120,4,1900,,,Vrstna,393,1960,,brez pripadajočega parkirišča,Balkon,Vrt/dvorišče,EI v izdelavi,Koroška, Slovenj Gradec, Slovenj Gradec
+1011,250000,70,3,1990,Enonadstropna,,Vrstna,30,2004,,,,,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Izola, Izola
+1012,350000,0,5,2022,,,,0,0,,,,Vrt/dvorišče,,Osrednjeslovenska, Medvode, Medvode
+1014,190000,71,3,1964,,,Samostojna,1,2010,Neopremljeno,1,Balkon,Vrt/dvorišče,,Podravska, Selnica ob Dravi, Zgornja Selnica
+1015,200000,280,,1810,,"Zidana hiša (beton, opeka)",Ostalo,0,1977,,brez pripadajočega parkirišča,,,,Podravska, Hoče, Hočko Pohorje
+1016,85800,216,,1952,,"Zidana hiša (beton, opeka)",Samostojna,615,0,,,,,,Podravska, Središče ob Dravi, Središče ob Dravi
+1017,99000,0,5,1900,Večnadstropna,,Samostojna,0,0,,4,,Vrt/dvorišče,G (210+ kWh/m²a),Jugovzhodna Slovenija, Semič, Semič
+1018,165000,0,5,1996,,,Samostojna,0,0,,,,,,Savinjska, Šmarje pri Jelšah, Šmarje pri Jelšah
+1020,179000,98,5,2021,,"Zidana hiša (beton, opeka)",Dvojček,267,0,,brez pripadajočega parkirišča,,,,Savinjska, Braslovče, Parižlje
+1021,280000,250,5,2001,,"Zidana hiša (beton, opeka)",Samostojna,338,0,,brez pripadajočega parkirišča,,,,Savinjska, Žalec, Arja vas
+1023,449000,395,9,1998,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,5,"Balkon, Terasa, Atrij",Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+1024,337000,156,3,2009,,"Zidana hiša (beton, opeka)",Samostojna,592,0,,brez pripadajočega parkirišča,,,,Obalno-kraška, Kozina, Krvavi Potok
+1026,275000,254,4,1935,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,426,2019,Delno opremljeno,,Balkon,Vrt/dvorišče,EI v izdelavi,Osrednjeslovenska, Moravče, Moravče
+1027,139900,158,7,1970,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2010,,,,,,Pomurska, Beltinci, Dokležovje
+1028,245000,180,,1989,,"Zidana hiša (beton, opeka)",Samostojna,0,2018,Popolnoma opremljeno,1,,,,Savinjska, Vitanje, Brezen
+1030,199900,296,5,1976,,"Zidana hiša (beton, opeka)",Dvostanovanjska,512,2002,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Starše, Brunšvik
+1031,155000,180,5,1937,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,638,2015,Delno opremljeno,,,Žar,EI v izdelavi,Savinjska, Celje, Celje
+1032,139990,163,4,2019,,"Zidana hiša (beton, opeka)",Samostojna,272,0,Neopremljeno,brez pripadajočega parkirišča,,,,Podravska, Slovenska Bistrica, Ošelj
+1033,380000,463,,1995,,"Zidana hiša (beton, opeka)",Samostojna,0,2018,,1,,,,Podravska, Slovenska Bistrica, Slovenska Bistrica
+1034,45000,67,2,1899,,,Samostojna,0,1985,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Zavrč, Gorenjski Vrh
+1035,45000,342,,1995,,,Samostojna,971,0,,,,,,Podravska, Poljčane, Poljčane
+1036,185000,0,10+,1900,Večnadstropna,,Samostojna,0,0,,,,,F (150 - 210 kWh/m²a),Savinjska, Radeče, Radeče
+1038,149900,0,5,1980,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Podčetrtek, Pristava pri Mestinju
+1039,249000,150,4,1992,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,brez pripadajočega parkirišča,,,,Podravska, Sv. Trojica v Slovenskih goricah, Spodnja Senarska
+1042,265000,125,,2021,,,Dvojček,370,0,,,,,,Osrednjeslovenska, Grosuplje, Polica
+1045,160000,420,,1969,,,Samostojna,0,2004,,,,,,Savinjska, Štore, Šentjanž nad Štorami
+1046,129000,266,,1965,Enonadstropna,,Samostojna,392,0,,,,,,Savinjska, Slovenske Konjice, Loče
+1048,138000,0,4,1940,,,Samostojna,0,0,,,,Vrt/dvorišče,,Primorsko-notranjska, Ilirska Bistrica, Ilirska Bistrica
+1049,103000,65,3,1995,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Balkon,,,Savinjska, Podčetrtek, Cmereška Gorca
+1051,462000,169,5,2016,,"Zidana hiša (beton, opeka)",Dvojček,179,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Obalno-kraška, Koper, Ankaran
+1052,142000,244,4,1930,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,,,C (35 - 60 kWh/m²a),Goriška, Nova Gorica, Lazna
+1053,140000,159,5,1930,,"Zidana hiša (beton, opeka)",Samostojna,0,2004,Neopremljeno,brez pripadajočega parkirišča,,,,Podravska, Ruše, Ruše
+1054,470000,236,5,1952,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,881,2019,Popolnoma opremljeno,4,Terasa,,D (60 - 105 kWh/m²a),Osrednjeslovenska, Kamnik, Soteska
+1055,210000,329,5,1995,,"Zidana hiša (beton, opeka)",Samostojna,685,2019,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Pomurska, Tišina, Murski Črnci
+1056,230000,0,5,1995,,,Samostojna,0,0,,,,,,Podravska, Ptuj, Ptuj
+1057,199000,250,,1920,,"Zidana hiša (beton, opeka)",Samostojna,712,2021,,,"Balkon, Terasa",,EI v izdelavi,Podravska, Slovenska Bistrica, Slovenska Bistrica
+1058,350000,0,,1999,Enonadstropna,,Samostojna,697,0,,,Terasa,,D (60 - 105 kWh/m²a),Podravska, Rače, Rače
+1059,397000,92,4,2016,,"Zidana hiša (beton, opeka)",Dvojček,175,0,Popolnoma opremljeno,brez pripadajočega parkirišča,,,,Obalno-kraška, Koper, Ankaran
+1061,98000,211,10+,1918,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,455,2011,Delno opremljeno,,Balkon,Vrt/dvorišče,G (210+ kWh/m²a),Savinjska, Šoštanj, Šoštanj
+1063,129990,62,1,1985,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,3,,,,Pomurska, Sv. Jurij ob Ščavnici, Sovjak
+1064,350000,0,5,1845,,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Komen, Komen
+1066,150000,140,10+,1800,,,Ostalo,0,0,,,,,C (35 - 60 kWh/m²a),Jugovzhodna Slovenija, Trebnje, Grmada
+1067,85000,74,10+,2007,,,Ostalo,171,0,,,,,D (60 - 105 kWh/m²a),Obalno-kraška, Komen, Trebižani
+1071,295000,0,5,1976,Dvonadstropna,,Samostojna,0,0,,5,,Vrt/dvorišče,,Savinjska, Celje, Celje
+1072,65000,222,,1750,,,Samostojna,349,0,Potrebno obnove,,,,,Primorsko-notranjska, Postojna, Hrašče
+1073,39900,180,6,1988,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,Ni možno izdati,Pomurska, Grad, Dolnji Slaveči
+1075,88000,0,8,1975,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje, Vrt/dvorišče",,Savinjska, Kozje, Buče
+1077,493000,177,10+,1985,,,Ostalo,0,0,,,,,F (150 - 210 kWh/m²a),Goriška, Ajdovščina, Vrtovin
+1079,119900,551,10+,0,,,Samostojna,864,0,,,"Balkon, Zaprt balkon",,G (250 do 1000 kWh/m²a) - HR,Savinjska, Šmarje pri Jelšah, Pečica
+1080,70000,100,3,1806,Pritlična,Lesena hiša,Samostojna,0,2021,,,,Vrt/dvorišče,,Podravska, Juršinci, Juršinci
+1081,382200,0,7,2021,,Lesena hiša,Samostojna,0,0,,,,,B1 (15 - 25 kWh/m²a),Goriška, Nova Gorica, Nova Gorica
+1082,43820,0,3,1964,Dvonadstropna,,,0,0,,,,,,Savinjska, Vojnik, Vojnik
+1083,199000,328,,1998,,"Zidana hiša (beton, opeka)",Samostojna,0,2010,Popolnoma opremljeno,,"Balkon, Terasa, Atrij","Vrt/dvorišče, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Pomurska, Tišina, Tišina
+1085,80000,120,10+,1856,,,Ostalo,492,0,,,,,G (210+ kWh/m²a),Goriška, Ajdovščina, Šmarje
+1086,44000,40,2,1710,Pritlična,Lesena hiša,Samostojna,0,1920,,,,,,Podravska, Cirkulane, Gradišča
+1088,95000,129,,1945,,,Samostojna,976,0,,,,,,Savinjska, Slovenske Konjice, Mlače
+1089,299000,0,7,2021,,,Samostojna,0,0,,,,Vrt/dvorišče,,Goriška, Nova Gorica, Nova Gorica
+1090,57000,0,3,1992,Večnadstropna,,Samostojna,0,0,,,,,,Podravska, Cirkulane, Cirkulane
+1091,87000,253,5,1945,,"Zidana hiša (beton, opeka)",Samostojna,706,2015,,2,,,,Pomurska, Gornja Radgona, Gornja Radgona
+1093,160000,280,5,1980,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2003,Delno opremljeno,,Balkon,Vrt/dvorišče,EI v izdelavi,Podravska, Trnovska vas, Trnovski Vrh
+1094,394000,224,,0,,,Samostojna,732,0,,,"Balkon, Terasa",,D (60 - 105 kWh/m²a),Osrednjeslovenska, Ljubljana Moste Polje, Zalog
+1097,160000,0,5,1972,Dvonadstropna,,Samostojna,0,0,,,,,,Podravska, Rače, Fram
+1098,109000,335,4,1988,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,1998,Delno opremljeno,,Balkon,,C (35 - 60 kWh/m²a),Podravska, Zavrč, Hrastovec
+1100,80000,103,,1880,,,Samostojna,0,0,,,,,,Podravska, Središče ob Dravi, Središče ob Dravi
+1102,195000,0,5,1700,,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Sežana, Dutovlje
+1106,217000,180,6,1985,,"Zidana hiša (beton, opeka)",Samostojna,0,2019,Delno opremljeno,,Balkon,Vrt/dvorišče,E (105 - 150 kWh/m²a),Osrednjeslovenska, Dobrepolje, Paka
+1107,76000,152,4,1980,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Delno opremljeno,,Terasa,Vrt/dvorišče,,Savinjska, Slovenske Konjice, Loče
+1108,173000,182,5,1991,Visokopritlična,"Zidana hiša (beton, opeka)",Samostojna,0,2012,Nedokončana gradnja,,Balkon,,EI v izdelavi,Osrednjeslovenska, Kamnik, Gozd
+1109,214000,0,5,1976,,,Samostojna,0,0,,,,Vrt/dvorišče,,Podravska, Hajdina, Zgornja Hajdina
+1111,149900,110,4,2021,Enonadstropna,,Dvojček,340,0,,,,,Ni možno izdati,Savinjska, Prebold, Sv. Lovrenc
+1113,163800,116,5,1985,Dvonadstropna,,Samostojna,911,2007,Delno opremljeno,,Balkon,,,Osrednjeslovenska, Velike Lašče, Srobotnik pri Vel. Laščah
+1114,175000,133,4,2021,,,Vrstna,174,0,,2,"Atrij, Terasa",Vrt/dvorišče,,Obalno-kraška, Divača, Divača
+1115,450000,343,4,2007,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,Balkon,"Vrt/dvorišče, Vrtna uta",,Podravska, Ptuj, Ptuj
+1116,385000,300,7,1987,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,786,2009,Popolnoma opremljeno,,Balkon,Vrt/dvorišče,D (60 - 105 kWh/m²a),Osrednjeslovenska, Polhov Gradec, Dvor pri Polhovem Gradcu
+1117,159000,203,,1850,,"Zidana hiša (beton, opeka)",Samostojna,362,1960,,brez pripadajočega parkirišča,,,,Obalno-kraška, Koper, Osp
+1119,270000,0,4,1976,,,Samostojna,0,0,,4,,Vrt/dvorišče,,Savinjska, Žalec, Šempeter v Savinjski dolini
+1121,180000,0,6,1990,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Rogaška Slatina, Rogaška Slatina
+1125,285000,271,4,2008,Pritlična,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,402,0,,,,,,Podravska, Maribor, Radvanje
+1126,380000,190,3,2006,Enonadstropna,,Stanovanjsko-poslovna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Podravska, Markovci, Markovci
+1127,139990,163,5,2020,,"Zidana hiša (beton, opeka)",Samostojna,272,0,,,Terasa,,C (35 - 60 kWh/m²a),Podravska, Slovenska Bistrica, Šmartno na Pohorju
+1128,360000,0,6,2000,,,Samostojna,0,0,,,,Vrt/dvorišče,D (60 - 105 kWh/m²a),Goriška, Ajdovščina, Črniče
+1129,367000,0,8,1980,Dvonadstropna,,Samostojna,0,0,,4,,,F (150 - 210 kWh/m²a),Gorenjska, Tržič, Tržič
+1132,45000,0,,2013,,,Samostojna,0,0,,,,,,Posavska, Krško, Krško
+1134,230000,0,6,1830,,Lesena hiša,Samostojna,0,0,,,,,,Jugovzhodna Slovenija, Novo mesto, Novo mesto
+1135,110000,0,6,1960,,,Samostojna,0,0,,,,Vrt/dvorišče,,Posavska, Krško, Krško
+1136,230000,0,6,1830,,Lesena hiša,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje",,Jugovzhodna Slovenija, Novo mesto, Novo mesto
+1137,185000,0,5,1996,,,Samostojna,0,0,,,,,Ni možno izdati,Obalno-kraška, Divača, Senožeče
+1138,98000,0,1,1945,,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Komen, Komen
+1139,170000,0,5,1900,Enonadstropna,,,0,0,,,,,,Obalno-kraška, Sežana, Sežana
+1140,170000,0,,1750,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Obalno-kraška, Komen, Komen
+1142,370000,0,7,1985,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje",,Pomurska, Lendava, Lendava
+1143,50000,0,3,1948,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje",,Jugovzhodna Slovenija, Črnomelj, Vinica
+1144,119000,0,5,1650,,,Samostojna,0,0,,,,,,Savinjska, Rogatec, Rogatec
+1145,47900,0,4,1959,,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Rogatec, Rogatec
+1146,350000,0,4,1986,Večnadstropna,,Samostojna,0,0,,5,,,,Koroška, Slovenj Gradec, Slovenj Gradec
+1147,330000,0,3,1975,,,Samostojna,0,0,,6,,Vrt/dvorišče,,Podravska, Miklavž na Dravskem polju, Miklavž na Dravskem polju
+1150,169700,0,4,2003,Dvonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,,Savinjska, Laško, Laško
+1152,95000,0,5,1976,,,Samostojna,0,0,,,,Vrt/dvorišče,E (105 - 150 kWh/m²a),Goriška, Tolmin, Tolmin
+1153,69000,0,5,1899,Večnadstropna,,Samostojna,0,0,,,,,,Goriška, Tolmin, Tolmin
+1154,95000,0,8,1980,Enonadstropna,,Samostojna,0,0,,,,Vrt/dvorišče,EI ni potrebna (334. člen EZ-1),Podravska, Dornava, Dornava
+1155,89000,0,5,1975,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Pomurska, Radenci, Radenci
+1156,76000,0,,2015,,,Samostojna,0,0,,,,,,Podravska, Ormož, Ormož
+1157,285000,0,6,1973,,,Samostojna,0,0,,,,Vrt/dvorišče,F (150 - 210 kWh/m²a),Podravska, Ptuj, Ptuj
+1158,80000,0,2,1905,,,Samostojna,0,0,,,,,,Podravska, Ptuj, Ptuj
+1159,230000,0,5,1985,,,Samostojna,0,0,,,,"Vrtna uta, Lopa za shranjevanje",G (210+ kWh/m²a),Podravska, Ormož, Velika Nedelja
+1160,495000,0,6,2007,,,Samostojna,0,0,,,,,,Podravska, Gorišnica, Gorišnica
+1161,85000,0,5,1965,,,Samostojna,0,0,,,,,,Podravska, Podlehnik, Podlehnik
+1163,110000,0,7,1747,,,Samostojna,0,0,,,,,,Podravska, Ormož, Ivanjkovci
+1164,169000,0,5,1840,Dvonadstropna,,Samostojna,0,0,,,,,,Obalno-kraška, Koper, Movraž
+1165,87000,0,3,1977,,,Samostojna,0,0,,,,Vrt/dvorišče,,Obalno-kraška, Divača, Senožeče
+1168,360000,180,,1990,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Ruše, Log
+1169,89997,55,4,1932,Dvonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,Potrebno obnove,2,"Balkon, Terasa","Vrt/dvorišče, Lopa za shranjevanje, Vrtna uta",G (210+ kWh/m²a),Koroška, Slovenj Gradec, Slovenj Gradec
+1170,275000,339,8,1903,,"Zidana hiša (beton, opeka)",Ostalo,718,0,,,,,,Podravska, Maribor, Center
+1172,205000,138,4,2022,,"Zidana hiša (beton, opeka)",Samostojna,669,0,,2,,,,Podravska, Sveti Jurij v Slovenskih goricah, Jurovski Dol
+1173,195000,250,,1963,,"Zidana hiša (beton, opeka)",Samostojna,0,2016,Popolnoma opremljeno,1,,,,Pomurska, Dobrovnik, Žitkovci
+1175,200000,157,,1890,,"Zidana hiša (beton, opeka)",,0,0,,,,,,Podravska, Pesnica pri Mariboru, Dragučova
+1176,109999,83,,2015,,"Zidana hiša (beton, opeka)",Dvojček,626,0,Popolnoma opremljeno,2,,"Vrt/dvorišče, Zimski vrt",,Pomurska, Ljutomer, Mala Nedelja
+1177,75000,223,4,2014,,"Zidana hiša (beton, opeka)",Samostojna,615,0,Neopremljeno,brez pripadajočega parkirišča,,,,Pomurska, Sv. Jurij ob Ščavnici, Slaptinci
+1179,430000,236,3,2012,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,Terasa,,,Podravska, Dornava, Dornava
+1180,349000,101,5,1850,,"Zidana hiša (beton, opeka)",,176,2020,Delno opremljeno,brez pripadajočega parkirišča,,,,Obalno-kraška, Koper, Koper
+1181,345000,124,5,2009,,,Dvojček,193,0,Popolnoma opremljeno,4,Terasa,Vrt/dvorišče,,Osrednjeslovenska, Brezovica pri Ljubljani, Notranje Gorice
+1182,79000,120,,1993,,"Zidana hiša (beton, opeka)",,49,0,,,,,,Podravska, Lenart v Slovenskih goricah, Lenart v Slovenskih goricah
+1183,155000,117,4,2020,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,272,0,Neopremljeno,,"Balkon, Terasa",,C (35 - 60 kWh/m²a),Podravska, Slovenska Bistrica, Šmartno na Pohorju
+1184,175000,117,4,2020,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,527,0,Neopremljeno,,"Balkon, Terasa",,C (35 - 60 kWh/m²a),Podravska, Slovenska Bistrica, Šmartno na Pohorju
+1185,280000,142,4,2006,,,Samostojna,280,0,,3,,,,Obalno-kraška, Sežana, Križ
+1186,130000,190,,1670,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,1,,,,Savinjska, Slovenske Konjice, Slovenske Konjice
+1187,38000,29,,1985,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Majšperk, Spodnja Sveča
+1188,189000,189,,1901,,,Samostojna,0,0,,,,,EI ni potrebna (334. člen EZ-1),Gorenjska, Škofja Loka, Škofja Loka
+1189,190000,889,,0,,,Samostojna,0,2000,,brez pripadajočega parkirišča,,,,Jugovzhodna Slovenija, Šentjernej, Šentjernej
+1191,150000,377,,2012,,,Samostojna,0,0,,,,,,Savinjska, Šmarje pri Jelšah, Ješovec pri Šmarju
+1192,350000,0,,1900,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,1998,,,"Balkon, Atrij","Vrt/dvorišče, Vrtna uta",EI v izdelavi,Osrednjeslovenska, Škofljica, Lanišče
+1194,43800,95,,1900,,"Zidana hiša (beton, opeka)",Samostojna,0,0,,,,,,Podravska, Destrnik, Dolič
+1195,145000,0,8,1950,Enonadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2005,Delno opremljeno,4,Terasa,"Zimski vrt, Lopa za shranjevanje",D (60 - 105 kWh/m²a),Podravska, Slovenska Bistrica, Slovenska Bistrica
+1196,390000,232,5,1786,,,Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,,Vrt/dvorišče,,Gorenjska, Žirovnica, Žirovnica
+1198,289000,510,,1950,,,Stanovanjsko-poslovna,979,1999,,,,,E (105 - 150 kWh/m²a),Savinjska, Zreče, Zreče
+1200,430000,306,10+,2008,,,Ostalo,379,0,,,,,C (35 - 60 kWh/m²a),Goriška, Kobarid, Kobarid
+1201,55000,140,10+,1890,,,Ostalo,265,0,,,,,G (210+ kWh/m²a),Goriška, Tolmin, Podbrdo
+1204,38000,84,10+,1900,,,Ostalo,342,0,,,,,G (210+ kWh/m²a),Goriška, Vipava, Lozice
+1205,90000,547,10+,1935,,,Ostalo,1,0,,,,,G (210+ kWh/m²a),Goriška, Nova Gorica, Grgarske Ravne
+1207,120000,302,10+,1920,,,Ostalo,500,0,,,,,G (210+ kWh/m²a),Goriška, Miren, Vrtoče
+1208,105000,297,10+,1930,,,Ostalo,0,0,,,,,G (210+ kWh/m²a),Goriška, Kanal ob Soči, Kanal ob Soči
+1209,170000,111,10+,1920,,,Ostalo,0,0,,,,,G (210+ kWh/m²a),Goriška, Šempeter pri Gorici, Vrtojba
+1210,110000,222,10+,2010,,,Ostalo,0,0,,,,,G (210+ kWh/m²a),Goriška, Nova Gorica, Čepovan
+1211,60000,75,10+,1982,,,Ostalo,836,0,,,,,G (210+ kWh/m²a),Goriška, Nova Gorica, Trnovo pri Gorici
+1212,350000,244,,0,Enonadstropna,,Samostojna,0,2006,,,Balkon,,G (210+ kWh/m²a),Podravska, Rače, Rače
+1214,43000,235,5,1990,,"Zidana hiša (beton, opeka)",Samostojna,915,0,Neopremljeno,2,,Vrt/dvorišče,,Pomurska, Ljutomer, Noršinci pri Ljutomeru
+1216,60000,55,,1992,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Popolnoma opremljeno,1,,,,Savinjska, Rogaška Slatina, Prnek
+1217,99000,161,,1963,,"Zidana hiša (beton, opeka)",Samostojna,0,0,Neopremljeno,brez pripadajočega parkirišča,,,,Savinjska, Šentjur, Planina pri Sevnici
+1218,150000,300,5,1727,,"Zidana hiša (beton, opeka)",Samostojna,151,2014,Delno opremljeno,brez pripadajočega parkirišča,,,,Savinjska, Braslovče, Braslovče
+1219,110000,220,,1964,,"Zidana hiša (beton, opeka)",Samostojna,662,1997,,brez pripadajočega parkirišča,,,,Savinjska, Rogaška Slatina, Cerovec pod Bočem
+1221,480000,370,6,1992,Dvonadstropna,"Zidana hiša (beton, opeka)",Dvojček,0,0,,,,,EI v izdelavi,Savinjska, Prebold, Šešče pri Preboldu
+1222,290000,194,5,2013,Dvonadstropna,,Samostojna,0,0,,,Terasa,,,Savinjska, Šentjur, Šentjur
+1223,399990,660,8,1976,Enonadstropna,"Zidana hiša (beton, opeka)",Stanovanjsko-poslovna,0,2000,,,"Balkon, Zaprt balkon, Terasa",,,Podravska, Markovci, Markovci
+1225,148000,87,1,1977,Visokopritlična,,Samostojna,0,2015,,,,,,Osrednjeslovenska, Polhov Gradec, Polhov Gradec
+1226,125000,130,1,1989,Enonadstropna,,Samostojna,0,1997,,,Balkon,,,Posavska, Krško, Krško
+1227,400000,339,4,1929,Večnadstropna,"Zidana hiša (beton, opeka)",Samostojna,0,2007,,,Terasa,,C (35 - 60 kWh/m²a),Savinjska, Celje, Center
+1228,55000,136,1,1960,Pritlična,,Samostojna,0,2010,Neopremljeno,,Terasa,Vrt/dvorišče,G (210+ kWh/m²a),Pomurska, Sv. Jurij ob Ščavnici, Stara Gora
+1229,80000,160,1,0,Pritlična,"Zidana hiša (beton, opeka)",Dvojček,161,1993,Potrebno obnove,,"Balkon, Terasa",,EI ni potrebna (334. člen EZ-1),Pomurska, Ljutomer, Ljutomer
+1230,141000,104,1,1995,Visokopritlična,,Samostojna,0,0,,,,,F (150 - 210 kWh/m²a),Primorsko-notranjska, Cerknica, Osredek
+1231,135000,113,1,1951,Enonadstropna,,Vrstna,236,1995,,,,,,Savinjska, Laško, Laško
+1233,250000,320,1,1978,Pritlična,,Samostojna,600,0,,,"Balkon, Terasa",,,Podravska, Slovenska Bistrica, Spodnja Ložnica
+1234,175000,236,,1967,,,Samostojna,595,2002,,,Balkon,,,Savinjska, Slovenske Konjice, Slovenske Konjice
